@@ -1,763 +1,805 @@
-"type","montant","montant","nom1","jurForme","act1Code","act1Desc","act2Code","act2Desc","localité","dateConsti","adr1","adr2","adr3","adr4"
-"Radiodiffuseur","9773,53","9773,53","TÉLÉVISION RÉGIONALE HAUTE CÔTE-NORD","Organisme sans but lucratif",4839,"DIFFUSION D'ÉMISSION",7749,"DIFFÉRENTES PUBLICITÉS (BABILLARD & PHOTO)","QUÉBEC",1990-05-25,"328 Route 138","Les Escoumins (Québec)",,"G0T1K0"
-"Radiodiffuseur","9752,26","9752,26","CORPORATION DE TÉLÉDIFFUSION RÉGIONALE DE BERTHIER INC.","Organisme sans but lucratif",4812,"-",9611,,"QUÉBEC",1995-04-05,"471 av. Gilles-Villeneuve","Berthierville (Québec)",,"J0K1A0"
-"Éditeur","88718,15","88718,15","9061-6632 QUÉBEC INC.","Société par actions",2831,"PUBLICATION",,,"QUÉBEC",1998-03-25,"101-250 RUE Jacques Plante","Repentigny (Québec)",,"J5Y0L2"
-"Radiodiffuseur","8605,6","8605,6","RADIO BASSE VILLE","Organisme sans but lucratif",4811,"RADIOFFUSION COMMUNAUTAIRE",,,"QUÉBEC",1980-02-08,"556 car. Lépine","Québec (Québec)",,"G1K6L4"
-"Radiodiffuseur","8564,25","8564,25","TÉLÉVISION RIVE-SUD","Organisme sans but lucratif",9619,"ÉMISSIONS DE TÉLÉVISION RÉGIONALE PRODUCTION D'ÉVÉNEMENTS SPÉCIAUX",,,"QUÉBEC",1989-06-16,"893 boul. Guimond","Longueuil (Québec)",,"J4G2M7"
-"Radiodiffuseur","8440,13","8440,13","Télévision communautaire de la région des Appalaches","Organisme sans but lucratif",9611,"PRODUCTION D'ÉMISSIONS DE TÉLÉVISIONS COMMUNAUTAIRE PRODUCTION VIDÉO",9661,"Bingo médias","QUÉBEC",1973-07-30,"228 RUE Notre-Dame O","Thetford Mines (Québec)",,"G6G2X9"
-"Radiodiffuseur","8248,64","8248,64","RADIO BISHOP INC.","Organisme sans but lucratif",4839,"RADIO COMMUNAUTAIRE",,,"QUÉBEC",1987-02-19,"3355 rue College","Sherbrooke (Québec)",,"J1M0B8"
-"Éditeur","82340,43","82340,43","LA COMPAGNIE D'ÉDITION ANDRÉ PAQUETTE INC.","Société par actions",2831,"EDITION",2841,"IMPRESSION","ONTARIO",1958-04-28,"1100, RUE ABERDEEN, C.P. 1000","HAWKESBURY (ONTARIO)",,"K6A3H1"
-"Radiodiffuseur","8162577,65","8162577,65","BELL MÉDIA INC.","Société par actions",4811,"Broadcasting, entertainment and multi-media",,,"ONTARIO",2000-03-09,"299, QUEEN STREET WEST","TORONTO (ONTARIO)",,"M5V2Z5"
-"Radiodiffuseur","7979,12","7979,12","RADIO-ACTON INC.","Organisme sans but lucratif",4811,"RADIODIFFUSION (RADIO COMMUNAUTAIRE)",8541,"FORMATION","QUÉBEC",2002-07-25,"1040 rue Dubois","Acton Vale (Québec)",,"J0H1A0"
-"Radiodiffuseur","7943,66","7943,66","Télévision Communautaire des Basques et du Haut-Pays","Organisme sans but lucratif",4812,"TÉLÉVISION COMMUNAUTAIRE",,,,2014-05-08,"307-15 RUE Notre-Dame E","Trois-Pistoles (Québec)",,"G0L4K0"
-"Éditeur","78520,92","78520,92","9369-0055 Québec inc. (2M.Média)","Société par actions",2841,"-",7741,"-","Québec",2017-11-10,"2584 boul. Le Corbusier","Laval (Québec)",,"H7S2K8"
-"Éditeur","744697,89","744697,89","ICIMÉDIAS INC.","Société par actions",9999,"Gestion de journaux et publicités",,,"Québec",2017-07-03,"25 rue Saint-Jacques","Saint-Jean-sur-Richelieu (Québec)",,"J3B2J6"
-"Éditeur","741,81","741,81","COOPERATIVE DU JOURNAL L'OIE BLANCHE","Coopérative",2841,"ÉDITION D'UN JOURNAL",,,"QUÉBEC",1990-07-04,"224 ch. des Poirier","Montmagny (Québec)",,"G5V3X8"
-"Radiodiffuseur","7376,25","7376,25","LA RADIO COMMUNAUTAIRE DE FERMONT INC.","Organisme sans but lucratif",4813,"RADIODIFFUSION",,,"QUÉBEC",1978-01-05,"20 place Daviault","Fermont (Québec)",,"G0G1J0"
-"Radiodiffuseur","7376,25","7376,25","Télévision du Sud-Ouest","Organisme sans but lucratif",4812,"TÉLÉDISTRIBUTION PRODUCTION AUDIO-VISUEL TÉLÉVISION ETC...",,,"QUÉBEC",1987-01-19,"29 boul. Saint-Francis","Châteauguay (Québec)",,"J6J1Y2"
-"Éditeur","72318,17","72318,17","JOURNAL LE NORD INC.","Société par actions",2812,"JOURNAL",,,"Québec",2017-08-15,"101-250 RUE Jacques Plante","Repentigny (Québec)",,"J5Y0L2"
-"Radiodiffuseur","722610,22","722610,22","COGECO INC.","Société par actions",7215,"COMPAGNIE DE PORTEFEUILLE",,,"QUÉBEC",1957-07-24,"3301-1 rue Place Ville-Marie","Montréal (Québec)",,"H3B3N2"
-"Radiodiffuseur","7007,44","7007,44","RADIO BELLECHASSE-ETCHEMINS","Organisme sans but lucratif",4811,"RADIODIFFUSION PRODUCTION",,,"QUÉBEC",1983-11-18,"1540 Route 277","Lac-Etchemin (Québec)",,"G0R1S0"
-"Radiodiffuseur","6970,56","6970,56","RADIO & TELEVISION COMMUNAUTAIRE HAVRE ST-PIERRE","Organisme sans but lucratif",4814,"Câblodistribution Télécommunication",4811,"Station de Radio FM","QUÉBEC",1981-08-04,"992, RUE DU BOULEAU","HAVRE-ST-PIERRE (QUÉBEC)",,"G0G1P0"
-"Radiodiffuseur","6915,24","6915,24","TÉLÉVISION COMMUNAUTAIRE DE LA BASSE-LIÈVRE INC.","Organisme sans but lucratif",4812,"PRODUCTION ET DIFFUSION D'ÉMISSIONS T.V. LOCALES",,,"QUÉBEC",1975-05-09,"150 rue Maclaren E","Gatineau (Québec)",,"J8L1K1"
-"Éditeur","6622213,91","6622213,91","POSTMEDIA NETWORK INC.","Société par actions",2839,"JOURNAUX (PUBLICATION)/NEWS MEDIA",,,"CANADA",2010-04-27,"12th F-365 BLOOR STREET E","TORONTO (ONTARIO)",,"M4W3L4"
-"Radiodiffuseur","65334,65","65334,65","CHAU-TV COMMUNICATIONS LTÉE","Société par actions",4812,"STATION DE TÉLÉVISION PRIVÉE",,,"CANADA",2000-05-11,"103 rue des Équipements","Rivière-du-Loup (Québec)",,"G5R5W7"
-"Radiodiffuseur","6454,22","6454,22","Radio Shawinigan Inc.","Organisme sans but lucratif",4811,"RADIO COMMUNAUTAIRE",,,"QUÉBEC",2004-06-29,"47 rue Saint-Thomas","Louiseville (Québec)",,"J5V2A3"
-"Radiodiffuseur","6205,98","6205,98","RADIO COMMUNAUTAIRE FRANCOPHONE DE MONTRÉAL INC.","Organisme sans but lucratif",4839,"RÉALISATION PROGRAMMATION RADIOPHONIQUE",8511,"FORMATION DES MÉTIERS DE LA RADIO","QUÉBEC",1978-05-25,"2 rue Sainte-Catherine E","Montréal (Québec)",,"H2X1K4"
-"Radiodiffuseur","6163,43","6163,43","SOCIÉTÉ D'INFORMATION LAC-ST-JEAN","Organisme sans but lucratif",9611,"PRODUCTIONS AUDIOVISUELLES",,,"QUÉBEC",1996-02-16,"218 3e Avenue","Dolbeau-Mistassini (Québec)",,"G8L1V9"
-"Éditeur","60370,36","60370,36","SHERBROOKE RECORD LTD.","Société par actions",2839,"ÉDITION",2811,"IMPRIMERIE","NOUVELLE-ÉCOSSE",2000-12-06,"700 , West Georgia Street","25th Floor, Vancouver (British Columbia)",,"V7Y1B3"
-"Éditeur","58621,2","58621,2","COOP DE SOLIDARITÉ PIVOT","Coopérative",2839,"Édition et publication du média d'information Web Pivot",,,,2020-07-16,"04-4284 RUE de La Roche","Montréal (Québec)",,"H2J3H9"
-"Éditeur","57205,85","57205,85","4437594 CANADA INC.","Société par actions",7741,"PUBLISHING SERVICES",,,"CANADA",2007-10-17,"815, RIVERSIDE DRIVE","WAKEFIELD (QUEBEC)",,"J0X3G0"
-"Éditeur","56834,94","56834,94","9439-7460 Québec inc.","Société par actions",4839,"Exploitation d'un journal électronique",,,"Québec",2021-04-12,"101 rue Lavoie","Rimouski (Québec)",,"G5L5Y2"
-"Éditeur","56128,97","56128,97","LES VERSANTS DU MONT-BRUNO INC.","Société par actions",2839,"JOURNAL HEBDOMADAIRE",,,"CANADA",1999-06-14,"1488 rue Montarville","Saint-Bruno-de-Montarville (Québec)",,"J3V3T5"
-"Éditeur","55816,93","55816,93","VÉLO QUÉBEC ÉDITIONS","Organisme sans but lucratif",2849,"ÉDITION DE REVUES ET MAGAZINES",,,"QUÉBEC",2009-03-31,"1251 rue Rachel E","Montréal (Québec)",,"H2J2J9"
-"Éditeur","551729,84","551729,84","REUTERS CANADA LIMITÉE","Société par actions",9999,"COUPURES DE PRESSE, AGENCE",,,"ONTARIO",1991-01-01,"19 Duncan Street","Toronto (Ontario)",,"M5H3H1"
-"Éditeur","551185,28","551185,28","NumériQ inc.","Société par actions",4839,"-",,,,2015-07-28,"612 RUE Saint-Jacques","Montréal (Québec)",,"H3C4M8"
-"Éditeur","54996,21","54996,21","LE JOURNAL DE LÉVIS, COOPÉRATIVE DE SOLIDARITÉ","Coopérative",2839,"PUBLICATION DE JOURNAL",,,"QUÉBEC",2001-10-11,"580 boul. Alphonse-Desjardins","Lévis (Québec)",,"G6V5T2"
-"Radiodiffuseur","53609,04","53609,04","Leclerc communication inc.","Société par actions",4811,"-",,,,2011-08-31,"505-815 BOUL. Lebourgneuf","Québec (Québec)",,"G2J0C1"
-"Éditeur","52612,96","52612,96","LE REFLET TÉMISCAMIEN INC.","Société par actions",2839,"RÉDACTION ET PUBLICATION D'UN HEBDOMADAIRE SANS IMPRESSION",6582,"Boutique souvenir et produits régionaux","QUÉBEC",2001-06-20,"22 rue Sainte-Anne","Ville-Marie (Québec)",,"J9V2B7"
-"Radiodiffuseur","51633,76","51633,76","SOCIÉTÉ CRIE DES COMMUNICATIONS DE LA BAIE JAMES","Organisme sans but lucratif",9861,"OPÉRATION POSTES RADIO COMMUNAUTAIRES & RÉGIONALES",,,"CANADA",1981-03-20,"23 rue Petawabano","Mistissini (Québec)",,"G0W1C0"
-"Éditeur","49243,27","49243,27","Journal de la Rue / Reflet de Société","Organisme sans but lucratif",2841,"CRÉATION DE TEXTES, ÉDITION ET DISTRIBUTION DE TEXTES EN JOURNAL  Milieu de vie pour jeune marginalisé",9211,"restaurant avec permis d'alcool et salle de spectacle","QUÉBEC",1992-09-14,"12-3894 RUE Sainte-Catherine E","Montréal (Québec)",,"H1W2G4"
-"Éditeur","49006,53","49006,53","3091-2703 QUÉBEC INC. (Groupe Hom)","Société par actions",2839,"Publication de magazines imprimés et numériques / sites web",,,"QUÉBEC",1993-05-13,"1674 rue Cartier","Montréal (Québec)",,"H2K4E2"
-"Éditeur","479622,22","479622,22","MÉDIALO INC.","Société par actions",2839,"MAISON D'ÉDITION DE JOURNAUX ET MAGASINES",,,"Québec",2017-11-27,"101-250 RUE Jacques Plante","Repentigny (Québec)",,"J5Y0L2"
-"Éditeur","46852,13","46852,13","BERA Communication Média inc.","Société par actions",9999,"Médias d'information en ligne (numérique) et Plateformes d'emplois",,,"Québec",2018-07-01,"126-3000 RUE Omer-Lavallée","Montréal (Québec)",,"H1Y3R8"
-"Radiodiffuseur","46470,38","46470,38","4517466 Canada inc.","Société par actions",4812,"-",,,"Canada",2009-05-04,"4-9525 RUE Christophe-Colomb","Montréal (Québec)",,"H2M2E2"
-"Éditeur","458200,45","458200,45","URBANIA MÉDIA INC.","Société par actions",9611,"-",2839,"-","QUÉBEC",2009-10-01,"100-914 RUE Notre-Dame O","Montréal (Québec)",,"H3C1J9"
-"Éditeur","43892,8","43892,8","Imprimerie Le Radar Inc.","Société par actions",4839,"-",,,"Québec",2015-04-09,"1073 CH. de Lavernière","CP 8183","Cap-aux-Meules (Québec)","G4T1R3"
-"Éditeur","43727,08","43727,08","9040-9681 QUÉBEC INC.","Société par actions",2839,"PUBLICATION DES JOURNEAUX PRÉPARATION DES ANNONCES COMMERCIALES",,,"QUÉBEC",1996-09-09,"C10-181 rue Principale","Gatineau (Québec)",,"J9H6A6"
-"Radiodiffuseur","423361,37","423361,37","La Chaîne d'affaires publiques par câble inc.","Loi canadienne sur les sociétés par actions","-","-","-","-","-","-","45 O'CONNOR ST SUITE 1750","OTTAWA ON",,"K1P1A4"
-"Radiodiffuseur","4220,07","4220,07","TÉLÉVISION COMMUNAUTAIRE DES BOIS-FRANCS","Organisme sans but lucratif",4814,"PRODUCTION D'ÉMISSIONS DE TÉLÉVISION COMMUNAUTAIRES",4812,"Diffusion d'émissions de télévision","QUÉBEC",1974-10-30,"247 rue Notre-Dame E","Victoriaville (Québec)",,"G6P4A2"
-"Éditeur","41872,57","41872,57","JOURNAL ""LE COLLECTIF""","Organisme sans but lucratif",2839,"INFORMATION ; JOURNAL ÉTUDIANT",7741,"PUBLICITÉ (COMME MOYEN DE FINANCEMENT)","QUÉBEC",1981-11-13,"E11020-2500 BOUL. de l'Université","CP J1K 2R1","Sherbrooke (Québec)","J1K2R1"
-"Radiodiffuseur","4184,6","4184,6","RADIO COMMUNAUTAIRE TÊTE-À-LA-BALEINE","Organisme sans but lucratif",4839,"PROMOUVOIR LE DÉVELOPPEMENT ET LA MISE SUR PIED D'UNE RADIO ENCOURAGER ET FAVORISER CE MOYEN DE COMMUNICATION",,,"QUÉBEC",1998-06-04,"152 rue de la Salle","Côte-Nord-du-Golfe-du-Saint-Laurent",,"(Québec) G0G2W0"
-"Radiodiffuseur","4085,31","4085,31","La télé du Rocher-Percé","Organisme sans but lucratif",4814,"DIFFUSION D'UN BINGO TÉLÉVISÉ ET DES ÉMISSIONS EX: INFORMA.-VARIÉTÉ-MUSIQUE",,,"QUÉBEC",1978-01-13,"205B rue du Parc","Grande-Rivière (Québec)",,"G0C1V0"
-"Éditeur","40052,69","40052,69","JOURNAL LE CHARLEVOISIEN INC.","Société par actions",2841,"Vente de publicité web",7741,,"QUÉBEC",1996-01-18,"45 boul. Raymond-Mailloux","Baie-Saint-Paul (Québec)",,"G3Z1W2"
-"Éditeur","39520,88","39520,88","Monquartier Média Inc.","Société par actions",7721,"Média / journal en ligne",7749,"Services publicitaires web",,2012-04-12,"1984 4e Avenue","Québec (Québec)",,"G1J3C9"
-"Éditeur","39,46","39,46","Revue l'Esprit libre","Organisme sans but lucratif",4839,"-",2831,"-",,2014-12-17,"133 2e-et-3e Rang","Saint-Camille (Québec)",,"J0A1G0"
-"Éditeur","38818,54","38818,54","ESTRIEPLUS.COM INC.","Société par actions",9999,"JOURNAL WEB",6921,"COMMERCE ÉLECTRONIQUE","CANADA",2007-08-17,"105-175 rue Queen","Sherbrooke (Québec)",,"J1M1K1"
-"Éditeur","37753,18","37753,18","JOURNAL L'ÉTINCELLE INC.","Société par actions",2812,"JOURNAL",,,,2012-06-11,"193 rue Saint-Georges","Windsor (Québec)",,"J1S1J7"
-"Radiodiffuseur","3751,96","3751,96","RADIO CKUT","Organisme sans but lucratif",4813,"RADIODIFFUSION",,,"CANADA",1988-07-18,"3647 rue University","Montréal (Québec)",,"H3A2B3"
-"Radiodiffuseur","374533,96","374533,96","LE RÉSEAU DE TÉLÉVISION DES PEUPLES AUTOCHTONES","Organisme sans but lucratif",6224,"ATELIER DE RÉPARATION DE POSTES DE TÉLÉVISION ET DE RADIO ET D'APP. STÉRÉO.",,,"CANADA",1989-06-12,"339 Portage Avenue","Winnipeg (Manitoba)",,"R3B2C3"
-"Radiodiffuseur","3688,13","3688,13","LA RADIO COMMUNAUTAIRE DU COMTÉ","Organisme sans but lucratif",4813,"EXPLOITATION D'UNE STATION DE RADIO COMMUNAUTAIRE",,,"QUÉBEC",1983-12-01,"323 montée Industrielle-et-Commerciale","Rimouski (Québec)",,"G5M1A7"
-"Éditeur","35535,65","35535,65","ATELIER 10 INC.","Société par actions",2831,"Édition de livres et de magazines.",,,,2011-03-23,"156 rue Beaubien E","Montréal (Québec)",,"H2S1R2"
-"Éditeur","35070,05","35070,05","IMPRIMERIE PONTIAC INC.","Société par actions",2819,"Publication d'un hebdomadaire; impression commerciale",,,"Québec",1962-01-29,"133, RUE CENTRE BP 4300","SHAWVILLE QC",,"J0X2Y0"
-"Radiodiffuseur","3442468,81","3442468,81","ROGERS MEDIA INC.","Société par actions",7741,"TÉLÉVISION, NOUVELLES ET DIVERTISSEMENT",7721,"GÉRANCE DE PORTAIL INTERNET","CANADA",2010-10-01,"10 Fl.-333 ST Bloor E","Toronto (Ontario)",,"M4W1G9"
-"Éditeur","33752,16","33752,16","LES ÉDITIONS PROTÉGEZ-VOUS","Organisme sans but lucratif",2839,"ÉDITION DE MAGAZINES ÉDITION DE GUIDES PRATIQUES",,,"QUÉBEC",2001-03-26,"400-2120 rue Sherbrooke E","Montréal (Québec)",,"H2K1C3"
-"Éditeur","33228,95","33228,95","AGENCE SCIENCE-PRESSE","Organisme sans but lucratif",7799,"RÉDACTION DOMAINE SCIENTIFIQUE",,,"QUÉBEC",1978-12-07,"200-5455 av. De Gaspé","Montréal (Québec)",,"H2T3B3"
-"Éditeur","32828,85","32828,85","Services d'information communautaire de la Vallée de la Châteauguay","Organisme sans but lucratif",9999,"Services d'information communautaire",,,,2019-02-26,"3202 rang de Tullochgorum","Ormstown (Québec)",,"J0S1K0"
-"Éditeur","319615,67","319615,67","Alta Newspaper Group Limited Partnership",,,,,,,,,,,
-"Éditeur","31865,68","31865,68","3494586 CANADA INC.(Beesum Communications)","Société par actions",7799,"COMMUNICATIONS INCLUDING PRINT MULTI MEDIA AND TELEVISION",,,"CANADA",1998-06-17,"403-4529 rue Clark","Montréal (Québec)",,"H2T2T3"
-"Radiodiffuseur","2978,87","2978,87","TÉLÉ-GASPÉ","Organisme sans but lucratif",4814,"RÉSEAU DE COMMUNICATION COMMUNAUTAIRE - T.V.",8591,"Formation, apprentissage et information","QUÉBEC",2009-01-05,"494 MONTEE Wakeham","Gaspé (Québec)",,"G4X2P5"
-"Radiodiffuseur","297457,98","297457,98","RNC MÉDIA INC.","Société par actions",4810,"RADIODIFFUSION TÉLÉDIFFUSION",,,"QUÉBEC",1948-01-17,"935-1 PL Westmount Square","Westmount (Québec)",,"H3Z2P9"
-"Éditeur","29356,57","29356,57","COOPÉRATIVE DU COURRIER DE PORTNEUF","Coopérative",2849,"PUBLIER UN JOURNAL HEBDOMADAIRE",,,"QUÉBEC",1982-11-13,"276 rue Notre-Dame","Donnacona (Québec)",,"G3M1G7"
-"Éditeur","2922667,17","2922667,17","LA PRESSE INC.","Société par actions",2841,"Impression et édition combinées",,,,2018-06-01,"750 boul. Saint-Laurent","Montréal (Québec)",,"H2Y2Z4"
-"Éditeur","28078,14","28078,14","JOURNAL LE PLACOTEUX, COOPÉRATIVE DE SOLIDARITÉ","Coopérative",2839,"PUBLICATION D'UN HEBDOMADAIRE",8372,"DÉVELOPPEMENT ÉCONOMIQUE","QUÉBEC",2003-06-18,"409 rue Taché","Saint-Pascal (Québec)",,"G0L3Y0"
-"Radiodiffuseur","27802,79","27802,79","TVRM - TÉLÉVISION RÉGIONALE DES MOULINS","Organisme sans but lucratif",4814,"TÉLÉVISION COMMUNAUTAIRE PRODUCTION DE VIDÉO COMMUNAUTAIRE",,,"QUÉBEC",1995-10-31,"688 montée Masson","Terrebonne (Québec)",,"J6W2Z9"
-"Éditeur","2669166,9","2669166,9","COOPÉRATIVE NATIONALE DE L'INFORMATION INDÉPENDANTE, COOP DE SOLIDARITÉ","Coopérative",2839,"Édition de journaux",,,,2019-12-11,"310-420 boul. Charest E","Québec (Québec)",,"G1K8M4"
-"Éditeur","257839,67","257839,67","10320633 CANADA INC. (Gravité Media)","Société par actions",2841,"Édition et publication médias",,,,2017-07-13,"#215-215 BOUL. Jean-Leman","Candiac (Québec)",,"J5R6Z8"
-"Radiodiffuseur","2550771,61","2550771,61","GROUPE TVA INC.","Société par actions",4812,"TÉLÉVISION,ÉDIT. ET PUB. DE MAGAZINES, DISTRIBUTION DE PRO. AUDIO-VISUELS",,,"QUÉBEC",1960-03-29,"612 rue Saint-Jacques","Montréal (Québec)",,"H3C4M8"
-"Éditeur","24747,9","24747,9","9030-2944 QUÉBEC INC.","Société par actions",2841,"On fait l'édition de quatre journaux communautaires",2819,"-","QUÉBEC",1996-01-19,"304-3860 boul. Notre-Dame","Laval (Québec)",,"H7V1S1"
-"Éditeur","227276,64","227276,64","Mishmash Media Inc.","Société par actions",2839,"Production média et édition",2849,"-",,2018-08-01,"520-1450 rue City Councillors","Montréal (Québec)",,"H3A2E6"
-"Radiodiffuseur","22128,75","22128,75","RADIO MATAGAMI","Organisme sans but lucratif",4811,"ORGANISME DE RADIODIFFUSION COMMUNAUTAIRE",,,"QUÉBEC",1999-06-30,"110 boul. Matagami","Matagami (Québec)",,"J0Y2A0"
-"Éditeur","220040,09","220040,09","D B C COMMUNICATIONS INC.","Société par actions",2841,"ÉDITION ET PUBLICATION DE JOURNAUX",5991,"DISTRIBUTION DE JOURNAUX ET CIRCULAIRES","QUÉBEC",1999-04-14,"655 av. Sainte-Anne","Saint-Hyacinthe (Québec)",,"J2S5G4"
-"Éditeur","21646,52","21646,52","Invention Media corp.","Société par actions",9999,"Média d'information numérique",7749,"Vente de publicité, de commandite et de contenus promotionnels à des entreprises","Canada",2012-03-08,"245 boul. Gouin E","Montréal (Québec)",,"H3L1A9"
-"Radiodiffuseur","21561,35","21561,35","COOP DE SOLIDARITÉ RADIO COMMUNAUTAIRE DE LA MRC DE MASKINONGÉ","Coopérative",4811,"-",4839,"-","QUÉBEC",2004-03-15,"47 rue Saint-Thomas","Louiseville (Québec)",,"J5V2A3"
-"Éditeur","2043927,27","2043927,27","MédiaQMI inc.","Société par actions",9999,"Services liés aux médias",,,,2014-06-13,"612 RUE Saint-Jacques","Montréal (Québec)",,"H3C4M8"
-"Radiodiffuseur","20256,32","20256,32","RADIO COMMUNAUTAIRE F.M. DE LA HAUTE-GATINEAU INC.","Organisme sans but lucratif",4811,"RADIODIFFUSION",,,"QUÉBEC",1975-01-13,"158 rue Laurier","Maniwaki (Québec)",,"J9E2K7"
-"Radiodiffuseur","20075,46","20075,46","RADIO MF CHARLEVOIX","Organisme sans but lucratif",4811,"RADIO DIFFUSION",,,"QUÉBEC",1981-07-14,"315 ch. Cartier N","Saint-Hilarion (Québec)",,"G0A3V0"
-"Radiodiffuseur","19362,66","19362,66","RADIO COMMUNAUTAIRE DE LA RIVE-SUD INC.","Organisme sans but lucratif",4811,"RADIODIFFUSION",,,"QUÉBEC",1984-05-15,"91, RUE SAINT-JEAN","LONGUEUIL QC",,"J4H2W8"
-"Éditeur","185609,26","185609,26","GROUPE CONTEX INC.","Société par actions",9999,"Création et mise en marché d’évènements d’affaires et édition de magazines et sites web",,,,2019-07-02,"501-355 RUE Sainte-Catherine Ouest","Montréal (Québec)",,"H3B1A5"
-"Éditeur","18545,14","18545,14","La Converse","Organisme sans but lucratif",2839,"-",,,,2021-04-30,"301-7012 boul. Saint-Laurent","Montréal (Québec)",,"H2S3E2"
-"Radiodiffuseur","18511,55","18511,55","DIFFUSION COMMUNAUTAIRE DES ÎLES INC.","Organisme sans but lucratif",4811,"RADIODIFFUSION",,,"QUÉBEC",1975-09-03,"1172 ch. de La Vernière","Les Îles-de-la-Madeleine (Québec)",,"G4T3E6"
-"Éditeur","17941,44","17941,44","LA GAZETTE DE LA MAURICIE","Organisme sans but lucratif",2839,"FAVORISER LA PARTICIPATION ET LE DÉVELOPPEMENT DES MÉDIAS COMMUNAUTAIRES",,,"QUÉBEC",1984-08-15,"942 rue Sainte-Geneviève","Trois-Rivières (Québec)",,"G9A3X6"
-"Radiodiffuseur","17731,37","17731,37","COOPÉRATIVE DE SOLIDARITÉ CSUR LA TÉLÉ","Coopérative",9611,"PRODUCTION D'ÉMISSIONS DE TÉLÉVISION COMMUNAUTAIRE/PUBLICITÉ/VIDEO PROMOT.",,,"QUÉBEC",2010-03-08,"186 ch. de l'Anse","Vaudreuil-Dorion (Québec)",,"J7V8P3"
-"Radiodiffuseur","1773,14","1773,14","RADIO COOPÉRATIVE DE COATICOOK, COOP DE SOLIDARITÉ","Coopérative",4811,"RADIO COMMUNAUTAIRE",7721,"PORTAIL WEB","QUÉBEC",2007-08-07,"102 rue Child","Coaticook (Québec)",,"J1A2B3"
-"Radiodiffuseur","16135,55","16135,55","COOPÉRATIVE DE SOLIDARITÉ RADIO COMMUNAUTAIRE NICOLET-YAMASKA/ BÉCANCOUR","Coopérative",4811,"-",,,"QUÉBEC",2000-06-22,"4300 av. Arseneault","Bécancour (Québec)",,"G9H1V8"
-"Radiodiffuseur","16064,62","16064,62","DIFFUSION COMMUNAUTAIRE BAIE DES CHALEURS INC.","Organisme sans but lucratif",4811,"RADIODIFFUSION (EXPLOITATION D'UNE STATION-RADIO)",,,"QUÉBEC",1980-10-14,"1645 boul. Perron","Carleton-sur-Mer (Québec)",,"G0C1J0"
-"Éditeur","160553,59","160553,59","11802607 CANADA INC.","Société par actions",9999,"Nouvelles et agence d'information",,,,2019-12-20,"3000-662 av. Victoria","Saint-Lambert (Québec)",,"J4P2J6"
-"Éditeur","16043,52","16043,52","AUTOUR DE L'ÎLE","Organisme sans but lucratif",2839,"PRODUCTION D'UN JOURNAL D'INFORMATION",,,"QUÉBEC",1997-03-25,"115-517 rte des Prêtres","Saint-Pierre-de-l'Île-d'Orléans (Québec)",,"G0A4E0"
-"Éditeur","15783,1","15783,1","9057-3023 QUÉBEC INC.","Société par actions",2839,"JOURNAL PUBLICITÉ",,,"QUÉBEC",1997-11-26,"710-6020 RUE Jean-Talon E","Saint-Léonard (Québec)",,"H1S3B1"
-"Radiodiffuseur","15663,9","15663,9","COOPÉRATIVE DE TRAVAIL DE LA RADIO DE GRANBY","Coopérative",4811,"-",,,"QUÉBEC",1996-05-15,"35-135 rue Principale","Granby (Québec)",,"J2G2V1"
-"Radiodiffuseur","15163,87","15163,87","COMITÉ DE LA RADIO ÉTUDIANTE UNIVERSITAIRE DE SHERBROOKE (CREUS)","Organisme sans but lucratif",4811,"RADIODIFFUSION",,,"QUÉBEC",1999-09-21,"2500 boul. de l'Université","Sherbrooke (Québec)",,"J1K2R1"
-"Éditeur","1495180,44","1495180,44","LE DEVOIR INC.","Société par actions",2839,"ÉDITION DU JOURNAL LE DEVOIR",,,"QUÉBEC",1992-10-29,"800-1265 rue Berri","Montréal (Québec)",,"H2L4X4"
-"Radiodiffuseur","14800,73","14800,73","9238476 Canada Inc.","Société par actions",4811,"Radio Station",,,,2015-03-30,"200-129 rue Alexandre","Salaberry-de-Valleyfield (Québec)",,"J6S3K5"
-"Radiodiffuseur","14383,69","14383,69","TÉLÉVISION COMMUNAUTAIRE DE L'ÉRABLE","Organisme sans but lucratif",4812,"PRODUCTION ET DIFFUSION D'ÉMISSIONS DE TÉLÉVISION COMMUNAUTAIRE",9611,"PRODUCTION DE VIDÉOS ÉDUCATIFS, CORPORATIFS OU PROMOTIONNELS","QUÉBEC",1977-06-14,"2264 rue de la Coopérative","Plessisville (Québec)",,"G6L1X2"
-"Radiodiffuseur","14185,1","14185,1","RADIO NORD-JOLI INC.","Organisme sans but lucratif",4811,"RADIO COMMUNAUTAIRE",,,"QUÉBEC",1981-04-28,"211 RUE Saint-Pierre N","Joliette (Québec)",,"J6E0X6"
-"Radiodiffuseur","13830,47","13830,47","RADIO GASPESIE INC.","Organisme sans but lucratif",4811,"RADIODIFFUSION",,,"QUÉBEC",1976-01-20,"162 rue Jacques-Cartier","Gaspé (Québec)",,"G4X1M9"
-"Radiodiffuseur","13016,25","13016,25","LA TELEVISION COMMUNAUTAIRE DE WATERLOO","Organisme sans but lucratif",4812,"-",,,"QUÉBEC",1985-04-30,"417 rue de la Cour","Waterloo (Québec)",,"J0E2N0"
-"Radiodiffuseur","12908,44","12908,44","COMMUNICATION DU VERSANT NORD (CISM FM) INC.","Organisme sans but lucratif",4811,"RADIODIFFUSION",9631,"PRODUCTION SPECTACLES","QUÉBEC",1990-12-20,"C1509-2332 boul. Édouard-Montpetit","Montréal (Québec)",,"H3T1J4"
-"Éditeur","125775,53","125775,53","L'Express Drummondville inc.","Société par actions",2839,"Édition de journaux hebdomadaires",,,,2017-08-11,"201-575 rue des Écoles","Drummondville (Québec)",,"J2B1J6"
-"Éditeur","124899,56","124899,56","Neomedias agence de marketing web S.E.N.C.","Société en commandite",7749,"Nous  offrons des services de marketing web tel que créations de site web à but promotionel, page de medias sociaux à but promotionel",7741,"Nous offrons aussi des servicse tel que le marketing d'influenceur, gestion de campagne de marketing web tel que Adword et FB ads",,2017-05-09,"1109 rue Joliette","Longueuil (Québec)",,"J4K4W2"
-"Radiodiffuseur","12365,86","12365,86","COOPÉRATIVE RADIO WEB MÉDIA DES SOURCES","Coopérative",4811,"Acquisition et début des opérations en février 2019",7742,"Multimédia incluant Radio FM, affichage extérieur numérique, web et média-sociaux",,2018-01-18,"1 rue Hilaire","Val-des-Sources (Québec)",,"J1T0A3"
-"Radiodiffuseur","11915,48","11915,48","TELEVISION COMMUNAUTAIRE 3 INC.","Organisme sans but lucratif",9611,"PRODUCTION VIDÉO",,,"QUÉBEC",1988-04-05,"97, ROUTE 132, C.P. 39","SAINT-GODEFROY (QUÉBEC)",,"G0C3C0"
-"Radiodiffuseur","11844,56","11844,56","RADIO CJFP (1986) LTÉE","Société par actions",4811,"RADIODIFFUSION",,,"CANADA",1986-08-27,"64 rue de l'Hôtel-de-Ville","Rivière-du-Loup (Québec)",,"G5R1L5"
-"Éditeur","118402,85","118402,85","LES ÉDITIONS BLAINVILLE DEUX-MONTAGNES INC.","Société par actions",2839,"ÉDITIONS, COMPOSITION ET RELIURE. Web",4842,"MESSAGERIES","QUÉBEC",1970-08-27,"53 rue Saint-Eustache","Saint-Eustache (Québec)",,"J7R2L2"
-"Radiodiffuseur","11433,19","11433,19","SONÈME (2007) INC.","Société par actions",4811,"STATION DE RADIO",,,"QUÉBEC",2007-12-14,"456 rue du Pont","Mont-Laurier (Québec)",,"J9L2R9"
-"Radiodiffuseur","11064,38","11064,38","DIFFUSION COMMUNAUTAIRE DE LA MITIS INC.","Organisme sans but lucratif",4812,"TÉLÉVISION COMMUNAUTAIRE, PRODUCTION DE VIDÉOS CORPORATIFS",9611,"PRODUCTION VIDÉO","QUÉBEC",1975-12-18,"1806 rue Isidore-LeChasseur","Mont-Joli (Québec)",,"G5H2Z4"
-"Éditeur","108950,74","108950,74","Trium Médias Inc.","Société par actions",7749,"Marketing",2841,"Édition","Québec",2017-07-12,"654 boul. des Cascades","Alma (Québec)",,"G8B0G2"
-"Radiodiffuseur","10833,87","10833,87","RADIO BEAUCE INC.","Société par actions",4811,"POSTE DE RADIO",,,"QUÉBEC",1994-09-01,"11760, 3E AVENUE, C.P. 100","SAINT-GEORGES (QUÉBEC)",,"G5Y5C4"
-"Radiodiffuseur","10372,85","10372,85","TÉLÉVISION COMMUNAUTAIRE DES BASSES-LAURENTIDES","Organisme sans but lucratif",4812,"DÉFINIR ET OPÉRER CANAL DE TÉLÉDISTRIBUTION CONSACRÉ À LA TÉLÉVISION COMMUNAUTAIRE À L'INTENTION DE LA COLLECTIVITÉ DU TERRITOIRE DÉSERVI",,,"QUÉBEC",1991-07-30,"101-33 rue Blainville O","Sainte-Thérèse (Québec)",,"J7E1X1"
-"Radiodiffuseur","103326,64","103326,64","TÉLÉ INTER-RIVES LTÉE","Société par actions",4812,"STATION DE TÉLÉVISION PRIVÉE",,,"CANADA",1978-04-04,"15 rue de la Chute","Rivière-du-Loup (Québec)",,"G5R5B7"
-"Radiodiffuseur","10142,35","10142,35","COOPÉRATIVE DES TRAVAILLEURS CHNC","Coopérative",4811,"PRODUCTION ET DIFFUSION D'UN CONTENU RADIOPHONIQUE",,,"QUÉBEC",2006-02-24,"3 BOUL. Gérard-D.-Levesque E","Paspébiac (Québec)",,"G0C2K0"
-"Radiodiffuseur",6860000,6860000,"SOCIÉTÉ RADIO-CANADA","Organisme sans but lucratif",8164,"GESTION DES LOISIRS & DE LA CULTURE",,,"CANADA",1936-11-02,"181 RUE Queen","Ottawa (Ontario)",,"K1P1K9"
-"Éditeur",142332,142332,"ACADEMIC JOURNALISM SOCIETY","Organisme sans but lucratif",9999,"Journalisme",,,,2017-03-22,"2200-700 WEST GEORGIA STREET","Vancouver (BC)",,"V7Y1K8"
-"Éditeur",108059,108059,"LES ÉDITIONS INFO DIMANCHE INC.","Société par actions",2839,"ÉDITION D'UN JOURNAL HEBDOMADAIRE",2819,"INFOGRAPHIE","QUÉBEC",1992-07-22,"72 rue Fraser","Rivière-du-Loup (Québec)",,"G5R1C6"
-"Radiodiffuseur",23604,23604,"SOCIÉTÉ DE COMMUNICATION ATIKAMEKW-MONTAGNAIS","Organisme sans but lucratif",4811,"RADIODIFFUSION ET RÉGIE PUBLICITAIRE",,,"CANADA",1983-11-04,"565 rue Chef Stanislas-Koska","Wendake (Québec)",,"G0A4V0"
-"Holding",0,0,"RADIO CENTRE-VILLE SAINT-LOUIS","Organisme sans but lucratif",4811,"-",,,"QUÉBEC",1972-04-20,"5212 boul. Saint-Laurent","Montréal (Québec)",,"H2T1S1"
-"Holding",0,0,"TÉLÉVISION COMMUNAUTAIRE VENTS ET MARÉES","Organisme sans but lucratif",4814,"TÉLÉVISION COMMUNAUTAIRE:COMMUNICATION-TÉLÉVISUELLE",,,"QUÉBEC",1974-06-11,"205 rue Saint-Étienne","La Malbaie (Québec)",,"G5A1T1"
-"Holding",0,0,"RADIO COMMUNAUTAIRE DU SAGUENAY INC.","Organisme sans but lucratif",4811,"RADIO-STATION COMMUNAUTAIRE",,,"QUÉBEC",1975-02-10,"3877 boul. Harvey","Saguenay (Québec)",,"G7X0A6"
-"Holding",0,0,"LA TELEVISION COMMUNAUTAIRE DE ST-RAYMOND, INC.","Organisme sans but lucratif",4839,"TÉLÉVISION COMMUNAUTAIRE",,,"QUÉBEC",1972-09-05,"235 rue Saint-Cyrille","Saint-Raymond (Québec)",,"G3L1T2"
-"Holding",0,0,"JOURNAL COMMUNAUTAIRE LE REFLET DE LINGWICK-GOULD","Organisme sans but lucratif",2839,"PRODUCTION D'UN JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",1989-09-28,"72 Route 108","Lingwick (Québec)",,"J0B2Z0"
-"Holding",0,0,"L'ECHO DE ST-FRANCOIS","Organisme sans but lucratif",2839,"JOURNAL MENSUEL",,,"QUÉBEC",1993-09-20,"534 ch. Saint-François O","Saint-François-de-la-Rivière-du-Sud",,"(Québec) G0R3A0"
-"Holding",0,0,"JOURNAL ÉPIK DE CACOUNA","Organisme sans but lucratif",2841,"PROD. PÉRIODIQUE D'UN JOURNAL COMMUNAUTAIRE / MOYEN D'EXPRES. ET D'INFO ETC",,,"QUÉBEC",1982-06-17,"628 rue du Patrimoine","Cacouna (Québec)",,"G0L1G0"
-"Holding",0,0,"LA RADIO COMMUNAUTAIRE CKNA INC.","Organisme sans but lucratif",4811,"RADIODIFFUSION COMMUNAUTAIRE",4814,"CÂBLODISTRIBUTION COMMUNAUTAIRE","QUÉBEC",1984-07-19,"29 ch. d'en Haut","Natashquan (Québec)",,"G0G2E0"
-"Holding",0,0,"TÉLÉVISION COMMUNAUTAIRE DU HAUT-RICHELIEU 1981 LTÉE","Organisme sans but lucratif",4812,"PRODUCTION D'ÉMISSIONS DE TÉLÉVISION",9631,"PRODUCTION D'ÉVÉNEMENTS SPÉCIAUX","QUÉBEC",1981-08-10,"145 rue Richelieu","Saint-Jean-sur-Richelieu (Québec)",,"J3B6X7"
-"Holding",0,0,"COMMUNICATIONS BASSE-VILLE","Organisme sans but lucratif",2841,"ÉDITION D'UN JOURNAL FORMATION EN JOURNALISME",,,"QUÉBEC",1974-07-30,"266 rue Saint-Vallier O","Québec (Québec)",,"G1K1K2"
-"Holding",0,0,"RADIO ANTICOSTI","Organisme sans but lucratif",4811,"Opérer une radio communautaire",,,"QUÉBEC",1984-07-19,"4 rue du Savoy","L'Île-d'Anticosti (Québec)",,"G0G2Y0"
-"Holding",0,0,"TÉLÉVISION DE CHARLEVOIX-OUEST (TVCO)","Organisme sans but lucratif",4813,"INFORMATION LOCALE ET RÉGIONALE TÉLÉDIFFUSION",,,"QUÉBEC",1976-04-12,"63 rue Ambroise-Fafard","Baie-Saint-Paul (Québec)",,"G3Z2J7"
-"Holding",0,0,"JOURNAL COMMUNAUTAIRE DE ST-HIPPOLYTE","Organisme sans but lucratif",2812,"JOURNAL COMMUNAUTAIRE, VENTES DE PUBLICITÉ",,,"QUÉBEC",1983-02-01,"44 ch. du Lac-Morency","Saint-Hippolyte (Québec)",,"J8A2N3"
-"Holding",0,0,"EDITIONS COMMUNAUTAIRES DES CHENAUX","Organisme sans but lucratif",2849,"AUTRES IND. D'IMPRESSION & EDITION COMBINÉE",,,"QUÉBEC",1987-11-12,"220-44 rang de la Rivière-à-Veillet","Sainte-Geneviève-de-Batiscan (Québec)",,"G0X2R0"
-"Holding",0,0,"LE JOURNAL COMMUNAUTAIRE L'INFO DE ST-ÉLIE D'ORFORD","Organisme sans but lucratif",2839,"PRODUIRE UN JOURNAL COMMUNAUTAIRE MENSUELLEMENT",,,"QUÉBEC",1986-10-02,"6156 ch. de Saint-Élie","Sherbrooke (Québec)",,"J1R0L1"
-"Holding",0,0,"JOURNAL DES VILLES NORDIQUES LE TRAIT D'UNION DU NORD INC.","Organisme sans but lucratif",2849,"PUBLICATION D'UN JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",1984-02-01,"50 Le Carrefour","Fermont (Québec)",,"G0G1J0"
-"Holding",0,0,"LA TELEVISION D'ICI (CÔTE-DE-BEAUPRÉ)","Organisme sans but lucratif",4814,"ORG. DISP. SERV. TV COMMUN/PROD. ÉMISS. FILMS, ENREGIS. VISUELS ET SONORES",9611,"PRODUIRE DES ÉMISSIONS, DES FILMS ET ENREGISTREMENTS VISUELS ET SONORES","QUÉBEC",1985-04-02,"9795 boul. Sainte-Anne","Sainte-Anne-de-Beaupré (Québec)",,"G0A3C0"
-"Holding",0,0,"JOURNAL COMMUNAUTAIRE L'ATTISÉE INC.","Organisme sans but lucratif",2839,"JOURNAL COMMUNAUTAIRE MENSUEL",7721,"DIVERS TRAVAUX INFORMATISÉS POUR DES ORGANISMES COMMUNAUTAIRES","QUÉBEC",1984-05-01,"318 rue Verreault","Saint-Jean-Port-Joli (Québec)",,"G0R3G0"
-"Holding",0,0,"JOURNAL COMMUNAUTAIRE D'ASCOT CORNER INC.","Organisme sans but lucratif",2839,"JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",1986-09-16,"5699 rue Principale","Ascot Corner (Québec)",,"J0B1A0"
-"Holding",0,0,"TÉLÉ-SOLEIL INC.","Organisme sans but lucratif",4839,"TÉLÉVISION COMMUNAUTAIRE (FILM, MONTAGE, INTERVIEW ETC)",4811,"BIGO COMMUNAUTAIRE","QUÉBEC",1988-08-16,"1 1re Avenue O","Saint-Maxime-du-Mont-Louis (Québec)",,"G0E1T0"
-"Holding",0,0,"JOURNAL LE STÉPHANOIS INC.","Organisme sans but lucratif",2841,"PUBLICATION MENSUELLE JOURNAL",,,"QUÉBEC",1983-03-08,"1260 RUE St-Alphonse","CP 282","St-Étienne-des-Grès (Québec)","G0X2P0"
-"Holding",0,0,"CKRL - MF 89, 1 INC.","Organisme sans but lucratif",4811,"PRODUCTION ET DIFFUSION D'ÉMISSIONS RADIOPHONIQUES",,,"QUÉBEC",1972-09-08,"405 3e Avenue","Québec (Québec)",,"G1L2W2"
-"Holding",0,0,"TELEVISION COMMUNAUTAIRE DE LA VALLEE DU RICHELIEU (T.C.V.R.) INC.","Organisme sans but lucratif",4812,"TÉLÉVISION",9861,"ORGANISATIONS CIVIQUES & AMICALES","QUÉBEC",1984-08-21,"777 rue Laurier","Beloeil (Québec)",,"J3G4S9"
-"Holding",0,0,"TELEVISION COMMUNAUTAIRE DE LA VALLEE DE LA MATAPEDIA INC.","Organisme sans but lucratif",4814,"CABLOVISION",,,"QUÉBEC",1980-06-25,"11-81 rue des Forges","Amqui (Québec)",,"G5J3A7"
-"Holding",0,0,"LA CORPORATION DE TÉLÉDIFFUSION BRANDON INC.","Organisme sans but lucratif",4812,"POSTE DE TÉLÉVISION COMMUNAUTAIRE",,,"QUÉBEC",1983-09-26,"160 rue de Lanaudière","Saint-Gabriel (Québec)",,"J0K2N0"
-"Holding",0,0,"TÉLÉVISION COMMUNAUTAIRE DU KAMOURASKA INCORPORÉE","Organisme sans but lucratif",4814,"DIFFUSION D'INFORMATIONS GÉNÉRALES PRODUCTION DE DOCUMENT AUDIO-VISUEL",,,"QUÉBEC",1975-06-17,"407 rue Taché","Saint-Pascal (Québec)",,"G0L3Y0"
-"Holding",0,0,"""LE CYRI-LIEN"", JOURNAL COMMUNAUTAIRE DE ST-CYRILLE-DE-L'ISLET","Organisme sans but lucratif",2841,"JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",1986-08-06,"282 rue Principale","Saint-Cyrille-de-Lessard (Québec)",,"G0R2W0"
-"Holding",0,0,"LE JOURNAL COMMUNAUTAIRE DE ST-TITE-DES-CAPS","Organisme sans but lucratif",2841,"IMPRESSION ET ÉDITION JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",1985-06-17,"5 rue Leclerc","Saint-Tite-des-Caps (Québec)",,"G0A4J0"
-"Holding",0,0,"COLLECTIF DE COMMUNICATION (ST-ADELME)","Organisme sans but lucratif",2839,"CONFECTION D'UN JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",1981-05-19,"140 rue Principale","Saint-Adelme (Québec)",,"G0J2B0"
-"Holding",0,0,"RADIO COMMUNAUTAIRE M.F. DE SENNETERRE INC.","Organisme sans but lucratif",4811,"RADIO",7741,"VENTE DE PUBLICITÉS","QUÉBEC",1977-05-20,"121 1re Rue E","Senneterre (Québec)",,"J0Y2M0"
-"Holding",0,0,"RADIO COMMUNAUTAIRE DE PONTIAC","Organisme sans but lucratif",4811,"STATION DE RADIO",,,"QUÉBEC",1978-06-13,"138 rue Principale","Fort-Coulonge (Québec)",,"J0X1V0"
-"Holding",0,0,"RADIO COMMUNAUTAIRE DE L'ESTRIE","Organisme sans but lucratif",4811,"PRODUCTION D'ÉMISSIONS RADIO COMMUNAUTAIRES DIFFUSION D'ÉMISSIONS RADIOPHONIQUES DIVERSES",,,"QUÉBEC",1977-03-01,"67 rue Wellington N","Sherbrooke (Québec)",,"J1H5A9"
-"Holding",0,0,"AU FIL DE LA BOYER","Organisme sans but lucratif",2839,"PUBLICATION D'UN JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",1995-10-12,"2815B av. Royale","Saint-Charles-de-Bellechasse (Québec)",,"G0R2T0"
-"Holding",0,0,"ÉCHOS MONTRÉAL","Organisme sans but lucratif",2839,"PUBLICATION JOURNAL COMMUNAUTAIRE À BUT NON LUCRATIF",8694,"PORTE-PAROLE DE LA COLLECTIVITÉ - ORGANISER LEVÉE DE FONDS.","QUÉBEC",1996-05-06,"1906-360 rue Saint-Jacques","Montréal (Québec)",,"H2Y1P5"
-"Holding",0,0,"RADIO COMMUNAUTAIRE DE CHÂTEAUGUAY CHAI-MF","Organisme sans but lucratif",4813,"RADIO COMMUNAUTAIRE",,,"QUÉBEC",1977-02-06,"25 boul. Saint-Francis","Châteauguay (Québec)",,"J6J1Y2"
-"Holding",0,0,"TVC D'ARGENTEUIL","Organisme sans but lucratif",4813,"PRODUCTION ET DIFFUSION D'ÉMISSIONS DE TÉLÉ-COMMUNAUTAIRE FORMATION DE BÉNÉVOLES AU SEIN DE LA TÉLÉ-COMMUNAUTAIRE",,,"QUÉBEC",1997-02-06,"391 rue Lafleur","Lachute (Québec)",,"J8H1R2"
-"Holding",0,0,"JOURNAL COMMUMAUTAIRE LE BEAU-REGARD INC.","Organisme sans but lucratif",2839,"REDACTION MONTAGE ET DISTRIBUTION D'UN JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",1997-04-15,"21 rte des Chutes","Sainte-Lucie-de-Beauregard (Québec)",,"G0R3L0"
-"Holding",0,0,"JOURNAL LA VIE D'ICI","Organisme sans but lucratif",2839,"JOURNAL COMMUNAUTAIRE (PUBLICATION)",,,"QUÉBEC",1997-09-03,"4100 rue des Ormes","Saguenay (Québec)",,"G7P1B4"
-"Holding",0,0,"LE JOURNAL ""SKI SE DIT"" DE VAL-DAVID","Organisme sans but lucratif",2839,"REFLET DE LA VIE COMMUNAUTAIRE - MOYEN D'INFORMATION",,,"QUÉBEC",1983-02-02,"2496, RUE DE L'ÉGLISE, BUREAU 200","VAL-DAVID (QUÉBEC)",,"J0T2N0"
-"Holding",0,0,"LE JOURNAL REGIONAL DU HAUT ST-FRANCOIS","Organisme sans but lucratif",2839,"JOURNAL RÉGIONAL COMMUNAUTAIRE",,,"QUÉBEC",1986-11-13,"101-57 RUE Craig N","Cookshire-Eaton (Québec)",,"J0B1M0"
-"Holding",0,0,"TÉLÉCOMMUNAUTAIRE LAURENTIDES - LANAUDIÈRE","Organisme sans but lucratif",4812,"Télévision communautaire autonome",9619,"-","QUÉBEC",1998-09-01,"184 rue Principale","Huberdeau (Québec)",,"J0T1G0"
-"Holding",0,0,"RADIO BLANC-SABLON INC.","Organisme sans but lucratif",4811,"RADIO-DIFFUSION",,,"QUÉBEC",1983-05-11,"1193, BOUL DR. CAMILLE MARCOUX","C.P. 8","BLANC SABLON (QUÉBEC)","G0G1W0"
-"Holding",0,0,"JOURNAL COMMUNAUTAIRE COUP D'OEIL SUR ST-MARCEL DE L'ISLET INC.","Organisme sans but lucratif",2841,"RÉDACTION DU JOURNAL MONTAGE DU JOURNAL",,,"QUÉBEC",1998-11-25,"58B ch. Taché E","Saint-Marcel (Québec)",,"G0R3R0"
-"Holding",0,0,"LA VOIE DU SECTEUR DES COTEAUX","Organisme sans but lucratif",2841,"OPÉRER UN JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",1999-02-12,"20 rue du Chanoine-Girard","La Morandière-Rochebaucourt (Québec)",,"J0Y2J0"
-"Holding",0,0,"JOURNAL DE VAL-BRILLANT","Organisme sans but lucratif",2839,"JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",1981-04-22,"11-A, ST-PIERRE","VAL-BRILLANT (QUÉBEC)",,"G0J3L0"
-"Holding",0,0,"TÉLÉ COMMUNAUTAIRE D'AMOS RÉGION","Organisme sans but lucratif",4812,"PRODUCTION DE CONTENU VIDÉO POUR LA TÉLÉDIFUSION ET INTERNET MÉDIA COMMUNAUTAIRE DIFFUSION D'INFORMATION PUBLIC MULTIPLATEFORME",9615,"PRODUCTION VIDÉO D'ÉVÉNEMENTS, CAPSULES, PUBLICITÉ ET AUTRES","QUÉBEC",1999-05-11,"101 1re Avenue O","Amos (Québec)",,"J9T1V1"
-"Holding",0,0,"LE TRIDENT DE WOTTON","Organisme sans but lucratif",2839,"ÉDITER ET DIFFUSER UN JOURNAL",7799,"FOURNIR UN SERVICE D'INFORMATION GÉNÉRALE","QUÉBEC",1999-05-19,"420 rue Vilandré","Wotton (Québec)",,"J0A1N0"
-"Holding",0,0,"JOURNAL COMMUNAUTAIRE DE DISRAËLI","Organisme sans but lucratif",2839,"PRODUCTION ET DISTRIBUTION MENSUELLES D'UN JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",2000-04-12,"888 rue Saint-Antoine","Disraeli (Québec)",,"G0N1E0"
-"Holding",0,0,"RADIO COMMUNAUTAIRE DE RADISSON","Organisme sans but lucratif",4811,"PRODUCTION ET DIFFUSION D'ÉMISSIONS DE RADIO",,,"QUÉBEC",2000-04-19,"143 AV. Jolliet","CP 285","Radisson (Québec)","J0Y2X0"
-"Holding",0,0,"JOURNAL CULTUREL GRAFFICI, COOPÉRATIVE DE SOLIDARITÉ","Coopérative",2839,"PRODUCTION D'UN JOURNAL CULTUREL",9861,"-","QUÉBEC",2000-04-27,"208-19 rue Adams","Gaspé (Québec)",,"G4X1E5"
-"Holding",0,0,"ÉDITIONS PRÉVOSTOISES","Organisme sans but lucratif",2839,"PUBLICATION D'UN JOURNAL COMMUNICATIONS SOUS DIVERSES FORMES",,,"QUÉBEC",2001-03-06,"1529 montée Félix-Leclerc","Prévost (Québec)",,"J0R1T0"
-"Holding",0,0,"LES ÉDITIONS DU BERGER BLANC","Organisme sans but lucratif",2841,"PUBLIER, ÉDITER ET DISTRIBUER UN JOURNAL D'OPINION ET D'INFORMATION TOUTES ACTIVITÉS CONNEXES",,,"QUÉBEC",2000-06-06,"1-700 boul. Saint-Germain","Rimouski (Québec)",,"G5L3S4"
-"Holding",0,0,"MONTBEILLARD EN BREF","Organisme sans but lucratif",2839,"ÉDITER UN JOURNAL COMMUNAUTAIRE DIFFUSER UN JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",2001-06-20,"2589 rang Héroux","Rouyn-Noranda (Québec)",,"J0Z2X0"
-"Holding",0,0,"JOURNAL COMMUNAUTAIRE ""LE PHARE""","Organisme sans but lucratif",2841,"PRODUCTION ET DISTRIBUTION D'UN JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",1986-06-10,"1 rue du Vieux-Pont","Grande-Vallée (Québec)",,"G0E1K0"
-"Holding",0,0,"TÉLÉVISION COMMUNAUTAIRE FRONTENAC","Organisme sans but lucratif",4813,"INFORMER LA POPULATION SUR DU CONTENU SOCIAL ET CULTUREL LIEU D'APPRENTISSAGE ET DE VALORISATION POUR LES BÉNÉVOLES",,,"QUÉBEC",2002-02-13,"10763 av. de Cobourg","Montréal (Québec)",,"H1H4X3"
-"Holding",0,0,"JOURNAL LOCAL LE FÉLIX","Organisme sans but lucratif",2839,"ÉDITER, IMPRIMER, DISTRIBUER UN JOURNAL MENSUEL À SAINT-FÉLIX-DE-KINGSEY",,,"QUÉBEC",2004-02-25,"612 Route 255","Saint-Félix-de-Kingsey (Québec)",,"J0B2T0"
-"Holding",0,0,"RADIO BORÉALE","Organisme sans but lucratif",4811,"EXPLOITER UNE STATION DE RADIO COMMUNAUTAIRE",,,"QUÉBEC",2004-03-11,"101 1re Avenue O","Amos (Québec)",,"J9T1V1"
-"Holding",0,0,"LE P'TIT JOURNAL DE WOBURN","Organisme sans but lucratif",2839,"JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",2006-05-24,"300 rue Joly","Saint-Augustin-de-Woburn (Québec)",,"G0Y1R0"
-"Holding",0,0,"COOPÉRATIVE DE SOLIDARITÉ DU JOURNAL CULTUREL DE L'ABITIBI-TÉMISCAMINGUE","Coopérative",2839,"CRÉATION D'UN JOURNAL CULTUREL",7741,"VENTE DE PUBLICITÉ","QUÉBEC",2006-10-10,"150 av. du Lac","Rouyn-Noranda (Québec)",,"J9X4N5"
-"Holding",0,0,"CORPORATION DU JOURNAL LE REVEIL","Organisme sans but lucratif",2839,"JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",1981-07-09,"199-B, BILODEAU","SAINT-FABIEN-DE-PANET (QUÉBEC)",,"G0R2J0"
-"Holding",0,0,"RADIO COMMUNAUTAIRE DE LÉVIS","Organisme sans but lucratif",4811,"STATION DE RADIO COMMUNAUTAIRE",,,"QUÉBEC",2008-05-29,"105-49 RUE Fortier","Lévis (Québec)",,"G6V6K9"
-"Holding",0,0,"JOURNALDESVOISINS.COM","Organisme sans but lucratif",2839,"Journal d'informations locales communautaire du quartier Ahuntsic-Cartierville",2812,"-",,2013-02-25,"10294A Grande Allée","Montréal (Québec)",,"H3L2M1"
-"Holding",0,0,"Le son du 49e","Organisme sans but lucratif",4811,"-",,,,2014-12-12,"100-555 PL Quévillon","CP 534","Lebel-sur-Quévillon (Québec)","J0Y1X0"
-"Holding",0,0,"MULTIMÉDIAS RÉGION PORTNEUF","Organisme sans but lucratif",4839,"Nous sommes un organisme sans but lucratif qui diffuse de l'information régional, local  de la région sur Internet. ",4812,"Télévision communautaire de Portneuf",,2017-11-27,"189 rue Dupont","Pont-Rouge (Québec)",,"G3H1N4"
-"Holding",0,0,"L'écho de Compton","Organisme sans but lucratif",2839,"Édition d'un journal communautaire",,,,2018-05-04,"6775 RTE Louis-S.-Saint-Laurent","CP 322","Compton (Québec)","J0B1L0"
-"Holding",0,0,"Télé-Coeur","Organisme sans but lucratif",4812,"-",,,,2019-11-08,"370 rue Principale","Saint-Léonard-d'Aston (Québec)",,"J0C1M0"
-"Holding",0,0,"Groupe Média Régional Val-Ouest","Organisme sans but lucratif",4839,"PÉRIODIQUE NUMÉRIQUE",,,,2019-11-21,"950 rue Saint-Joseph","Valcourt (Québec)",,"J0E2L0"
-"Holding",0,0,"Etchemins Télé","Organisme sans but lucratif",4812,"-",,,,2025-06-18,"1601 Route 277","Lac-Etchemin (Québec)",,"G0R1S0"
-"Holding",0,0,"L'ARCHIPEL D'ENTRAIDE","Organisme sans but lucratif",,,,,,,,,,
-"Holding",0,0,"COALITION DE LA PETITE-BOURGOGNE/ QUARTIER EN SANTÉ","Organisme sans but lucratif",,,,,,,,,,
-"Holding",0,0,"COMMUNAUTÉ SÉPHARADE UNIFIÉE DU QUÉBEC","Organisme sans but lucratif",,,,,,,,,,
-"Holding",0,0,"ACCUEIL AUX IMMIGRANTS DE L'EST DE MONTRÉAL","Organisme sans but lucratif",,,,,,,,,,
-"Holding",0,0,"Mobiles, Média Communautaire Maskoutain","Organisme sans but lucratif",,,,,,,,,,
-"Holding",0,0,"Journal Le Lavalois","Organisme sans but lucratif",,,,,,,,,,
-"Holding",0,0,"Journal communautaire Regards","Organisme sans but lucratif",,,,,,,,,,
-"Holding",0,0,"La Voix Ferrée Inc.","Organisme sans but lucratif",,,,,,,,,,
-"Holding",0,0,"Journal Communautaire Ici Brompton","Organisme sans but lucratif",,,,,,,,,,
-"Holding",0,0,"Le Saint-Denisien","Organisme sans but lucratif",,,,,,,,,,
-"Holding",0,0,"Image de Bury","Organisme sans but lucratif",,,,,,,,,,
-"Holding",0,0,"Journal communautaire L'Écho de Cantley","Organisme sans but lucratif",,,,,,,,,,
-"Holding",0,0,"Journal Le Saint-Armand","Organisme sans but lucratif",,,,,,,,,,
-"Holding",0,0,"Le Papotin Inc.","Organisme sans but lucratif",,,,,,,,,,
-"Holding",0,0,"Journal L’Horizon, presse coopérative des Basques",,,,,,,,,,,
-"Holding",0,0,"Le Trait d'Union de St-Bruno Inc.",,,,,,,,,,,
-"Holding",0,0,"RE-IN-SON",,,,,,,,,,,
-"Holding",0,0,"Journal communautaire de Matapédia et les Plateaux",,,,,,,,,,,
-"Holding",0,0,"Le Causeur",,,,,,,,,,,
-"Holding",0,0,"L'ARRIVAGE D'ADSTOCK",,,,,,,,,,,
-"Holding",0,0,"Journal Le Tartan",,,,,,,,,,,
-"Holding",0,0,"Les Éditions des Trois Clochers",,,,,,,,,,,
-"Holding",0,0,"Ensemble pour bâtir",,,,,,,,,,,
-"Holding",0,0,"JOURNAL L'ALLIANCE DE PREISSAC",,,,,,,,,,,
-"Holding",0,0,"Journal Le Pont de Palmarolle",,,,,,,,,,,
-"Holding",0,0,"Le Journal d'Un lac à l'autre Inc.",,,,,,,,,,,
-"Holding",0,0,"Journal Communautaire, Parent",,,,,,,,,,,
-"Holding",0,0,"L'ECHO D'EN HAUT INC.",,,,,,,,,,,
-"Holding",0,0,"JOURNAL L'ÉVÈNEMENT SCOTSTOWN-HAMPDEN",,,,,,,,,,,
-"Station",,,"CHGO-FM (Abitibi-Témiscamingue)",,,,,,,,,,,
-"Station",,,"CIKI-FM (Rimouski, Bas-Saint-Laurent)",,,,,,,,,,,
-"Station",,,"CIPC-FM (Sept-Îles, Port-Cartier)",,,,,,,,,,,
-"Station",,,"CJDM-FM (Drummondville, Centre-du-Québec)",,,,,,,,,,,
-"Station",,,"CJGO-FM (Abitibi-Témiscamingue)",,,,,,,,,,,
-"Station",,,"CJIT-FM (Lac-Mégantic)",,,,,,,,,,,
-"Station",,,"CJLM-FM (Lanaudière)",,,,,,,,,,,
-"Station",,,"CJOI-FM (Rimouski)",,,,,,,,,,,
-"Station",,,"CKCN-FM (Côte-Nord)",,,,,,,,,,,
-"Station",,,"CKCN-FM (Thetford Mines)",,,,,,,,,,,
-"Station",,,"CKGS-FM (Saguenay)",,,,,,,,,,,
-"Station",,,"CKVM-FM (Amqui, Matapédia)",,,,,,,,,,,
-"Station",,,"CKYQ-FM (Centre-du-Québec)",,,,,,,,,,,
-"Station",,,"XXXX-FM (Joliette)",,,,,,,,,,,
-"Station",,,"CFAP (Québec)",,,,,,,,,,,
-"Station",,,"CFCF (Montréal)",,,,,,,,,,,
-"Station",,,"CFDA-FM (Victoriaville)",,,,,,,,,,,
-"Station",,,"CFEI-FM (Saint-Hyacinthe)",,,,,,,,,,,
-"Station",,,"CFEL-FM (BLVD Québec)",,,,,,,,,,,
-"Station",,,"CFEM (TVA Abitibi)",,,,,,,,,,,
-"Station",,,"CFGE-FM (Montréal)",,,,,,,,,,,
-"Station",,,"CFGL-FM (Laval)",,,,,,,,,,,
-"Station",,,"CFGS (Noovo Gatineau)",,,,,,,,,,,
-"Station",,,"CFGT-FM (Alma)",,,,,,,,,,,
-"Station",,,"CFIX-FM (Rouge Saguenay)",,,,,,,,,,,
-"Station",,,"CFJO-FM (Centre-du-Québec, Chaudière-Appalaches)",,,,,,,,,,,
-"Station",,,"CFJP (Montréal)",,,,,,,,,,,
-"Station",,,"CFKM (Trois-Rivières)",,,,,,,,,,,
-"Station",,,"CFKS (Sherbrooke)",,,,,,,,,,,
-"Station",,,"CFLM-FM (La Tuque)",,,,,,,,,,,
-"Station",,,"CFOM-FM (Québec)",,,,,,,,,,,
-"Station",,,"CFRS (Saguenay)",,,,,,,,,,,
-"Station",,,"CFTF (Noovo Rivière-du-Loup)",,,,,,,,,,,
-"Station",,,"CFTX-FM (BPM Sports Gatineau)",,,,,,,,,,,
-"Station",,,"CFVS (Noovo Abitibi)",,,,,,,,,,,
-"Station",,,"CFZZ-FM (Saint-Jean-sur-Richelieu, Montérégie)",,,,,,,,,,,
-"Station",,,"CHAU (Carleton)",,,,,,,,,,,
-"Station",,,"CHCT-FM (Beauce)",,,,,,,,,,,
-"Station",,,"CHEQ-FM (Beauce)",,,,,,,,,,,
-"Station",,,"CHEY-FM (Rouge Mauricie)",,,,,,,,,,,
-"Station",,,"CHIK-FM (Énergie Québec)",,,,,,,,,,,
-"Station",,,"CHLX-FM (Rythme FM Gatineau)",,,,,,,,,,,
-"Station",,,"CHMP-FM (98,5 Montréal)",,,,,,,,,,,
-"Station",,,"CHMP-FM (98,5 Montréal)",,,,,,,,,,,
-"Station",,,"CHOA-FM (Abitibi)",,,,,,,,,,,
-"Station",,,"CHOE-FM (Matane)",,,,,,,,,,,
-"Station",,,"CHOI-FM (RadioX Québec)",,,,,,,,,,,
-"Station",,,"CHOM-FM (Montréal)",,,,,,,,,,,
-"Station",,,"CHOT (TVA Gatineau)",,,,,,,,,,,
-"Station",,,"CHRD-FM (Drummondville)",,,,,,,,,,,
-"Station",,,"CHRL-FM (Roberval)",,,,,,,,,,,
-"Station",,,"CHRM-FM (Matane)",,,,,,,,,,,
-"Station",,,"CHVD-FM (Dolbeau)",,,,,,,,,,,
-"Station",,,"CHXX-FM (BPM Sports Québec)",,,,,,,,,,,
-"Station",,,"CIGB-FM (Énergie Mauricie)",,,,,,,,,,,
-"Station",,,"CILM-FM (Saguenay)",,,,,,,,,,,
-"Station",,,"CIME-FM (Saint-Jérôme)",,,,,,,,,,,
-"Station",,,"CIMF-FM (Rouge Gatineau-Ottawa)",,,,,,,,,,,
-"Station",,,"CIMO-FM (Énergie Estrie)",,,,,,,,,,,
-"Station",,,"CIMT (TVA Rivière-du-Loup)",,,,,,,,,,,
-"Station",,,"CITE-FM (Rouge Montréal)",,,,,,,,,,,
-"Station",,,"CITE-FM-1 (Rouge Estrie)",,,,,,,,,,,
-"Station",,,"CJAB-FM (Énergie Saguenay)",,,,,,,,,,,
-"Station",,,"CJAD-AM (Montréal)",,,,,,,,,,,
-"Station",,,"CJEB-FM (Trois-Rivières)",,,,,,,,,,,
-"Station",,,"CJEC-FM (WKND Québec)",,,,,,,,,,,
-"Station",,,"CJFM (Virgin Radio)",,,,,,,,,,,
-"Station",,,"CJLA-FM (Lachute)",,,,,,,,,,,
-"Station",,,"CJMF-FM (FM93 Québec)",,,,,,,,,,,
-"Station",,,"CJMM-FM (Énergie Rouyn)",,,,,,,,,,,
-"Station",,,"CJMV-FM (Énergie Val-d’Or)",,,,,,,,,,,
-"Station",,,"CJPX-FM (Radio-Classique Montréal)",,,,,,,,,,,
-"Station",,,"CKAC-AM (Montréal)",,,,,,,,,,,
-"Station",,,"CKAC-AM (Montréal)",,,,,,,,,,,
-"Station",,,"CKBE-FM (The Beat, Montréal)",,,,,,,,,,,
-"Station",,,"CKBE-FM (The Beat, Montréal)",,,,,,,,,,,
-"Station",,,"CKGM-AM (TSN Montreal)",,,,,,,,,,,
-"Station",,,"CKLX-FM (BPM Sports Montréal)",,,,,,,,,,,
-"Station",,,"CKMF-FM (Énergie Montréal)",,,,,,,,,,,
-"Station",,,"CKOB-FM (109,3 Mauricie)",,,,,,,,,,,
-"Station",,,"CKOF-FM (104,7 Gatineau)",,,,,,,,,,,
-"Station",,,"CKOI-FM (Montréal)",,,,,,,,,,,
-"Station",,,"CKOI-FM (Montréal)",,,,,,,,,,,
-"Station",,,"CKOY-FM (107,7 Estrie)",,,,,,,,,,,
-"Station",,,"CKTF-FM (Énergie Gatineau-Ottawa)",,,,,,,,,,,
-"Station",,,"CKVM-FM (La Voix du Témiscamingue)",,,,,,,,,,,
-"Station",,,"CKXO-FM (Chibougamau-Chapais)",,,,,,,,,,,
-"Station",,,"CKYK-FM (KYK Saguenay–Lac-Saint-Jean)",,,,,,,,,,,
-"Station",,,"Ici Télévision",,,,,,,,,,,
-"Station",,,"LCN",,,,,,,,,,,
-"Station",,,"QUB radio",,,,,,,,,,,
-"Station",,,"RDS",,,,,,,,,,,
-"Station",,,"RDS Info",,,,,,,,,,,
-"Station",,,"TVA Sports",,,,,,,,,,,
-"Station",,,"TVRM",,,,,,,,,,,
-"Station",,,"CHOW-FM (Abitibi)",,,,,,,,,,,
-"Station",,,"CIBO-FM (Senneterre)",,,,,,,,,,,
-"Station",,,"CKMN-FM (Rimouski)",,,,,,,,,,,
-"Station",,,"CIHO-FM (Charlevoix)",,,,,,,,,,,
-"Station",,,"CKIA-FM (Québec)",,,,,,,,,,,
-"Station",,,"CKRL-FM (Québec)",,,,,,,,,,,
-"Station",,,"CKBN-FM (Bécancour)",,,,,,,,,,,
-"Station",,,"CFIN-FM (Lac-Etchemin)",,,,,,,,,,,
-"Station",,,"CJMD-FM (Lévis)",,,,,,,,,,,
-"Station",,,"CFBS-FM (Blanc-Sablon)",,,,,,,,,,,
-"Station",,,"CFMF-FM (Fermont)",,,,,,,,,,,
-"Station",,,"CILE-FM (Havre-Saint-Pierre)",,,,,,,,,,,
-"Station",,,"CJBE-FM (Anticosti)",,,,,,,,,,,
-"Station",,,"CJTB-FM (Tête-à-la-Baleine)",,,,,,,,,,,
-"Station",,,"CKNA-FM (Natashquan)",,,,,,,,,,,
-"Station",,,"CFLX-FM (Sherbrooke)",,,,,,,,,,,
-"Station",,,"CIGN-FM (Coaticook)",,,,,,,,,,,
-"Station",,,"CJMQ-FM (Sherbooke)",,,,,,,,,,,
-"Station",,,"CFIM-FM (Les-Îles-de-la-Madeleine)",,,,,,,,,,,
-"Station",,,"CIEU-FM (Carleton-sur-Mer)",,,,,,,,,,,
-"Station",,,"CJRG-FM (Gaspé)",,,,,,,,,,,
-"Station",,,"CFNJ-FM (Joliette)",,,,,,,,,,,
-"Station",,,"CHHO-FM (CountryPop 103,1 Louiseville)",,,,,,,,,,,
-"Station",,,"CFUT-FM (CountryPop 92,9 Shawinigan)",,,,,,,,,,,
-"Station",,,"CHAA-FM (Longueuil)",,,,,,,,,,,
-"Station",,,"CHAI-FM (Châteauguay)",,,,,,,,,,,
-"Station",,,"CFID-FM (Acton Vale)",,,,,,,,,,,
-"Station",,,"CIBL-FM (Montréal)",,,,,,,,,,,
-"Station",,,"CINQ-FM (Montréal)",,,,,,,,,,,
-"Station",,,"CKVL-FM (Montréal)",,,,,,,,,,,
-"Station",,,"CHEF-FM (Matagami)",,,,,,,,,,,
-"Station",,,"CIAU-FM (Radisson)",,,,,,,,,,,
-"Station",,,"CKCJ-FM (Lebel-sur-Quévillon)",,,,,,,,,,,
-"Station",,,"CHGA-FM (Maniwaki)",,,,,,,,,,,
-"Station",,,"CHIP-FM (Fort-Coulonge)",,,,,,,,,,,
-"Station",,,"CKAJ-FM (Saguenay)",,,,,,,,,,,
-"Station",,,"Wendat FM - CIHW 100.3 FM",,,,,,,,,,,
-"Station",,,"CRKA 106,9FM (Matimekush – Shefferville)",,,,,,,,,,,
-"Station",,,"CIBE 89,9FM (Pakua Shipi – St-Augustin)",,,,,,,,,,,
-"Station",,,"CFLR 89,9FM (Unamun-Shipu - La Romaine)",,,,,,,,,,,
-"Station",,,"CFNQ 89,9FM (Nutashkuan - Natashquan)",,,,,,,,,,,
-"Station",,,"CKKE 89,9FM (Ekuanitshit - Mingan)",,,,,,,,,,,
-"Station",,,"CKAU 104,FM (Uashat mak Mani-Utenam)",,,,,,,,,,,
-"Station",,,"CIMB 95,1FM (Pessamit - Betsiamites)",,,,,,,,,,,
-"Station",,,"CHME 94,9FM (Essipit - Les Escoumins)",,,,,,,,,,,
-"Station",,,"CHUK 107,3FM (Mashteuiatsh - Pointe-Bleue)",,,,,,,,,,,
-"Station",,,"CITK 89,9 FM (Opitciwan - Obedjiwan)",,,,,,,,,,,
-"Station",,,"RCWK 89,9 FM (Wemotaci - Weymontachie)",,,,,,,,,,,
-"Station",,,"CHMK 93,1 FM (Manawan)",,,,,,,,,,,
-"Réseau",,,"LE RÉSEAU DES SPORTS (RDS) INC.",,,,,,,,,,,
-"Réseau",,,"Hit Country",,,,,,,,,,,
-"Réseau",,,"O",,,,,,,,,,,
-"Réseau",,,"Viva",,,,,,,,,,,
-"Réseau",,,"BPM Sports",,,,,,,,,,,
-"Réseau",,,"CBC Music (1 station)",,,,,,,,,,,
-"Réseau",,,"CBC Radio One (3 stations)",,,,,,,,,,,
-"Réseau",,,"CBC Television (1 station)",,,,,,,,,,,
-"Réseau",,,"CityNews (1 station de télévision)",,,,,,,,,,,
-"Réseau",,,"CTV (1 station de télévision)",,,,,,,,,,,
-"Réseau",,,"Énergie (7 stations de radio)",,,,,,,,,,,
-"Réseau",,,"ESPN",,,,,,,,,,,
-"Réseau",,,"Ici Musique (6 stations)",,,,,,,,,,,
-"Réseau",,,"Ici Radio-Canada Première (9 stations)",,,,,,,,,,,
-"Réseau",,,"Ici Radio-Canada Télé (7 stations)",,,,,,,,,,,
-"Réseau",,,"Ici RDI",,,,,,,,,,,
-"Réseau",,,"MesRégions",,,,,,,,,,,
-"Réseau",,,"Noovo",,,,,,,,,,,
-"Réseau",,,"Nordy",,,,,,,,,,,
-"Réseau",,,"Planète",,,,,,,,,,,
-"Réseau",,,"Rouge FM (6 stations de radio)",,,,,,,,,,,
-"Réseau",,,"Rythme",,,,,,,,,,,
-"Réseau",,,"The Sports Network Inc.",,,,,,,,,,,
-"Réseau",,,"TVA (6 stations de télévision)",,,,,,,,,,,
-"Réseau",,,"Association des médias écrits communautaires du Québec",,,,,,,,,,,
-"Réseau",,,"Country Pop",,,,,,,,,,,
-"Réseau",,,"Association des radios communautaires du Québec",,,,,,,,,,,
-"Réseau",,,"Fédération des télévisions communautaires autonomes du Québec",,,,,,,,,,,
-"Publication",,,"24 heures",,,,,,,,,,,
-"Publication",,,"Accès",,,,,,,,,,,
-"Publication",,,"acquisitions.biz",,,,,,,,,,,
-"Publication",,,"Agence QMI",,,,,,,,,,,
-"Publication",,,"Beauce Média",,,,,,,,,,,
-"Publication",,,"Bulletin d’Aylmer",,,,,,,,,,,
-"Publication",,,"Bulletin de Gatineau",,,,,,,,,,,
-"Publication",,,"Chaleur Nouvelles",,,,,,,,,,,
-"Publication",,,"Chambly Express",,,,,,,,,,,
-"Publication",,,"Coup d’œil",,,,,,,,,,,
-"Publication",,,"Courrier Frontenac",,,,,,,,,,,
-"Publication",,,"Courrier Laval",,,,,,,,,,,
-"Publication",,,"dehors",,,,,,,,,,,
-"Publication",,,"EnBeauce.com",,,,,,,,,,,
-"Publication",,,"Est Média Montréal",,,,,,,,,,,
-"Publication",,,"EstriePlus.com",,,,,,,,,,,
-"Publication",,,"Gaspésie Nouvelles",,,,,,,,,,,
-"Publication",,,"GoRimouski",,,,,,,,,,,
-"Publication",,,"Granby Express",,,,,,,,,,,
-"Publication",,,"GTA Gestion et technologie agricoles",,,,,,,,,,,
-"Publication",,,"Hebdo Rive-Nord",,,,,,,,,,,
-"Publication",,,"Info Dimanche",,,,,,,,,,,
-"Publication",,,"Infos Laurentides",,,,,,,,,,,
-"Publication",,,"Journal du Pontiac",,,,,,,,,,,
-"Publication",,,"Journal Le Soir",,,,,,,,,,,
-"Publication",,,"L’Action",,,,,,,,,,,
-"Publication",,,"L’Action d’Autray",,,,,,,,,,,
-"Publication",,,"L’actualité",,,,,,,,,,,
-"Publication",,,"L’Argenteuil",,,,,,,,,,,
-"Publication",,,"L’Avant-Poste",,,,,,,,,,,
-"Publication",,,"L’Avenir de l’Érable",,,,,,,,,,,
-"Publication",,,"L’Avenir et des Rivières",,,,,,,,,,,
-"Publication",,,"L’Écho de Frontenac",,,,,,,,,,,
-"Publication",,,"L’Écho de la Baie",,,,,,,,,,,
-"Publication",,,"L’Écho de la Rive-Nord",,,,,,,,,,,
-"Publication",,,"L’Écho de Laval",,,,,,,,,,,
-"Publication",,,"L’Écho de Maskinongé",,,,,,,,,,,
-"Publication",,,"L’Écho de Trois-Rivières",,,,,,,,,,,
-"Publication",,,"L’Écho La Tuque / Haut St-Maurice",,,,,,,,,,,
-"Publication",,,"L’Éclaireur Progrès",,,,,,,,,,,
-"Publication",,,"L’Étincelle",,,,,,,,,,,
-"Publication",,,"L’Étoile du Lac",,,,,,,,,,,
-"Publication",,,"L’Éveil",,,,,,,,,,,
-"Publication",,,"L’Hebdo du St-Maurice",,,,,,,,,,,
-"Publication",,,"L’Hebdo Journal",,,,,,,,,,,
-"Publication",,,"L'Hebdo Mékinac/des Chenaux",,,,,,,,,,,
-"Publication",,,"L'Info du Nord Mont-Laurier",,,,,,,,,,,
-"Publication",,,"L’Info du Nord Mont-Tremblant",,,,,,,,,,,
-"Publication",,,"L’Info du Nord Sainte-Agathe",,,,,,,,,,,
-"Publication",,,"L’Info du Nord Vallée de la Rouge",,,,,,,,,,,
-"Publication",,,"L’Information d’affaires d’ici",,,,,,,,,,,
-"Publication",,,"L’Œil régional",,,,,,,,,,,
-"Publication",,,"La Conversation (édition Canada français)",,,,,,,,,,,
-"Publication",,,"La Haute-Côte-Nord",,,,,,,,,,,
-"Publication",,,"La Nouvelle Union",,,,,,,,,,,
-"Publication",,,"La Pensée de Bagot",,,,,,,,,,,
-"Publication",,,"La Presse",,,,,,,,,,,
-"Publication",,,"La Relève",,,,,,,,,,,
-"Publication",,,"La Revue",,,,,,,,,,,
-"Publication",,,"La Tribune",,,,,,,,,,,
-"Publication",,,"La Voix",,,,,,,,,,,
-"Publication",,,"La Voix de l’Est",,,,,,,,,,,
-"Publication",,,"La Voix du Sud",,,,,,,,,,,
-"Publication",,,"La Voix Gaspésienne",,,,,,,,,,,
-"Publication",,,"Le Canada français",,,,,,,,,,,
-"Publication",,,"Le Charlevoisien",,,,,,,,,,,
-"Publication",,,"Le Clairon",,,,,,,,,,,
-"Publication",,,"Le Courrier de Portneuf",,,,,,,,,,,
-"Publication",,,"Le Courrier de Saint-Hyacinthe",,,,,,,,,,,
-"Publication",,,"Le Courrier du Sud",,,,,,,,,,,
-"Publication",,,"Le Courrier Sud",,,,,,,,,,,
-"Publication",,,"Le Droit",,,,,,,,,,,
-"Publication",,,"Le Guide",,,,,,,,,,,
-"Publication",,,"Le Journal de Joliette",,,,,,,,,,,
-"Publication",,,"Le journal de la rue",,,,,,,,,,,
-"Publication",,,"Le Journal de Lévis",,,,,,,,,,,
-"Publication",,,"Le Journal de Montréal",,,,,,,,,,,
-"Publication",,,"Le Journal de Québec",,,,,,,,,,,
-"Publication",,,"Le Journal de Saint-Basile",,,,,,,,,,,
-"Publication",,,"Le Journal de Sainte-Julie",,,,,,,,,,,
-"Publication",,,"Le Journal Saint-François",,,,,,,,,,,
-"Publication",,,"Le Lac-St-Jean",,,,,,,,,,,
-"Publication",,,"Le Manic",,,,,,,,,,,
-"Publication",,,"Le Nord",,,,,,,,,,,
-"Publication",,,"Le Nord-Côtier",,,,,,,,,,,
-"Publication",,,"Le Nouvelles Hebdo",,,,,,,,,,,
-"Publication",,,"Le Nouvelliste",,,,,,,,,,,
-"Publication",,,"Le Pharillon",,,,,,,,,,,
-"Publication",,,"Le Placoteux",,,,,,,,,,,
-"Publication",,,"Le Progrès de Coaticook",,,,,,,,,,,
-"Publication",,,"Le Quotidien",,,,,,,,,,,
-"Publication",,,"Le Radar",,,,,,,,,,,
-"Publication",,,"Le Reflet",,,,,,,,,,,
-"Publication",,,"Le Reflet du Lac",,,,,,,,,,,
-"Publication",,,"Le Reflet Témiscamien",,,,,,,,,,,
-"Publication",,,"Le Réveil",,,,,,,,,,,
-"Publication",,,"Le Richelieu",,,,,,,,,,,
-"Publication",,,"Le Soleil",,,,,,,,,,,
-"Publication",,,"Le Soleil de Châteauguay",,,,,,,,,,,
-"Publication",,,"Les 2 rives",,,,,,,,,,,
-"Publication",,,"Les Affaires",,,,,,,,,,,
-"Publication",,,"Les As de l’info",,,,,,,,,,,
-"Publication",,,"Les Versants du Mont-Bruno",,,,,,,,,,,
-"Publication",,,"MaBeauce  ",,,,,,,,,,,
-"Publication",,,"MaCôte-Nord  ",,,,,,,,,,,
-"Publication",,,"MaGaspésie  ",,,,,,,,,,,
-"Publication",,,"MonBas-du-Fleuve ",,,,,,,,,,,
-"Publication",,,"MonDrummond",,,,,,,,,,,
-"Publication",,,"MonJoliette  ",,,,,,,,,,,
-"Publication",,,"MonLaTuque  ",,,,,,,,,,,
-"Publication",,,"Monlimoilou",,,,,,,,,,,
-"Publication",,,"MonMatane  ",,,,,,,,,,,
-"Publication",,,"Monmontcalm",,,,,,,,,,,
-"Publication",,,"Monsaintjean",,,,,,,,,,,
-"Publication",,,"Monsaintroch",,,,,,,,,,,
-"Publication",,,"Monsaintsauveur",,,,,,,,,,,
-"Publication",,,"MonTémiscouata   ",,,,,,,,,,,
-"Publication",,,"MonThetford  ",,,,,,,,,,,
-"Publication",,,"MonVicto  ",,,,,,,,,,,
-"Publication",,,"Monvieuxquebec",,,,,,,,,,,
-"Publication",,,"Néomédia Valleyfield",,,,,,,,,,,
-"Publication",,,"Néomédia Vaudreuil-Soulanges",,,,,,,,,,,
-"Publication",,,"Nord Info",,,,,,,,,,,
-"Publication",,,"Nouveau Projet",,,,,,,,,,,
-"Publication",,,"Nouvelles Parc-Extension News",,,,,,,,,,,
-"Publication",,,"Pivot",,,,,,,,,,,
-"Publication",,,"Protégez-Vous",,,,,,,,,,,
-"Publication",,,"Quatre,95",,,,,,,,,,,
-"Publication",,,"Québec Science",,,,,,,,,,,
-"Publication",,,"Reflet de société",,,,,,,,,,,
-"Publication",,,"Sherbrooke Record",,,,,,,,,,,
-"Publication",,,"Sherbrooke.info",,,,,,,,,,,
-"Publication",,,"Sorel-Tracy Express",,,,,,,,,,,
-"Publication",,,"The Equity",,,,,,,,,,,
-"Publication",,,"The Gazette",,,,,,,,,,,
-"Publication",,,"The Gleaner",,,,,,,,,,,
-"Publication",,,"The Laval News",,,,,,,,,,,
-"Publication",,,"The Low Down to Hull and Back News",,,,,,,,,,,
-"Publication",,,"The Nation",,,,,,,,,,,
-"Publication",,,"The North Shore News",,,,,,,,,,,
-"Publication",,,"Urbania",,,,,,,,,,,
-"Publication",,,"Urbania France",,,,,,,,,,,
-"Publication",,,"Vallée-du-Richelieu Express",,,,,,,,,,,
-"Publication",,,"Vélo Mag",,,,,,,,,,,
-"Publication",,,"West Quebec Post",,,,,,,,,,,
-"Publication",,,"Journal des Voisins",,,,,,,,,,,
-"Publication",,,"Graffici",,,,,,,,,,,
-"Publication",,,"Échos Montréal",,,,,,,,,,,
-"Publication",,,"La Gazette de la Mauricie",,,,,,,,,,,
-"Publication",,,"Ski se dit",,,,,,,,,,,
-"Publication",,,"Journal des citoyens",,,,,,,,,,,
-"Publication",,,"Le Haut Saint-François",,,,,,,,,,,
-"Publication",,,"Le bulletin des Chenaux",,,,,,,,,,,
-"Publication",,,"Le Bulletin de Mékinac",,,,,,,,,,,
-"Publication",,,"Le Cantonnier",,,,,,,,,,,
-"Publication",,,"L’Indice Bohémien",,,,,,,,,,,
-"Publication",,,"Le Sentier",,,,,,,,,,,
-"Publication",,,"L’Info",,,,,,,,,,,
-"Publication",,,"Autour de l’île",,,,,,,,,,,
-"Publication",,,"L’Attisée",,,,,,,,,,,
-"Publication",,,"Le Stéphanois",,,,,,,,,,,
-"Publication",,,"Le Trait d’union du Nord",,,,,,,,,,,
-"Publication",,,"L'Écho de Compton",,,,,,,,,,,
-"Publication",,,"Aux quatre coins",,,,,,,,,,,
-"Publication",,,"La Vie d’ici",,,,,,,,,,,
-"Publication",,,"Au fil de La Boyer",,,,,,,,,,,
-"Publication",,,"Phare (Le), L'autre vision",,,,,,,,,,,
-"Publication",,,"La Quête",,,,,,,,,,,
-"Publication",,,"EPIK",,,,,,,,,,,
-"Publication",,,"Le Montagnard",,,,,,,,,,,
-"Publication",,,"Le Félix",,,,,,,,,,,
-"Publication",,,"L’Écho de Saint-François",,,,,,,,,,,
-"Publication",,,"Le Trident",,,,,,,,,,,
-"Publication",,,"Le Pierre-Brillant",,,,,,,,,,,
-"Publication",,,"Le Réveil de Saint-Fabien-de-Panet",,,,,,,,,,,
-"Publication",,,"Montbeillard en bref",,,,,,,,,,,
-"Publication",,,"Le Cyri-Lien",,,,,,,,,,,
-"Publication",,,"Le P'tit Journal de Woburn",,,,,,,,,,,
-"Publication",,,"L’Éveil",,,,,,,,,,,
-"Publication",,,"Le Reflet du canton de Lingwick",,,,,,,,,,,
-"Publication",,,"La Voie du secteur des Coteaux",,,,,,,,,,,
-"Publication",,,"Coup d'œil sur Saint-Marcel",,,,,,,,,,,
-"Publication",,,"Le Beau regard",,,,,,,,,,,
-"Publication",,,"Le Val-Ouest",,,,,,,,,,,
-"Publication",,,"Le Mouton noir",,,,,,,,,,,
-"Publication",,,"Vues sur la Bourgogne",,,,,,,,,,,
-"Publication",,,"La Voix sépharade",,,,,,,,,,,
-"Publication",,,"Vision croisée",,,,,,,,,,,
-"Publication",,,"Journal Mobiles",,,,,,,,,,,
-"Publication",,,"Droit de Parole",,,,,,,,,,,
-"Publication",,,"Le Lavalois",,,,,,,,,,,
-"Publication",,,"Regards",,,,,,,,,,,
-"Publication",,,"Entrée libre",,,,,,,,,,,
-"Publication",,,"Ici Brompton",,,,,,,,,,,
-"Publication",,,"Le Saint-Denisien",,,,,,,,,,,
-"Publication",,,"L’Image de Bury",,,,,,,,,,,
-"Publication",,,"L’Écho de Cantley",,,,,,,,,,,
-"Publication",,,"Le Saint-Armand",,,,,,,,,,,
-"Publication",,,"Le Papotin",,,,,,,,,,,
-"Publication",,,"L’Horizon",,,,,,,,,,,
-"Publication",,,"Le Trait d’union",,,,,,,,,,,
-"Publication",,,"Entre deux lacs",,,,,,,,,,,
-"Publication",,,"Tam Tam",,,,,,,,,,,
-"Publication",,,"Le Causeur",,,,,,,,,,,
-"Publication",,,"L’Arrivage d’Adstock",,,,,,,,,,,
-"Publication",,,"Le Tartan",,,,,,,,,,,
-"Publication",,,"Le Hublot",,,,,,,,,,,
-"Publication",,,"Ensemble pour bâtir",,,,,,,,,,,
-"Publication",,,"L’Alliance",,,,,,,,,,,
-"Publication",,,"Le Pont",,,,,,,,,,,
-"Publication",,,"Le Citoyen",,,,,,,,,,,
-"Publication",,,"D’un lac à l’autre",,,,,,,,,,,
-"Publication",,,"Le Parentois",,,,,,,,,,,
-"Publication",,,"L’Écho d’en haut",,,,,,,,,,,
-"Publication",,,"L’Événement",,,,,,,,,,,
-"Plateforme",,,"Crave",,,,,,,,,,,
-"Plateforme",,,"Ici Tou.tv",,,,,,,,,,,
-"Individu",,,"Dany Renaud",,,,,,,,,,,
-"Individu",,,"Sylvain Chamberland",,,,,,,,,,,
-"Individu",,,"Alain St-Jean",,,,,,,,,,,
-"Individu",,,"Alexandre Taillefer",,,,,,,,,,,
-"Individu",,,"André Bérubé",,,,,,,,,,,
-"Individu",,,"André Normandin",,,,,,,,,,,
-"Individu",,,"Arnaud Bertrand",,,,,,,,,,,
-"Individu",,,"Benoît Chartier",,,,,,,,,,,
-"Individu",,,"Caroline Levasseur",,,,,,,,,,,
-"Individu",,,"Charles Pellerin",,,,,,,,,,,
-"Individu",,,"Claude Frenette",,,,,,,,,,,
-"Individu",,,"Claude Langlois",,,,,,,,,,,
-"Individu",,,"Daniel Rouleau",,,,,,,,,,,
-"Individu",,,"Dave Beaunoyer",,,,,,,,,,,
-"Individu",,,"Dominic Becotte",,,,,,,,,,,
-"Individu",,,"Éric Perrier",,,,,,,,,,,
-"Individu",,,"Ernest Webb",,,,,,,,,,,
-"Individu",,,"Famille Gourd",,,,,,,,,,,
-"Individu",,,"Francis Picard",,,,,,,,,,,
-"Individu",,,"Frédéric Couture",,,,,,,,,,,
-"Individu",,,"George Bakoyannis",,,,,,,,,,,
-"Individu",,,"George Guzmas",,,,,,,,,,,
-"Individu",,,"Hugo Levasseur",,,,,,,,,,,
-"Individu",,,"Hugo Miousse",,,,,,,,,,,
-"Individu",,,"Jacques Leclerc",,,,,,,,,,,
-"Individu",,,"Jean-François Leclerc",,,,,,,,,,,
-"Individu",,,"Jean-Sébastien Deraspe",,,,,,,,,,,
-"Individu",,,"Jean-Sébastien Haché",,,,,,,,,,,
-"Individu",,,"Jean-Yves Gourd",,,,,,,,,,,
-"Individu",,,"Jonathon Stewart",,,,,,,,,,,
-"Individu",,,"Josiane Brousseau",,,,,,,,,,,
-"Individu",,,"Julie Voyer",,,,,,,,,,,
-"Individu",,,"Karen Lachapelle",,,,,,,,,,,
-"Individu",,,"Lily Ryan",,,,,,,,,,,
-"Individu",,,"Louis Audet",,,,,,,,,,,
-"Individu",,,"Louis-Jacques Laferté",,,,,,,,,,,
-"Individu",,,"Louis-Jasmin Picard",,,,,,,,,,,
-"Individu",,,"Louise Ringuet",,,,,,,,,,,
-"Individu",,,"Marc Landreville",,,,,,,,,,,
-"Individu",,,"Marc Simard",,,,,,,,,,,
-"Individu",,,"Marlène Claveau",,,,,,,,,,,
-"Individu",,,"Martin Ayotte-Cummings",,,,,,,,,,,
-"Individu",,,"Martin Morissette",,,,,,,,,,,
-"Individu",,,"Mathio Pellerin",,,,,,,,,,,
-"Individu",,,"Michel Langlois",,,,,,,,,,,
-"Individu",,,"Mohammad Nowrouzzahrai",,,,,,,,,,,
-"Individu",,,"Neil Diamond",,,,,,,,,,,
-"Individu",,,"Nicolas Langelier",,,,,,,,,,,
-"Individu",,,"Nicolas Leclerc",,,,,,,,,,,
-"Individu",,,"Nicolas Rouleau",,,,,,,,,,,
-"Individu",,,"Nikki Mantell",,,,,,,,,,,
-"Individu",,,"Olivier Martin",,,,,,,,,,,
-"Individu",,,"Parirokh Nowrouzzahrai",,,,,,,,,,,
-"Individu",,,"Philippe Clair",,,,,,,,,,,
-"Individu",,,"Philippe Lamarre",,,,,,,,,,,
-"Individu",,,"Pierre Karl Péladeau",,,,,,,,,,,
-"Individu",,,"Pierre Marcoux",,,,,,,,,,,
-"Individu",,,"Pierre R. Brosseau",,,,,,,,,,,
-"Individu",,,"Raphaëlle Huysmans",,,,,,,,,,,
-"Individu",,,"Renel Bouchard",,,,,,,,,,,
-"Individu",,,"Sam Nowrouzzahrai",,,,,,,,,,,
-"Individu",,,"Savas Fortis",,,,,,,,,,,
-"Individu",,,"Serge Langlois",,,,,,,,,,,
-"Individu",,,"Serge Le Roux",,,,,,,,,,,
-"Individu",,,"Simon Brisson",,,,,,,,,,,
-"Individu",,,"Simon Rivest",,,,,,,,,,,
-"Individu",,,"Sophie Ryan",,,,,,,,,,,
-"Individu",,,"Stéphane Legrand",,,,,,,,,,,
-"Individu",,,"Stéphanie Gagnon",,,,,,,,,,,
-"Individu",,,"Sylvain Lumbroso",,,,,,,,,,,
-"Individu",,,"William Nicholls",,,,,,,,,,,
-"Individu",,,"Yves Lafontaine",,,,,,,,,,,
-"Holding",,,"Gestion DR (2001) Inc.",,,,,,,,,,,
-"Holding",,,"101885 CANADA LTÉE",,,,,,,,,,,
-"Holding",,,"1302159 ONTARIO INC.",,,,,,,,,,,
-"Holding",,,"1302160 ONTARIO INC.",,,,,,,,,,,
-"Holding",,,"2324-6176 Québec Inc.",,,,,,,,,,,
-"Holding",,,"3167488 Canada Inc",,,,,,,,,,,
-"Holding",,,"3276838 Nova Scotia Company",,,,,,,,,,,
-"Holding",,,"3556093 Canada Inc.",,,,,,,,,,,
-"Holding",,,"3578704 Canada Inc.",,,,,,,,,,,
-"Holding",,,"4232593 Canada inc.",,,,,,,,,,,
-"Holding",,,"7807368 CANADA INC.",,,,,,,,,,,
-"Holding",,,"8679401 Canada Inc.",,,,,,,,,,,
-"Holding",,,"9087-9214 QUÉBEC INC.",,,,,,,,,,,
-"Holding",,,"9129-4470 QUÉBEC INC.",,,,,,,,,,,
-"Holding",,,"9162-2803 QUÉBEC INC.",,,,,,,,,,,
-"Holding",,,"9405-9045 Québec Inc.",,,,,,,,,,,
-"Holding",,,"9405-9052 Québec Inc.",,,,,,,,,,,
-"Holding",,,"9506-5322 Québec inc.",,,,,,,,,,,
-"Holding",,,"9506-5363 Quebec Inc.",,,,,,,,,,,
-"Holding",,,"9506-5371 Québec inc.",,,,,,,,,,,
-"Holding",,,"BCE Inc.",,,,,,,,,,,
-"Holding",,,"Bell Canada",,,,,,,,,,,
-"Holding",,,"Bell Media Regional Radio Partnership",,,,,,,,,,,
-"Holding",,,"Bell MTS Inc.",,,,,,,,,,,
-"Holding",,,"CALUMET MÉDIA INC",,,,,,,,,,,
-"Holding",,,"CDP Investissements Inc.",,,,,,,,,,,
-"Holding",,,"CKRT-TV LTÉE",,,,,,,,,,,
-"Holding",,,"COGECO MÉDIA ACQUISITIONS INC.",,,,,,,,,,,
-"Holding",,,"COGECO MÉDIA INC.",,,,,,,,,,,
-"Holding",,,"CTV Specialty Television Enterprises Inc",,,,,,,,,,,
-"Holding",,,"Fédération des caisses Desjardins du Québec",,,,,,,,,,,
-"Holding",,,"Fiducie de soutien à La Presse",,,,,,,,,,,
-"Holding",,,"Fiducie familiale Brosseau 2014",,,,,,,,,,,
-"Holding",,,"FIDUCIE LE DEVOIR",,,,,,,,,,,
-"Holding",,,"FONDS D'INVESTISSEMENT DRUMMONDVILLE INC.",,,,,,,,,,,
-"Holding",,,"Fonds de solidarité des travailleurs du Québec",,,,,,,,,,,
-"Holding",,,"FONDS XPNDCROISSANCE S.E.C.",,,,,,,,,,,
-"Holding",,,"Fugues",,,,,,,,,,,
-"Holding",,,"GESTION AUDEM INC.",,,,,,,,,,,
-"Holding",,,"GESTION BRISSON ET FILLES INC",,,,,,,,,,,
-"Holding",,,"Gestion Celaz Inc.",,,,,,,,,,,
-"Holding",,,"Gestion Chamarin inc.",,,,,,,,,,,
-"Holding",,,"GESTION FONDS XPND S.E.C.",,,,,,,,,,,
-"Holding",,,"GESTION HEBDOS LTÉE",,,,,,,,,,,
-"Holding",,,"Gestion Julie Voyer Inc.",,,,,,,,,,,
-"Holding",,,"Gestion Phisa Inc.",,,,,,,,,,,
-"Holding",,,"Gestion PRB Inc.",,,,,,,,,,,
-"Holding",,,"Gestion Serge Le Roux Ltée",,,,,,,,,,,
-"Holding",,,"Gestion Ulysse et Pénélope inc.",,,,,,,,,,,
-"Holding",,,"Groupe Investco Inc",,,,,,,,,,,
-"Holding",,,"Groupe Laferté inc.",,,,,,,,,,,
-"Holding",,,"GROUPE RADIO NORD INC.",,,,,,,,,,,
-"Holding",,,"HOLDING CTV SPÉCIALISÉ SPORTS INC.",,,,,,,,,,,
-"Holding",,,"Investissement Québec",,,,,,,,,,,
-"Holding",,,"INVESTMAT INC.",,,,,,,,,,,
-"Holding",,,"JOURNAL LA HAUTE CÔTE-NORD INC.",,,,,,,,,,,
-"Holding",,,"JOURNAL LE NORD-CÔTIER INC.",,,,,,,,,,,
-"Holding",,,"LE JOURNAL DE LA RUE",,,,,,,,,,,
-"Holding",,,"Les Équipements de l'Est inc.",,,,,,,,,,,
-"Holding",,,"Les Placements Péladeau Inc.",,,,,,,,,,,
-"Holding",,,"LES PUBLICATIONS GASPÉSIENNES INC.",,,,,,,,,,,
-"Holding",,,"Maison Reflet de Société",,,,,,,,,,,
-"Holding",,,"Netrevolution Inc",,,,,,,,,,,
-"Holding",,,"PLACEMENTS D B C INC.",,,,,,,,,,,
-"Holding",,,"Québecor Inc.",,,,,,,,,,,
-"Holding",,,"Québecor Média Inc.",,,,,,,,,,,
-"Holding",,,"Radio Témiscamingue Inc.",,,,,,,,,,,
-"Holding",,,"Rogers Communications Canada Inc.",,,,,,,,,,,
-"Holding",,,"Rogers Communications Inc.",,,,,,,,,,,
-"Holding",,,"TÉLÉVISION MBS INC.",,,,,,,,,,,
-"Holding",,,"Télévision spécialisée CTV Inc.",,,,,,,,,,,
-"Holding",,,"THOMSON REUTERS CANADA LIMITÉE",,,,,,,,,,,
-"Holding",,,"Thomson Reuters Corporation",,,,,,,,,,,
-"Holding",,,"Transvision Réseau Inc.",,,,,,,,,,,
-"Holding",,,"Vidéotron ltée",,,,,,,,,,,
-"Holding",,,"LA RADIO COMMUNAUTAIRE DE LASALLE",,,,,,,,,,,
-"Holding",,,"CÂBLE COMMUNAUTAIRE DE BEAUCE INC.",,,,,,,,,,,
-"Holding",,,"LA TÉLÉVISION DU LITTORAL INC.",,,,,,,,,,,
-"Holding",,,"TÉLÉVISION RÉGIONALE DE LAVAL INC.",,,,,,,,,,,
-"Holding",,,"Maskinongé Média",,,,,,,,,,,
-"Holding",,,"LA TELEVISION COMMUNAUTAIRE DE ROBERVAL INC.",,,,,,,,,,,
+"type","montant","neq","nom1","jurForme","act1Code","act1Desc","act2Code","act2Desc","localité","dateConsti","objet","adr1","adr2","adr3","adr4"
+"Radiodiffuseur","8162577,65",1149595432,"BELL MÉDIA INC.","Compagnie privée",4811,"Broadcasting, entertainment and multi-media",,,"ONTARIO",2000-03-09,,"299, QUEEN STREET WEST","TORONTO (ONTARIO)",,"M5V2Z5"
+"Radiodiffuseur",6860000,8811585080,"SOCIÉTÉ RADIO-CANADA","Org. sans but lucratif",8164,"GESTION DES LOISIRS & DE LA CULTURE",,,"CANADA",1936-11-02,,"181 RUE Queen","Ottawa (Ontario)",,"K1P1K9"
+"Éditeur","6622213,91",1166705922,"POSTMEDIA NETWORK INC.","Compagnie privée",2839,"JOURNAUX (PUBLICATION)/NEWS MEDIA",,,"CANADA",2010-04-27,,"12th F-365 BLOOR STREET E","TORONTO (ONTARIO)",,"M4W3L4"
+"Radiodiffuseur","3442468,81",1166864018,"ROGERS MEDIA INC.","Compagnie privée",7741,"TÉLÉVISION, NOUVELLES ET DIVERTISSEMENT",7721,"GÉRANCE DE PORTAIL INTERNET","CANADA",2010-10-01,,"10 Fl.-333 ST Bloor E","Toronto (Ontario)",,"M4W1G9"
+"Éditeur","2922667,17",1173734840,"LA PRESSE INC.","Compagnie privée",2841,"Impression et édition combinées",,,,2018-06-01,,"750 boul. Saint-Laurent","Montréal (Québec)",,"H2Y2Z4"
+"Éditeur","2669166,9",1175097410,"COOPÉRATIVE NATIONALE DE L'INFORMATION INDÉPENDANTE, COOP DE SOLIDARITÉ","Coopérative",2839,"Édition de journaux",,,,2019-12-11,,"310-420 boul. Charest E","Québec (Québec)",,"G1K8M4"
+"Radiodiffuseur","2550771,61",1142054189,"GROUPE TVA INC.","Compagnie privée",4812,"TÉLÉVISION,ÉDIT. ET PUB. DE MAGAZINES, DISTRIBUTION DE PRO. AUDIO-VISUELS",,,"QUÉBEC",1960-03-29,,"612 rue Saint-Jacques","Montréal (Québec)",,"H3C4M8"
+"Éditeur","2043927,27",1170153606,"MédiaQMI inc.","Compagnie privée",9999,"Services liés aux médias",,,,2014-06-13,,"612 RUE Saint-Jacques","Montréal (Québec)",,"H3C4M8"
+"Éditeur","1495180,44",1142871533,"LE DEVOIR INC.","Compagnie privée",2839,"ÉDITION DU JOURNAL LE DEVOIR",,,"QUÉBEC",1992-10-29,,"800-1265 rue Berri","Montréal (Québec)",,"H2L4X4"
+"Éditeur","744697,89",1172911860,"ICIMÉDIAS INC.","Compagnie privée",9999,"Gestion de journaux et publicités",,,"Québec",2017-07-03,,"25 rue Saint-Jacques","Saint-Jean-sur-Richelieu (Québec)",,"J3B2J6"
+"Radiodiffuseur","722610,22",1144427391,"COGECO INC.","Compagnie privée",7215,"COMPAGNIE DE PORTEFEUILLE",,,"QUÉBEC",1957-07-24,,"3301-1 rue Place Ville-Marie","Montréal (Québec)",,"H3B3N2"
+"Éditeur","551729,84",1143570555,"REUTERS CANADA LIMITÉE","Compagnie privée",9999,"COUPURES DE PRESSE, AGENCE",,,"ONTARIO",1991-01-01,,"19 Duncan Street","Toronto (Ontario)",,"M5H3H1"
+"Éditeur","551185,28",1171135180,"NumériQ inc.","Compagnie privée",4839,"-",,,,2015-07-28,,"612 RUE Saint-Jacques","Montréal (Québec)",,"H3C4M8"
+"Éditeur","479622,22",1173256737,"MÉDIALO INC.","Compagnie privée",2839,"MAISON D'ÉDITION DE JOURNAUX ET MAGASINES",,,"Québec",2017-11-27,,"101-250 RUE Jacques Plante","Repentigny (Québec)",,"J5Y0L2"
+"Éditeur","458200,45",1166148511,"URBANIA MÉDIA INC.","Compagnie privée",9611,"-",2839,"-","QUÉBEC",2009-10-01,,"100-914 RUE Notre-Dame O","Montréal (Québec)",,"H3C1J9"
+"Radiodiffuseur","423361,37","282866-9","La Chaîne d'affaires publiques par câble inc.","Loi canadienne sur les sociétés par actions","-","-","-","-","-","-",,"45 O'CONNOR ST SUITE 1750","OTTAWA ON",,"K1P1A4"
+"Radiodiffuseur","374533,96",1162754684,"LE RÉSEAU DE TÉLÉVISION DES PEUPLES AUTOCHTONES","Org. sans but lucratif",6224,"ATELIER DE RÉPARATION DE POSTES DE TÉLÉVISION ET DE RADIO ET D'APP. STÉRÉO.",,,"CANADA",1989-06-12,,"339 Portage Avenue","Winnipeg (Manitoba)",,"R3B2C3"
+"Éditeur","319615,67",1149802093,"Alta Newspaper Group Limited Partnership","Compagnie privée",,,,,,,,,,,
+"Radiodiffuseur","297457,98",1143126887,"RNC MÉDIA INC.","Compagnie privée",4810,"RADIODIFFUSION TÉLÉDIFFUSION",,,"QUÉBEC",1948-01-17,,"935-1 PL Westmount Square","Westmount (Québec)",,"H3Z2P9"
+"Éditeur","257839,67",1172943020,"10320633 CANADA INC. (Gravité Media)","Compagnie privée",2841,"Édition et publication médias",,,,2017-07-13,,"#215-215 BOUL. Jean-Leman","Candiac (Québec)",,"J5R6Z8"
+"Éditeur","227276,64",1173871709,"Mishmash Media Inc.","Compagnie privée",2839,"Production média et édition",2849,"-",,2018-08-01,,"520-1450 rue City Councillors","Montréal (Québec)",,"H3A2E6"
+"Éditeur","220040,09",1148493118,"D B C COMMUNICATIONS INC.","Compagnie privée",2841,"ÉDITION ET PUBLICATION DE JOURNAUX",5991,"DISTRIBUTION DE JOURNAUX ET CIRCULAIRES","QUÉBEC",1999-04-14,,"655 av. Sainte-Anne","Saint-Hyacinthe (Québec)",,"J2S5G4"
+"Éditeur","185609,26",1174793647,"GROUPE CONTEX INC.","Compagnie privée",9999,"Création et mise en marché d’évènements d’affaires et édition de magazines et sites web",,,,2019-07-02,,"501-355 RUE Sainte-Catherine Ouest","Montréal (Québec)",,"H3B1A5"
+"Éditeur","160553,59",1175108357,"11802607 CANADA INC.","Compagnie privée",9999,"Nouvelles et agence d'information",,,,2019-12-20,,"3000-662 av. Victoria","Saint-Lambert (Québec)",,"J4P2J6"
+"Éditeur",142332,1174614603,"ACADEMIC JOURNALISM SOCIETY","Org. sans but lucratif",9999,"Journalisme",,,,2017-03-22,,"2200-700 WEST GEORGIA STREET","Vancouver (BC)",,"V7Y1K8"
+"Éditeur","125775,53",1173002438,"L'Express Drummondville inc.","Compagnie privée",2839,"Édition de journaux hebdomadaires",,,,2017-08-11,,"201-575 rue des Écoles","Drummondville (Québec)",,"J2B1J6"
+"Éditeur","124899,56",3372773658,"Neomedias agence de marketing web S.E.N.C.","Société en commandite",7749,"Nous  offrons des services de marketing web tel que créations de site web à but promotionel, page de medias sociaux à but promotionel",7741,"Nous offrons aussi des servicse tel que le marketing d'influenceur, gestion de campagne de marketing web tel que Adword et FB ads",,2017-05-09,"Neomedias  est une entreprise de marketing web qui a pour but d'aider les entreprises, PME et travailleurs automones à rayonner sur le web à travers des services  tel que créations de site web, gestions des médias sociaux, campagne de marketing web tel que ¨FB ads et adword¨. Nous offrons aussi des services tel que marketing d'influenceurs","1109 rue Joliette","Longueuil (Québec)",,"J4K4W2"
+"Éditeur","118402,85",1143305226,"LES ÉDITIONS BLAINVILLE DEUX-MONTAGNES INC.","Compagnie privée",2839,"ÉDITIONS, COMPOSITION ET RELIURE. Web",4842,"MESSAGERIES","QUÉBEC",1970-08-27,,"53 rue Saint-Eustache","Saint-Eustache (Québec)",,"J7R2L2"
+"Éditeur","108950,74",1172936297,"Trium Médias Inc.","Compagnie privée",7749,"Marketing",2841,"Édition","Québec",2017-07-12,,"654 boul. des Cascades","Alma (Québec)",,"G8B0G2"
+"Éditeur",108059,1140856411,"LES ÉDITIONS INFO DIMANCHE INC.","Compagnie privée",2839,"ÉDITION D'UN JOURNAL HEBDOMADAIRE",2819,"INFOGRAPHIE","QUÉBEC",1992-07-22,,"72 rue Fraser","Rivière-du-Loup (Québec)",,"G5R1C6"
+"Radiodiffuseur","103326,64",1142981670,"TÉLÉ INTER-RIVES LTÉE","Compagnie privée",4812,"STATION DE TÉLÉVISION PRIVÉE",,,"CANADA",1978-04-04,,"15 rue de la Chute","Rivière-du-Loup (Québec)",,"G5R5B7"
+"Éditeur","88718,15",1147563853,"9061-6632 QUÉBEC INC.","Compagnie privée",2831,"PUBLICATION",,,"QUÉBEC",1998-03-25,,"101-250 RUE Jacques Plante","Repentigny (Québec)",,"J5Y0L2"
+"Éditeur","82340,43",1148410625,"LA COMPAGNIE D'ÉDITION ANDRÉ PAQUETTE INC.","Compagnie privée",2831,"EDITION",2841,"IMPRESSION","ONTARIO",1958-04-28,,"1100, RUE ABERDEEN, C.P. 1000","HAWKESBURY (ONTARIO)",,"K6A3H1"
+"Éditeur","78520,92",1173220691,"9369-0055 Québec inc. (2M.Média)","Compagnie privée",2841,"-",7741,"-","Québec",2017-11-10,,"2584 boul. Le Corbusier","Laval (Québec)",,"H7S2K8"
+"Éditeur","72318,17",1173009128,"JOURNAL LE NORD INC.","Compagnie privée",2812,"JOURNAL",,,"Québec",2017-08-15,,"101-250 RUE Jacques Plante","Repentigny (Québec)",,"J5Y0L2"
+"Radiodiffuseur","65334,65",1149367949,"CHAU-TV COMMUNICATIONS LTÉE","Compagnie privée",4812,"STATION DE TÉLÉVISION PRIVÉE",,,"CANADA",2000-05-11,,"103 rue des Équipements","Rivière-du-Loup (Québec)",,"G5R5W7"
+"Éditeur","60370,36",1149802093,"SHERBROOKE RECORD LTD.","Compagnie privée",2839,"ÉDITION",2811,"IMPRIMERIE","NOUVELLE-ÉCOSSE",2000-12-06,,"700 , West Georgia Street","25th Floor, Vancouver (British Columbia)",,"V7Y1B3"
+"Éditeur","58621,2",1175599068,"COOP DE SOLIDARITÉ PIVOT","Coopérative",2839,"Édition et publication du média d'information Web Pivot",,,,2020-07-16,,"04-4284 RUE de La Roche","Montréal (Québec)",,"H2J3H9"
+"Éditeur","57205,85",1164768757,"4437594 CANADA INC.","Compagnie privée",7741,"PUBLISHING SERVICES",,,"CANADA",2007-10-17,,"815, RIVERSIDE DRIVE","WAKEFIELD (QUEBEC)",,"J0X3G0"
+"Éditeur","56834,94",1176464593,"9439-7460 Québec inc.","Compagnie privée",4839,"Exploitation d'un journal électronique",,,"Québec",2021-04-12,,"101 rue Lavoie","Rimouski (Québec)",,"G5L5Y2"
+"Éditeur","56128,97",1148691836,"LES VERSANTS DU MONT-BRUNO INC.","Compagnie privée",2839,"JOURNAL HEBDOMADAIRE",,,"CANADA",1999-06-14,,"1488 rue Montarville","Saint-Bruno-de-Montarville (Québec)",,"J3V3T5"
+"Éditeur","55816,93",1165783425,"VÉLO QUÉBEC ÉDITIONS","Org. sans but lucratif",2849,"ÉDITION DE REVUES ET MAGAZINES",,,"QUÉBEC",2009-03-31,,"1251 rue Rachel E","Montréal (Québec)",,"H2J2J9"
+"Éditeur","54996,21",1160386687,"LE JOURNAL DE LÉVIS, COOPÉRATIVE DE SOLIDARITÉ","Coopérative",2839,"PUBLICATION DE JOURNAL",,,"QUÉBEC",2001-10-11,,"580 boul. Alphonse-Desjardins","Lévis (Québec)",,"G6V5T2"
+"Radiodiffuseur","53609,04",1167624932,"Leclerc communication inc.","Compagnie privée",4811,"-",,,,2011-08-31,,"505-815 BOUL. Lebourgneuf","Québec (Québec)",,"G2J0C1"
+"Éditeur","52612,96",1160189149,"LE REFLET TÉMISCAMIEN INC.","Compagnie privée",2839,"RÉDACTION ET PUBLICATION D'UN HEBDOMADAIRE SANS IMPRESSION",6582,"Boutique souvenir et produits régionaux","QUÉBEC",2001-06-20,,"22 rue Sainte-Anne","Ville-Marie (Québec)",,"J9V2B7"
+"Radiodiffuseur","51633,76",1162503586,"SOCIÉTÉ CRIE DES COMMUNICATIONS DE LA BAIE JAMES","Org. sans but lucratif",9861,"OPÉRATION POSTES RADIO COMMUNAUTAIRES & RÉGIONALES",,,"CANADA",1981-03-20,,"23 rue Petawabano","Mistissini (Québec)",,"G0W1C0"
+"Éditeur","49243,27",1144674851,"Journal de la Rue / Reflet de Société","Org. sans but lucratif",2841,"CRÉATION DE TEXTES, ÉDITION ET DISTRIBUTION DE TEXTES EN JOURNAL  Milieu de vie pour jeune marginalisé",9211,"restaurant avec permis d'alcool et salle de spectacle","QUÉBEC",1992-09-14,,"12-3894 RUE Sainte-Catherine E","Montréal (Québec)",,"H1W2G4"
+"Éditeur","49006,53",1140473738,"3091-2703 QUÉBEC INC. (Groupe Hom)","Compagnie privée",2839,"Publication de magazines imprimés et numériques / sites web",,,"QUÉBEC",1993-05-13,,"1674 rue Cartier","Montréal (Québec)",,"H2K4E2"
+"Éditeur","46852,13",1173776809,"BERA Communication Média inc.","Compagnie privée",9999,"Médias d'information en ligne (numérique) et Plateformes d'emplois",,,"Québec",2018-07-01,,"126-3000 RUE Omer-Lavallée","Montréal (Québec)",,"H1Y3R8"
+"Radiodiffuseur","46470,38",1167120832,"4517466 Canada inc.","Compagnie privée",4812,"-",,,"Canada",2009-05-04,,"4-9525 RUE Christophe-Colomb","Montréal (Québec)",,"H2M2E2"
+"Éditeur","43892,8",1170862081,"Imprimerie Le Radar Inc.","Compagnie privée",4839,"-",,,"Québec",2015-04-09,,"1073 CH. de Lavernière","CP 8183","Cap-aux-Meules (Québec)","G4T1R3"
+"Éditeur","43727,08",1146128112,"9040-9681 QUÉBEC INC.","Compagnie privée",2839,"PUBLICATION DES JOURNEAUX PRÉPARATION DES ANNONCES COMMERCIALES",,,"QUÉBEC",1996-09-09,,"C10-181 rue Principale","Gatineau (Québec)",,"J9H6A6"
+"Éditeur","41872,57",1142604645,"JOURNAL ""LE COLLECTIF""","Org. sans but lucratif",2839,"INFORMATION ; JOURNAL ÉTUDIANT",7741,"PUBLICITÉ (COMME MOYEN DE FINANCEMENT)","QUÉBEC",1981-11-13,,"E11020-2500 BOUL. de l'Université","CP J1K 2R1","Sherbrooke (Québec)","J1K2R1"
+"Éditeur","40052,69",1145413796,"JOURNAL LE CHARLEVOISIEN INC.","Compagnie privée",2841,"Vente de publicité web",7741,,"QUÉBEC",1996-01-18,,"45 boul. Raymond-Mailloux","Baie-Saint-Paul (Québec)",,"G3Z1W2"
+"Éditeur","39520,88",1168169978,"Monquartier Média Inc.","Compagnie privée",7721,"Média / journal en ligne",7749,"Services publicitaires web",,2012-04-12,,"1984 4e Avenue","Québec (Québec)",,"G1J3C9"
+"Éditeur","38818,54",1164645609,"ESTRIEPLUS.COM INC.","Compagnie privée",9999,"JOURNAL WEB",6921,"COMMERCE ÉLECTRONIQUE","CANADA",2007-08-17,,"105-175 rue Queen","Sherbrooke (Québec)",,"J1M1K1"
+"Éditeur","37753,18",1168325836,"JOURNAL L'ÉTINCELLE INC.","Compagnie privée",2812,"JOURNAL",,,,2012-06-11,,"193 rue Saint-Georges","Windsor (Québec)",,"J1S1J7"
+"Éditeur","35535,65",1167237933,"ATELIER 10 INC.","Compagnie privée",2831,"Édition de livres et de magazines.",,,,2011-03-23,,"156 rue Beaubien E","Montréal (Québec)",,"H2S1R2"
+"Éditeur","35070,05",1143780154,"IMPRIMERIE PONTIAC INC.","Compagnie privée",2819,"Publication d'un hebdomadaire; impression commerciale",,,"Québec",1962-01-29,,"133, RUE CENTRE BP 4300","SHAWVILLE QC",,"J0X2Y0"
+"Éditeur","33752,16",1149948169,"LES ÉDITIONS PROTÉGEZ-VOUS","Org. sans but lucratif",2839,"ÉDITION DE MAGAZINES ÉDITION DE GUIDES PRATIQUES",,,"QUÉBEC",2001-03-26,,"400-2120 rue Sherbrooke E","Montréal (Québec)",,"H2K1C3"
+"Éditeur","33228,95",1143809995,"AGENCE SCIENCE-PRESSE","Org. sans but lucratif",7799,"RÉDACTION DOMAINE SCIENTIFIQUE",,,"QUÉBEC",1978-12-07,,"200-5455 av. De Gaspé","Montréal (Québec)",,"H2T3B3"
+"Éditeur","32828,85",1174352923,"Services d'information communautaire de la Vallée de la Châteauguay","Org. sans but lucratif",9999,"Services d'information communautaire",,,,2019-02-26,,"3202 rang de Tullochgorum","Ormstown (Québec)",,"J0S1K0"
+"Éditeur","31865,68",1147955356,"3494586 CANADA INC.(Beesum Communications)","Compagnie privée",7799,"COMMUNICATIONS INCLUDING PRINT MULTI MEDIA AND TELEVISION",,,"CANADA",1998-06-17,,"403-4529 rue Clark","Montréal (Québec)",,"H2T2T3"
+"Éditeur","29356,57",1144449601,"COOPÉRATIVE DU COURRIER DE PORTNEUF","Coopérative",2849,"PUBLIER UN JOURNAL HEBDOMADAIRE",,,"QUÉBEC",1982-11-13,,"276 rue Notre-Dame","Donnacona (Québec)",,"G3M1G7"
+"Éditeur","28078,14",1161596508,"JOURNAL LE PLACOTEUX, COOPÉRATIVE DE SOLIDARITÉ","Coopérative",2839,"PUBLICATION D'UN HEBDOMADAIRE",8372,"DÉVELOPPEMENT ÉCONOMIQUE","QUÉBEC",2003-06-18,,"409 rue Taché","Saint-Pascal (Québec)",,"G0L3Y0"
+"Radiodiffuseur","27802,79",1145197035,"TVRM - TÉLÉVISION RÉGIONALE DES MOULINS","Org. sans but lucratif",4814,"TÉLÉVISION COMMUNAUTAIRE PRODUCTION DE VIDÉO COMMUNAUTAIRE",,,"QUÉBEC",1995-10-31,,"688 montée Masson","Terrebonne (Québec)",,"J6W2Z9"
+"Éditeur","24747,9",1145413697,"9030-2944 QUÉBEC INC.","Compagnie privée",2841,"On fait l'édition de quatre journaux communautaires",2819,"-","QUÉBEC",1996-01-19,,"304-3860 boul. Notre-Dame","Laval (Québec)",,"H7V1S1"
+"Radiodiffuseur",23604,1144493104,"SOCIÉTÉ DE COMMUNICATION ATIKAMEKW-MONTAGNAIS","Org. sans but lucratif",4811,"RADIODIFFUSION ET RÉGIE PUBLICITAIRE",,,"CANADA",1983-11-04,,"565 rue Chef Stanislas-Koska","Wendake (Québec)",,"G0A4V0"
+"Radiodiffuseur","22128,75",1148664692,"RADIO MATAGAMI","Org. sans but lucratif",4811,"ORGANISME DE RADIODIFFUSION COMMUNAUTAIRE",,,"QUÉBEC",1999-06-30,,"110 boul. Matagami","Matagami (Québec)",,"J0Y2A0"
+"Éditeur","21646,52",1168097245,"Invention Media corp.","Compagnie privée",9999,"Média d'information numérique",7749,"Vente de publicité, de commandite et de contenus promotionnels à des entreprises","Canada",2012-03-08,,"245 boul. Gouin E","Montréal (Québec)",,"H3L1A9"
+"Radiodiffuseur","21561,35",1162114723,"COOP DE SOLIDARITÉ RADIO COMMUNAUTAIRE DE LA MRC DE MASKINONGÉ","Coopérative",4811,"-",4839,"-","QUÉBEC",2004-03-15,,"47 rue Saint-Thomas","Louiseville (Québec)",,"J5V2A3"
+"Radiodiffuseur","20256,32",1143870781,"RADIO COMMUNAUTAIRE F.M. DE LA HAUTE-GATINEAU INC.","Org. sans but lucratif",4811,"RADIODIFFUSION",,,"QUÉBEC",1975-01-13,,"158 rue Laurier","Maniwaki (Québec)",,"J9E2K7"
+"Radiodiffuseur","20075,46",1144443299,"RADIO MF CHARLEVOIX","Org. sans but lucratif",4811,"RADIO DIFFUSION",,,"QUÉBEC",1981-07-14,,"315 ch. Cartier N","Saint-Hilarion (Québec)",,"G0A3V0"
+"Radiodiffuseur","19362,66",1142407197,"RADIO COMMUNAUTAIRE DE LA RIVE-SUD INC.","Org. sans but lucratif",4811,"RADIODIFFUSION",,,"QUÉBEC",1984-05-15,,"91, RUE SAINT-JEAN","LONGUEUIL QC",,"J4H2W8"
+"Éditeur","18545,14",1176559384,"La Converse","Org. sans but lucratif",2839,"-",,,,2021-04-30,,"301-7012 boul. Saint-Laurent","Montréal (Québec)",,"H2S3E2"
+"Radiodiffuseur","18511,55",1145249315,"DIFFUSION COMMUNAUTAIRE DES ÎLES INC.","Org. sans but lucratif",4811,"RADIODIFFUSION",,,"QUÉBEC",1975-09-03,,"1172 ch. de La Vernière","Les Îles-de-la-Madeleine (Québec)",,"G4T3E6"
+"Éditeur","17941,44",1144227494,"LA GAZETTE DE LA MAURICIE","Org. sans but lucratif",2839,"FAVORISER LA PARTICIPATION ET LE DÉVELOPPEMENT DES MÉDIAS COMMUNAUTAIRES",,,"QUÉBEC",1984-08-15,,"942 rue Sainte-Geneviève","Trois-Rivières (Québec)",,"G9A3X6"
+"Radiodiffuseur","17731,37",1166439779,"COOPÉRATIVE DE SOLIDARITÉ CSUR LA TÉLÉ","Coopérative",9611,"PRODUCTION D'ÉMISSIONS DE TÉLÉVISION COMMUNAUTAIRE/PUBLICITÉ/VIDEO PROMOT.",,,"QUÉBEC",2010-03-08,,"186 ch. de l'Anse","Vaudreuil-Dorion (Québec)",,"J7V8P3"
+"Radiodiffuseur","16135,55",1149416548,"COOPÉRATIVE DE SOLIDARITÉ RADIO COMMUNAUTAIRE NICOLET-YAMASKA/ BÉCANCOUR","Coopérative",4811,"-",,,"QUÉBEC",2000-06-22,,"4300 av. Arseneault","Bécancour (Québec)",,"G9H1V8"
+"Radiodiffuseur","16064,62",1142626143,"DIFFUSION COMMUNAUTAIRE BAIE DES CHALEURS INC.","Org. sans but lucratif",4811,"RADIODIFFUSION (EXPLOITATION D'UNE STATION-RADIO)",,,"QUÉBEC",1980-10-14,,"1645 boul. Perron","Carleton-sur-Mer (Québec)",,"G0C1J0"
+"Éditeur","16043,52",1146645529,"AUTOUR DE L'ÎLE","Org. sans but lucratif",2839,"PRODUCTION D'UN JOURNAL D'INFORMATION",,,"QUÉBEC",1997-03-25,,"115-517 rte des Prêtres","Saint-Pierre-de-l'Île-d'Orléans (Québec)",,"G0A4E0"
+"Éditeur","15783,1",1147283395,"9057-3023 QUÉBEC INC.","Compagnie privée",2839,"JOURNAL PUBLICITÉ",,,"QUÉBEC",1997-11-26,,"710-6020 RUE Jean-Talon E","Saint-Léonard (Québec)",,"H1S3B1"
+"Radiodiffuseur","15663,9",1145810447,"COOPÉRATIVE DE TRAVAIL DE LA RADIO DE GRANBY","Coopérative",4811,"-",,,"QUÉBEC",1996-05-15,,"35-135 rue Principale","Granby (Québec)",,"J2G2V1"
+"Radiodiffuseur","15163,87",1148831317,"COMITÉ DE LA RADIO ÉTUDIANTE UNIVERSITAIRE DE SHERBROOKE (CREUS)","Org. sans but lucratif",4811,"RADIODIFFUSION",,,"QUÉBEC",1999-09-21,,"2500 boul. de l'Université","Sherbrooke (Québec)",,"J1K2R1"
+"Radiodiffuseur","14800,73",1170868336,"9238476 Canada Inc.","Compagnie privée",4811,"Radio Station",,,,2015-03-30,,"200-129 rue Alexandre","Salaberry-de-Valleyfield (Québec)",,"J6S3K5"
+"Radiodiffuseur","14383,69",1142469494,"TÉLÉVISION COMMUNAUTAIRE DE L'ÉRABLE","Org. sans but lucratif",4812,"PRODUCTION ET DIFFUSION D'ÉMISSIONS DE TÉLÉVISION COMMUNAUTAIRE",9611,"PRODUCTION DE VIDÉOS ÉDUCATIFS, CORPORATIFS OU PROMOTIONNELS","QUÉBEC",1977-06-14,,"2264 rue de la Coopérative","Plessisville (Québec)",,"G6L1X2"
+"Radiodiffuseur","14185,1",1149158710,"RADIO NORD-JOLI INC.","Org. sans but lucratif",4811,"RADIO COMMUNAUTAIRE",,,"QUÉBEC",1981-04-28,,"211 RUE Saint-Pierre N","Joliette (Québec)",,"J6E0X6"
+"Radiodiffuseur","13830,47",1142657627,"RADIO GASPESIE INC.","Org. sans but lucratif",4811,"RADIODIFFUSION",,,"QUÉBEC",1976-01-20,,"162 rue Jacques-Cartier","Gaspé (Québec)",,"G4X1M9"
+"Radiodiffuseur","13016,25",1163438642,"LA TELEVISION COMMUNAUTAIRE DE WATERLOO","Org. sans but lucratif",4812,"-",,,"QUÉBEC",1985-04-30,,"417 rue de la Cour","Waterloo (Québec)",,"J0E2N0"
+"Radiodiffuseur","12908,44",1148342281,"COMMUNICATION DU VERSANT NORD (CISM FM) INC.","Org. sans but lucratif",4811,"RADIODIFFUSION",9631,"PRODUCTION SPECTACLES","QUÉBEC",1990-12-20,,"C1509-2332 boul. Édouard-Montpetit","Montréal (Québec)",,"H3T1J4"
+"Radiodiffuseur","12365,86",1173372005,"COOPÉRATIVE RADIO WEB MÉDIA DES SOURCES","Coopérative",4811,"Acquisition et début des opérations en février 2019",7742,"Multimédia incluant Radio FM, affichage extérieur numérique, web et média-sociaux",,2018-01-18,,"1 rue Hilaire","Val-des-Sources (Québec)",,"J1T0A3"
+"Radiodiffuseur","11915,48",1142323287,"TELEVISION COMMUNAUTAIRE 3 INC.","Org. sans but lucratif",9611,"PRODUCTION VIDÉO",,,"QUÉBEC",1988-04-05,,"97, ROUTE 132, C.P. 39","SAINT-GODEFROY (QUÉBEC)",,"G0C3C0"
+"Radiodiffuseur","11844,56",1142631333,"RADIO CJFP (1986) LTÉE","Compagnie privée",4811,"RADIODIFFUSION",,,"CANADA",1986-08-27,,"64 rue de l'Hôtel-de-Ville","Rivière-du-Loup (Québec)",,"G5R1L5"
+"Radiodiffuseur","11433,19",1164860109,"SONÈME (2007) INC.","Compagnie privée",4811,"STATION DE RADIO",,,"QUÉBEC",2007-12-14,,"456 rue du Pont","Mont-Laurier (Québec)",,"J9L2R9"
+"Radiodiffuseur","11064,38",1143005735,"DIFFUSION COMMUNAUTAIRE DE LA MITIS INC.","Org. sans but lucratif",4812,"TÉLÉVISION COMMUNAUTAIRE, PRODUCTION DE VIDÉOS CORPORATIFS",9611,"PRODUCTION VIDÉO","QUÉBEC",1975-12-18,,"1806 rue Isidore-LeChasseur","Mont-Joli (Québec)",,"G5H2Z4"
+"Radiodiffuseur","10833,87",1140990020,"RADIO BEAUCE INC.","Compagnie privée",4811,"POSTE DE RADIO",,,"QUÉBEC",1994-09-01,,"11760, 3E AVENUE, C.P. 100","SAINT-GEORGES (QUÉBEC)",,"G5Y5C4"
+"Radiodiffuseur","10372,85",1143695196,"TÉLÉVISION COMMUNAUTAIRE DES BASSES-LAURENTIDES","Org. sans but lucratif",4812,"DÉFINIR ET OPÉRER CANAL DE TÉLÉDISTRIBUTION CONSACRÉ À LA TÉLÉVISION COMMUNAUTAIRE À L'INTENTION DE LA COLLECTIVITÉ DU TERRITOIRE DÉSERVI",,,"QUÉBEC",1991-07-30,,"101-33 rue Blainville O","Sainte-Thérèse (Québec)",,"J7E1X1"
+"Radiodiffuseur","10142,35",1163566327,"COOPÉRATIVE DES TRAVAILLEURS CHNC","Coopérative",4811,"PRODUCTION ET DIFFUSION D'UN CONTENU RADIOPHONIQUE",,,"QUÉBEC",2006-02-24,,"3 BOUL. Gérard-D.-Levesque E","Paspébiac (Québec)",,"G0C2K0"
+"Radiodiffuseur","9773,53",1145234580,"TÉLÉVISION RÉGIONALE HAUTE CÔTE-NORD","Org. sans but lucratif",4839,"DIFFUSION D'ÉMISSION",7749,"DIFFÉRENTES PUBLICITÉS (BABILLARD & PHOTO)","QUÉBEC",1990-05-25,,"328 Route 138","Les Escoumins (Québec)",,"G0T1K0"
+"Radiodiffuseur","9752,26",1144408698,"CORPORATION DE TÉLÉDIFFUSION RÉGIONALE DE BERTHIER INC.","Org. sans but lucratif",4812,"-",9611,,"QUÉBEC",1995-04-05,,"471 av. Gilles-Villeneuve","Berthierville (Québec)",,"J0K1A0"
+"Radiodiffuseur","8605,6",1144249142,"RADIO BASSE VILLE","Org. sans but lucratif",4811,"RADIOFFUSION COMMUNAUTAIRE",,,"QUÉBEC",1980-02-08,,"556 car. Lépine","Québec (Québec)",,"G1K6L4"
+"Radiodiffuseur","8564,25",1142639955,"TÉLÉVISION RIVE-SUD","Org. sans but lucratif",9619,"ÉMISSIONS DE TÉLÉVISION RÉGIONALE PRODUCTION D'ÉVÉNEMENTS SPÉCIAUX",,,"QUÉBEC",1989-06-16,,"893 boul. Guimond","Longueuil (Québec)",,"J4G2M7"
+"Radiodiffuseur","8440,13",1143140128,"Télévision communautaire de la région des Appalaches","Org. sans but lucratif",9611,"PRODUCTION D'ÉMISSIONS DE TÉLÉVISIONS COMMUNAUTAIRE PRODUCTION VIDÉO",9661,"Bingo médias","QUÉBEC",1973-07-30,,"228 RUE Notre-Dame O","Thetford Mines (Québec)",,"G6G2X9"
+"Radiodiffuseur","8248,64",1149535115,"RADIO BISHOP INC.","Org. sans but lucratif",4839,"RADIO COMMUNAUTAIRE",,,"QUÉBEC",1987-02-19,,"3355 rue College","Sherbrooke (Québec)",,"J1M0B8"
+"Radiodiffuseur","7979,12",1160940780,"RADIO-ACTON INC.","Org. sans but lucratif",4811,"RADIODIFFUSION (RADIO COMMUNAUTAIRE)",8541,"FORMATION","QUÉBEC",2002-07-25,,"1040 rue Dubois","Acton Vale (Québec)",,"J0H1A0"
+"Radiodiffuseur","7943,66",1170056874,"Télévision Communautaire des Basques et du Haut-Pays","Org. sans but lucratif",4812,"TÉLÉVISION COMMUNAUTAIRE",,,,2014-05-08,,"307-15 RUE Notre-Dame E","Trois-Pistoles (Québec)",,"G0L4K0"
+"Radiodiffuseur","7376,25",1144312882,"LA RADIO COMMUNAUTAIRE DE FERMONT INC.","Org. sans but lucratif",4813,"RADIODIFFUSION",,,"QUÉBEC",1978-01-05,,"20 place Daviault","Fermont (Québec)",,"G0G1J0"
+"Radiodiffuseur","7376,25",1147013636,"Télévision du Sud-Ouest","Org. sans but lucratif",4812,"TÉLÉDISTRIBUTION PRODUCTION AUDIO-VISUEL TÉLÉVISION ETC...",,,"QUÉBEC",1987-01-19,,"29 boul. Saint-Francis","Châteauguay (Québec)",,"J6J1Y2"
+"Radiodiffuseur","7007,44",1142948661,"RADIO BELLECHASSE-ETCHEMINS","Org. sans but lucratif",4811,"RADIODIFFUSION PRODUCTION",,,"QUÉBEC",1983-11-18,,"1540 Route 277","Lac-Etchemin (Québec)",,"G0R1S0"
+"Radiodiffuseur","6970,56",1143533553,"RADIO & TELEVISION COMMUNAUTAIRE HAVRE ST-PIERRE","Org. sans but lucratif",4814,"Câblodistribution Télécommunication",4811,"Station de Radio FM","QUÉBEC",1981-08-04,,"992, RUE DU BOULEAU","HAVRE-ST-PIERRE (QUÉBEC)",,"G0G1P0"
+"Radiodiffuseur","6915,24",1143140987,"TÉLÉVISION COMMUNAUTAIRE DE LA BASSE-LIÈVRE INC.","Org. sans but lucratif",4812,"PRODUCTION ET DIFFUSION D'ÉMISSIONS T.V. LOCALES",,,"QUÉBEC",1975-05-09,,"150 rue Maclaren E","Gatineau (Québec)",,"J8L1K1"
+"Radiodiffuseur","6454,22",1162336854,"Radio Shawinigan Inc.","Org. sans but lucratif",4811,"RADIO COMMUNAUTAIRE",,,"QUÉBEC",2004-06-29,,"47 rue Saint-Thomas","Louiseville (Québec)",,"J5V2A3"
+"Radiodiffuseur","6205,98",1145864188,"RADIO COMMUNAUTAIRE FRANCOPHONE DE MONTRÉAL INC.","Org. sans but lucratif",4839,"RÉALISATION PROGRAMMATION RADIOPHONIQUE",8511,"FORMATION DES MÉTIERS DE LA RADIO","QUÉBEC",1978-05-25,,"2 rue Sainte-Catherine E","Montréal (Québec)",,"H2X1K4"
+"Radiodiffuseur","6163,43",1145508868,"SOCIÉTÉ D'INFORMATION LAC-ST-JEAN","Org. sans but lucratif",9611,"PRODUCTIONS AUDIOVISUELLES",,,"QUÉBEC",1996-02-16,,"218 3e Avenue","Dolbeau-Mistassini (Québec)",,"G8L1V9"
+"Radiodiffuseur","4220,07",1142525949,"TÉLÉVISION COMMUNAUTAIRE DES BOIS-FRANCS","Org. sans but lucratif",4814,"PRODUCTION D'ÉMISSIONS DE TÉLÉVISION COMMUNAUTAIRES",4812,"Diffusion d'émissions de télévision","QUÉBEC",1974-10-30,,"247 rue Notre-Dame E","Victoriaville (Québec)",,"G6P4A2"
+"Radiodiffuseur","4184,6",1147763321,"RADIO COMMUNAUTAIRE TÊTE-À-LA-BALEINE","Org. sans but lucratif",4839,"PROMOUVOIR LE DÉVELOPPEMENT ET LA MISE SUR PIED D'UNE RADIO ENCOURAGER ET FAVORISER CE MOYEN DE COMMUNICATION",,,"QUÉBEC",1998-06-04,,"152 rue de la Salle","Côte-Nord-du-Golfe-du-Saint-Laurent",,"(Québec) G0G2W0"
+"Radiodiffuseur","4085,31",1143077908,"La télé du Rocher-Percé","Org. sans but lucratif",4814,"DIFFUSION D'UN BINGO TÉLÉVISÉ ET DES ÉMISSIONS EX: INFORMA.-VARIÉTÉ-MUSIQUE",,,"QUÉBEC",1978-01-13,,"205B rue du Parc","Grande-Rivière (Québec)",,"G0C1V0"
+"Radiodiffuseur","3751,96",1144160448,"RADIO CKUT","Org. sans but lucratif",4813,"RADIODIFFUSION",,,"CANADA",1988-07-18,,"3647 rue University","Montréal (Québec)",,"H3A2B3"
+"Radiodiffuseur","3688,13",1147573944,"LA RADIO COMMUNAUTAIRE DU COMTÉ","Org. sans but lucratif",4813,"EXPLOITATION D'UNE STATION DE RADIO COMMUNAUTAIRE",,,"QUÉBEC",1983-12-01,,"323 montée Industrielle-et-Commerciale","Rimouski (Québec)",,"G5M1A7"
+"Radiodiffuseur","2978,87",1165602880,"TÉLÉ-GASPÉ","Org. sans but lucratif",4814,"RÉSEAU DE COMMUNICATION COMMUNAUTAIRE - T.V.",8591,"Formation, apprentissage et information","QUÉBEC",2009-01-05,,"494 MONTEE Wakeham","Gaspé (Québec)",,"G4X2P5"
+"Radiodiffuseur","1773,14",1164618762,"RADIO COOPÉRATIVE DE COATICOOK, COOP DE SOLIDARITÉ","Coopérative",4811,"RADIO COMMUNAUTAIRE",7721,"PORTAIL WEB","QUÉBEC",2007-08-07,,"102 rue Child","Coaticook (Québec)",,"J1A2B3"
+"Éditeur","741,81",1143020825,"COOPERATIVE DU JOURNAL L'OIE BLANCHE","Coopérative",2841,"ÉDITION D'UN JOURNAL",,,"QUÉBEC",1990-07-04,,"224 ch. des Poirier","Montmagny (Québec)",,"G5V3X8"
+"Éditeur","39,46",1170589312,"Revue l'Esprit libre","Org. sans but lucratif",4839,"-",2831,"-",,2014-12-17,,"133 2e-et-3e Rang","Saint-Camille (Québec)",,"J0A1G0"
+"Holding",0,1140238206,"RADIO CENTRE-VILLE SAINT-LOUIS","Org. sans but lucratif",4811,"-",,,"QUÉBEC",1972-04-20,,"5212 boul. Saint-Laurent","Montréal (Québec)",,"H2T1S1"
+"Holding",0,1142195255,"TÉLÉVISION COMMUNAUTAIRE VENTS ET MARÉES","Org. sans but lucratif",4814,"TÉLÉVISION COMMUNAUTAIRE:COMMUNICATION-TÉLÉVISUELLE",,,"QUÉBEC",1974-06-11,,"205 rue Saint-Étienne","La Malbaie (Québec)",,"G5A1T1"
+"Holding",0,1142279968,"RADIO COMMUNAUTAIRE DU SAGUENAY INC.","Org. sans but lucratif",4811,"RADIO-STATION COMMUNAUTAIRE",,,"QUÉBEC",1975-02-10,,"3877 boul. Harvey","Saguenay (Québec)",,"G7X0A6"
+"Holding",0,1142384438,"LA TELEVISION COMMUNAUTAIRE DE ST-RAYMOND, INC.","Org. sans but lucratif",4839,"TÉLÉVISION COMMUNAUTAIRE",,,"QUÉBEC",1972-09-05,,"235 rue Saint-Cyrille","Saint-Raymond (Québec)",,"G3L1T2"
+"Holding",0,1142429977,"JOURNAL COMMUNAUTAIRE LE REFLET DE LINGWICK-GOULD","Org. sans but lucratif",2839,"PRODUCTION D'UN JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",1989-09-28,,"72 Route 108","Lingwick (Québec)",,"J0B2Z0"
+"Holding",0,1142441378,"L'ECHO DE ST-FRANCOIS","Org. sans but lucratif",2839,"JOURNAL MENSUEL",,,"QUÉBEC",1993-09-20,,"534 ch. Saint-François O","Saint-François-de-la-Rivière-du-Sud",,"(Québec) G0R3A0"
+"Holding",0,1142554865,"JOURNAL ÉPIK DE CACOUNA","Org. sans but lucratif",2841,"PROD. PÉRIODIQUE D'UN JOURNAL COMMUNAUTAIRE / MOYEN D'EXPRES. ET D'INFO ETC",,,"QUÉBEC",1982-06-17,,"628 rue du Patrimoine","Cacouna (Québec)",,"G0L1G0"
+"Holding",0,1142562090,"LA RADIO COMMUNAUTAIRE CKNA INC.","Org. sans but lucratif",4811,"RADIODIFFUSION COMMUNAUTAIRE",4814,"CÂBLODISTRIBUTION COMMUNAUTAIRE","QUÉBEC",1984-07-19,,"29 ch. d'en Haut","Natashquan (Québec)",,"G0G2E0"
+"Holding",0,1142727446,"TÉLÉVISION COMMUNAUTAIRE DU HAUT-RICHELIEU 1981 LTÉE","Org. sans but lucratif",4812,"PRODUCTION D'ÉMISSIONS DE TÉLÉVISION",9631,"PRODUCTION D'ÉVÉNEMENTS SPÉCIAUX","QUÉBEC",1981-08-10,,"145 rue Richelieu","Saint-Jean-sur-Richelieu (Québec)",,"J3B6X7"
+"Holding",0,1142872317,"COMMUNICATIONS BASSE-VILLE","Org. sans but lucratif",2841,"ÉDITION D'UN JOURNAL FORMATION EN JOURNALISME",,,"QUÉBEC",1974-07-30,,"266 rue Saint-Vallier O","Québec (Québec)",,"G1K1K2"
+"Holding",0,1143041755,"RADIO ANTICOSTI","Org. sans but lucratif",4811,"Opérer une radio communautaire",,,"QUÉBEC",1984-07-19,,"4 rue du Savoy","L'Île-d'Anticosti (Québec)",,"G0G2Y0"
+"Holding",0,1143182880,"TÉLÉVISION DE CHARLEVOIX-OUEST (TVCO)","Org. sans but lucratif",4813,"INFORMATION LOCALE ET RÉGIONALE TÉLÉDIFFUSION",,,"QUÉBEC",1976-04-12,,"63 rue Ambroise-Fafard","Baie-Saint-Paul (Québec)",,"G3Z2J7"
+"Holding",0,1143211002,"JOURNAL COMMUNAUTAIRE DE ST-HIPPOLYTE","Org. sans but lucratif",2812,"JOURNAL COMMUNAUTAIRE, VENTES DE PUBLICITÉ",,,"QUÉBEC",1983-02-01,,"44 ch. du Lac-Morency","Saint-Hippolyte (Québec)",,"J8A2N3"
+"Holding",0,1143214329,"EDITIONS COMMUNAUTAIRES DES CHENAUX","Org. sans but lucratif",2849,"AUTRES IND. D'IMPRESSION & EDITION COMBINÉE",,,"QUÉBEC",1987-11-12,,"220-44 rang de la Rivière-à-Veillet","Sainte-Geneviève-de-Batiscan (Québec)",,"G0X2R0"
+"Holding",0,1143291665,"LE JOURNAL COMMUNAUTAIRE L'INFO DE ST-ÉLIE D'ORFORD","Org. sans but lucratif",2839,"PRODUIRE UN JOURNAL COMMUNAUTAIRE MENSUELLEMENT",,,"QUÉBEC",1986-10-02,,"6156 ch. de Saint-Élie","Sherbrooke (Québec)",,"J1R0L1"
+"Holding",0,1143421486,"JOURNAL DES VILLES NORDIQUES LE TRAIT D'UNION DU NORD INC.","Org. sans but lucratif",2849,"PUBLICATION D'UN JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",1984-02-01,,"50 Le Carrefour","Fermont (Québec)",,"G0G1J0"
+"Holding",0,1143809649,"LA TELEVISION D'ICI (CÔTE-DE-BEAUPRÉ)","Org. sans but lucratif",4814,"ORG. DISP. SERV. TV COMMUN/PROD. ÉMISS. FILMS, ENREGIS. VISUELS ET SONORES",9611,"PRODUIRE DES ÉMISSIONS, DES FILMS ET ENREGISTREMENTS VISUELS ET SONORES","QUÉBEC",1985-04-02,,"9795 boul. Sainte-Anne","Sainte-Anne-de-Beaupré (Québec)",,"G0A3C0"
+"Holding",0,1143825686,"JOURNAL COMMUNAUTAIRE L'ATTISÉE INC.","Org. sans but lucratif",2839,"JOURNAL COMMUNAUTAIRE MENSUEL",7721,"DIVERS TRAVAUX INFORMATISÉS POUR DES ORGANISMES COMMUNAUTAIRES","QUÉBEC",1984-05-01,,"318 rue Verreault","Saint-Jean-Port-Joli (Québec)",,"G0R3G0"
+"Holding",0,1143928225,"JOURNAL COMMUNAUTAIRE D'ASCOT CORNER INC.","Org. sans but lucratif",2839,"JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",1986-09-16,,"5699 rue Principale","Ascot Corner (Québec)",,"J0B1A0"
+"Holding",0,1144008217,"TÉLÉ-SOLEIL INC.","Org. sans but lucratif",4839,"TÉLÉVISION COMMUNAUTAIRE (FILM, MONTAGE, INTERVIEW ETC)",4811,"BIGO COMMUNAUTAIRE","QUÉBEC",1988-08-16,,"1 1re Avenue O","Saint-Maxime-du-Mont-Louis (Québec)",,"G0E1T0"
+"Holding",0,1144008639,"JOURNAL LE STÉPHANOIS INC.","Org. sans but lucratif",2841,"PUBLICATION MENSUELLE JOURNAL",,,"QUÉBEC",1983-03-08,,"1260 RUE St-Alphonse","CP 282","St-Étienne-des-Grès (Québec)","G0X2P0"
+"Holding",0,1144063170,"CKRL - MF 89, 1 INC.","Org. sans but lucratif",4811,"PRODUCTION ET DIFFUSION D'ÉMISSIONS RADIOPHONIQUES",,,"QUÉBEC",1972-09-08,,"405 3e Avenue","Québec (Québec)",,"G1L2W2"
+"Holding",0,1144111961,"TELEVISION COMMUNAUTAIRE DE LA VALLEE DU RICHELIEU (T.C.V.R.) INC.","Org. sans but lucratif",4812,"TÉLÉVISION",9861,"ORGANISATIONS CIVIQUES & AMICALES","QUÉBEC",1984-08-21,,"777 rue Laurier","Beloeil (Québec)",,"J3G4S9"
+"Holding",0,1144120210,"TELEVISION COMMUNAUTAIRE DE LA VALLEE DE LA MATAPEDIA INC.","Org. sans but lucratif",4814,"CABLOVISION",,,"QUÉBEC",1980-06-25,,"11-81 rue des Forges","Amqui (Québec)",,"G5J3A7"
+"Holding",0,1144122505,"LA CORPORATION DE TÉLÉDIFFUSION BRANDON INC.","Org. sans but lucratif",4812,"POSTE DE TÉLÉVISION COMMUNAUTAIRE",,,"QUÉBEC",1983-09-26,,"160 rue de Lanaudière","Saint-Gabriel (Québec)",,"J0K2N0"
+"Holding",0,1144177426,"TÉLÉVISION COMMUNAUTAIRE DU KAMOURASKA INCORPORÉE","Org. sans but lucratif",4814,"DIFFUSION D'INFORMATIONS GÉNÉRALES PRODUCTION DE DOCUMENT AUDIO-VISUEL",,,"QUÉBEC",1975-06-17,,"407 rue Taché","Saint-Pascal (Québec)",,"G0L3Y0"
+"Holding",0,1144203099,"""LE CYRI-LIEN"", JOURNAL COMMUNAUTAIRE DE ST-CYRILLE-DE-L'ISLET","Org. sans but lucratif",2841,"JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",1986-08-06,,"282 rue Principale","Saint-Cyrille-de-Lessard (Québec)",,"G0R2W0"
+"Holding",0,1144211837,"LE JOURNAL COMMUNAUTAIRE DE ST-TITE-DES-CAPS","Org. sans but lucratif",2841,"IMPRESSION ET ÉDITION JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",1985-06-17,,"5 rue Leclerc","Saint-Tite-des-Caps (Québec)",,"G0A4J0"
+"Holding",0,1144255693,"COLLECTIF DE COMMUNICATION (ST-ADELME)","Org. sans but lucratif",2839,"CONFECTION D'UN JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",1981-05-19,,"140 rue Principale","Saint-Adelme (Québec)",,"G0J2B0"
+"Holding",0,1144263036,"RADIO COMMUNAUTAIRE M.F. DE SENNETERRE INC.","Org. sans but lucratif",4811,"RADIO",7741,"VENTE DE PUBLICITÉS","QUÉBEC",1977-05-20,,"121 1re Rue E","Senneterre (Québec)",,"J0Y2M0"
+"Holding",0,1144402519,"RADIO COMMUNAUTAIRE DE PONTIAC","Org. sans but lucratif",4811,"STATION DE RADIO",,,"QUÉBEC",1978-06-13,,"138 rue Principale","Fort-Coulonge (Québec)",,"J0X1V0"
+"Holding",0,1144951614,"RADIO COMMUNAUTAIRE DE L'ESTRIE","Org. sans but lucratif",4811,"PRODUCTION D'ÉMISSIONS RADIO COMMUNAUTAIRES DIFFUSION D'ÉMISSIONS RADIOPHONIQUES DIVERSES",,,"QUÉBEC",1977-03-01,,"67 rue Wellington N","Sherbrooke (Québec)",,"J1H5A9"
+"Holding",0,1145144482,"AU FIL DE LA BOYER","Org. sans but lucratif",2839,"PUBLICATION D'UN JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",1995-10-12,,"2815B av. Royale","Saint-Charles-de-Bellechasse (Québec)",,"G0R2T0"
+"Holding",0,1145776846,"ÉCHOS MONTRÉAL","Org. sans but lucratif",2839,"PUBLICATION JOURNAL COMMUNAUTAIRE À BUT NON LUCRATIF",8694,"PORTE-PAROLE DE LA COLLECTIVITÉ - ORGANISER LEVÉE DE FONDS.","QUÉBEC",1996-05-06,,"1906-360 rue Saint-Jacques","Montréal (Québec)",,"H2Y1P5"
+"Holding",0,1146460838,"RADIO COMMUNAUTAIRE DE CHÂTEAUGUAY CHAI-MF","Org. sans but lucratif",4813,"RADIO COMMUNAUTAIRE",,,"QUÉBEC",1977-02-06,,"25 boul. Saint-Francis","Châteauguay (Québec)",,"J6J1Y2"
+"Holding",0,1146502746,"TVC D'ARGENTEUIL","Org. sans but lucratif",4813,"PRODUCTION ET DIFFUSION D'ÉMISSIONS DE TÉLÉ-COMMUNAUTAIRE FORMATION DE BÉNÉVOLES AU SEIN DE LA TÉLÉ-COMMUNAUTAIRE",,,"QUÉBEC",1997-02-06,,"391 rue Lafleur","Lachute (Québec)",,"J8H1R2"
+"Holding",0,1146705059,"JOURNAL COMMUMAUTAIRE LE BEAU-REGARD INC.","Org. sans but lucratif",2839,"REDACTION MONTAGE ET DISTRIBUTION D'UN JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",1997-04-15,,"21 rte des Chutes","Sainte-Lucie-de-Beauregard (Québec)",,"G0R3L0"
+"Holding",0,1147067772,"JOURNAL LA VIE D'ICI","Org. sans but lucratif",2839,"JOURNAL COMMUNAUTAIRE (PUBLICATION)",,,"QUÉBEC",1997-09-03,,"4100 rue des Ormes","Saguenay (Québec)",,"G7P1B4"
+"Holding",0,1147666888,"LE JOURNAL ""SKI SE DIT"" DE VAL-DAVID","Org. sans but lucratif",2839,"REFLET DE LA VIE COMMUNAUTAIRE - MOYEN D'INFORMATION",,,"QUÉBEC",1983-02-02,,"2496, RUE DE L'ÉGLISE, BUREAU 200","VAL-DAVID (QUÉBEC)",,"J0T2N0"
+"Holding",0,1147934427,"LE JOURNAL REGIONAL DU HAUT ST-FRANCOIS","Org. sans but lucratif",2839,"JOURNAL RÉGIONAL COMMUNAUTAIRE",,,"QUÉBEC",1986-11-13,,"101-57 RUE Craig N","Cookshire-Eaton (Québec)",,"J0B1M0"
+"Holding",0,1147961560,"TÉLÉCOMMUNAUTAIRE LAURENTIDES - LANAUDIÈRE","Org. sans but lucratif",4812,"Télévision communautaire autonome",9619,"-","QUÉBEC",1998-09-01,,"184 rue Principale","Huberdeau (Québec)",,"J0T1G0"
+"Holding",0,1148029292,"RADIO BLANC-SABLON INC.","Org. sans but lucratif",4811,"RADIO-DIFFUSION",,,"QUÉBEC",1983-05-11,,"1193, BOUL DR. CAMILLE MARCOUX","C.P. 8","BLANC SABLON (QUÉBEC)","G0G1W0"
+"Holding",0,1148167787,"JOURNAL COMMUNAUTAIRE COUP D'OEIL SUR ST-MARCEL DE L'ISLET INC.","Org. sans but lucratif",2841,"RÉDACTION DU JOURNAL MONTAGE DU JOURNAL",,,"QUÉBEC",1998-11-25,,"58B ch. Taché E","Saint-Marcel (Québec)",,"G0R3R0"
+"Holding",0,1148323877,"LA VOIE DU SECTEUR DES COTEAUX","Org. sans but lucratif",2841,"OPÉRER UN JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",1999-02-12,,"20 rue du Chanoine-Girard","La Morandière-Rochebaucourt (Québec)",,"J0Y2J0"
+"Holding",0,1148533913,"JOURNAL DE VAL-BRILLANT","Org. sans but lucratif",2839,"JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",1981-04-22,,"11-A, ST-PIERRE","VAL-BRILLANT (QUÉBEC)",,"G0J3L0"
+"Holding",0,1148549034,"TÉLÉ COMMUNAUTAIRE D'AMOS RÉGION","Org. sans but lucratif",4812,"PRODUCTION DE CONTENU VIDÉO POUR LA TÉLÉDIFUSION ET INTERNET MÉDIA COMMUNAUTAIRE DIFFUSION D'INFORMATION PUBLIC MULTIPLATEFORME",9615,"PRODUCTION VIDÉO D'ÉVÉNEMENTS, CAPSULES, PUBLICITÉ ET AUTRES","QUÉBEC",1999-05-11,,"101 1re Avenue O","Amos (Québec)",,"J9T1V1"
+"Holding",0,1148568042,"LE TRIDENT DE WOTTON","Org. sans but lucratif",2839,"ÉDITER ET DIFFUSER UN JOURNAL",7799,"FOURNIR UN SERVICE D'INFORMATION GÉNÉRALE","QUÉBEC",1999-05-19,,"420 rue Vilandré","Wotton (Québec)",,"J0A1N0"
+"Holding",0,1149266562,"JOURNAL COMMUNAUTAIRE DE DISRAËLI","Org. sans but lucratif",2839,"PRODUCTION ET DISTRIBUTION MENSUELLES D'UN JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",2000-04-12,,"888 rue Saint-Antoine","Disraeli (Québec)",,"G0N1E0"
+"Holding",0,1149287386,"RADIO COMMUNAUTAIRE DE RADISSON","Org. sans but lucratif",4811,"PRODUCTION ET DIFFUSION D'ÉMISSIONS DE RADIO",,,"QUÉBEC",2000-04-19,,"143 AV. Jolliet","CP 285","Radisson (Québec)","J0Y2X0"
+"Holding",0,1149308109,"JOURNAL CULTUREL GRAFFICI, COOPÉRATIVE DE SOLIDARITÉ","Coopérative",2839,"PRODUCTION D'UN JOURNAL CULTUREL",9861,"-","QUÉBEC",2000-04-27,,"208-19 rue Adams","Gaspé (Québec)",,"G4X1E5"
+"Holding",0,1149906852,"ÉDITIONS PRÉVOSTOISES","Org. sans but lucratif",2839,"PUBLICATION D'UN JOURNAL COMMUNICATIONS SOUS DIVERSES FORMES",,,"QUÉBEC",2001-03-06,,"1529 montée Félix-Leclerc","Prévost (Québec)",,"J0R1T0"
+"Holding",0,1160005428,"LES ÉDITIONS DU BERGER BLANC","Org. sans but lucratif",2841,"PUBLIER, ÉDITER ET DISTRIBUER UN JOURNAL D'OPINION ET D'INFORMATION TOUTES ACTIVITÉS CONNEXES",,,"QUÉBEC",2000-06-06,,"1-700 boul. Saint-Germain","Rimouski (Québec)",,"G5L3S4"
+"Holding",0,1160176989,"MONTBEILLARD EN BREF","Org. sans but lucratif",2839,"ÉDITER UN JOURNAL COMMUNAUTAIRE DIFFUSER UN JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",2001-06-20,,"2589 rang Héroux","Rouyn-Noranda (Québec)",,"J0Z2X0"
+"Holding",0,1160377819,"JOURNAL COMMUNAUTAIRE ""LE PHARE""","Org. sans but lucratif",2841,"PRODUCTION ET DISTRIBUTION D'UN JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",1986-06-10,,"1 rue du Vieux-Pont","Grande-Vallée (Québec)",,"G0E1K0"
+"Holding",0,1160601689,"TÉLÉVISION COMMUNAUTAIRE FRONTENAC","Org. sans but lucratif",4813,"INFORMER LA POPULATION SUR DU CONTENU SOCIAL ET CULTUREL LIEU D'APPRENTISSAGE ET DE VALORISATION POUR LES BÉNÉVOLES",,,"QUÉBEC",2002-02-13,,"10763 av. de Cobourg","Montréal (Québec)",,"H1H4X3"
+"Holding",0,1162059928,"JOURNAL LOCAL LE FÉLIX","Org. sans but lucratif",2839,"ÉDITER, IMPRIMER, DISTRIBUER UN JOURNAL MENSUEL À SAINT-FÉLIX-DE-KINGSEY",,,"QUÉBEC",2004-02-25,,"612 Route 255","Saint-Félix-de-Kingsey (Québec)",,"J0B2T0"
+"Holding",0,1162096599,"RADIO BORÉALE","Org. sans but lucratif",4811,"EXPLOITER UNE STATION DE RADIO COMMUNAUTAIRE",,,"QUÉBEC",2004-03-11,,"101 1re Avenue O","Amos (Québec)",,"J9T1V1"
+"Holding",0,1163740104,"LE P'TIT JOURNAL DE WOBURN","Org. sans but lucratif",2839,"JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",2006-05-24,,"300 rue Joly","Saint-Augustin-de-Woburn (Québec)",,"G0Y1R0"
+"Holding",0,1164019482,"COOPÉRATIVE DE SOLIDARITÉ DU JOURNAL CULTUREL DE L'ABITIBI-TÉMISCAMINGUE","Coopérative",2839,"CRÉATION D'UN JOURNAL CULTUREL",7741,"VENTE DE PUBLICITÉ","QUÉBEC",2006-10-10,,"150 av. du Lac","Rouyn-Noranda (Québec)",,"J9X4N5"
+"Holding",0,1164969462,"CORPORATION DU JOURNAL LE REVEIL","Org. sans but lucratif",2839,"JOURNAL COMMUNAUTAIRE",,,"QUÉBEC",1981-07-09,,"199-B, BILODEAU","SAINT-FABIEN-DE-PANET (QUÉBEC)",,"G0R2J0"
+"Holding",0,1165205569,"RADIO COMMUNAUTAIRE DE LÉVIS","Org. sans but lucratif",4811,"STATION DE RADIO COMMUNAUTAIRE",,,"QUÉBEC",2008-05-29,,"105-49 RUE Fortier","Lévis (Québec)",,"G6V6K9"
+"Holding",0,1168932490,"JOURNALDESVOISINS.COM","Org. sans but lucratif",2839,"Journal d'informations locales communautaire du quartier Ahuntsic-Cartierville",2812,"-",,2013-02-25,,"10294A Grande Allée","Montréal (Québec)",,"H3L2M1"
+"Holding",0,1170579123,"Le son du 49e","Org. sans but lucratif",4811,"-",,,,2014-12-12,,"100-555 PL Quévillon","CP 534","Lebel-sur-Quévillon (Québec)","J0Y1X0"
+"Holding",0,1173256836,"MULTIMÉDIAS RÉGION PORTNEUF","Org. sans but lucratif",4839,"Nous sommes un organisme sans but lucratif qui diffuse de l'information régional, local  de la région sur Internet. ",4812,"Télévision communautaire de Portneuf",,2017-11-27,,"189 rue Dupont","Pont-Rouge (Québec)",,"G3H1N4"
+"Holding",0,1173654675,"L'écho de Compton","Org. sans but lucratif",2839,"Édition d'un journal communautaire",,,,2018-05-04,,"6775 RTE Louis-S.-Saint-Laurent","CP 322","Compton (Québec)","J0B1L0"
+"Holding",0,1174993668,"Télé-Coeur","Org. sans but lucratif",4812,"-",,,,2019-11-08,,"370 rue Principale","Saint-Léonard-d'Aston (Québec)",,"J0C1M0"
+"Holding",0,1175024323,"Groupe Média Régional Val-Ouest","Org. sans but lucratif",4839,"PÉRIODIQUE NUMÉRIQUE",,,,2019-11-21,,"950 rue Saint-Joseph","Valcourt (Québec)",,"J0E2L0"
+"Holding",0,1181031023,"Etchemins Télé","Org. sans but lucratif",4812,"-",,,,2025-06-18,,"1601 Route 277","Lac-Etchemin (Québec)",,"G0R1S0"
+"Réseau",,1161203402,"LE RÉSEAU DES SPORTS (RDS) INC.",,,,,,,,,,,,
+"Station",,,"CHGO-FM (Abitibi-Témiscamingue)",,,,,,,,,,,,
+"Station",,,"CIKI-FM (Rimouski, Bas-Saint-Laurent)",,,,,,,,,,,,
+"Station",,,"CIPC-FM (Sept-Îles, Port-Cartier)",,,,,,,,,,,,
+"Station",,,"CJDM-FM (Drummondville, Centre-du-Québec)",,,,,,,,,,,,
+"Station",,,"CJGO-FM (Abitibi-Témiscamingue)",,,,,,,,,,,,
+"Station",,,"CJIT-FM (Lac-Mégantic)",,,,,,,,,,,,
+"Station",,,"CJLM-FM (Lanaudière)",,,,,,,,,,,,
+"Station",,,"CJOI-FM (Rimouski)",,,,,,,,,,,,
+"Station",,,"CKCN-FM (Côte-Nord)",,,,,,,,,,,,
+"Station",,,"CKCN-FM (Thetford Mines)",,,,,,,,,,,,
+"Station",,,"CKGS-FM (Saguenay)",,,,,,,,,,,,
+"Station",,,"CKVM-FM (Amqui, Matapédia)",,,,,,,,,,,,
+"Station",,,"CKYQ-FM (Centre-du-Québec)",,,,,,,,,,,,
+"Individu",,,"Dany Renaud",,,,,,,,,,,,
+"Holding",,,"Gestion DR (2001) Inc.",,,,,,,,,,,,
+"Réseau",,,"Hit Country",,,,,,,,,,,,
+"Réseau",,,"O",,,,,,,,,,,,
+"Individu",,,"Sylvain Chamberland",,,,,,,,,,,,
+"Réseau",,,"Viva",,,,,,,,,,,,
+"Station",,,"XXXX-FM (Joliette)",,,,,,,,,,,,
+"Holding",,,"101885 CANADA LTÉE",,,,,,,,,,,,
+"Holding",,,"1302159 ONTARIO INC.",,,,,,,,,,,,
+"Holding",,,"1302160 ONTARIO INC.",,,,,,,,,,,,
+"Holding",,,"2324-6176 Québec Inc.",,,,,,,,,,,,
+"Publication",,,"24 heures",,,,,,,,,,,,
+"Holding",,,"3167488 Canada Inc",,,,,,,,,,,,
+"Holding",,,"3276838 Nova Scotia Company",,,,,,,,,,,,
+"Holding",,,"3556093 Canada Inc.",,,,,,,,,,,,
+"Holding",,,"3578704 Canada Inc.",,,,,,,,,,,,
+"Holding",,,"4232593 Canada inc.",,,,,,,,,,,,
+"Holding",,,"7807368 CANADA INC.",,,,,,,,,,,,
+"Holding",,,"8679401 Canada Inc.",,,,,,,,,,,,
+"Holding",,,"9087-9214 QUÉBEC INC.",,,,,,,,,,,,
+"Holding",,,"9129-4470 QUÉBEC INC.",,,,,,,,,,,,
+"Holding",,,"9162-2803 QUÉBEC INC.",,,,,,,,,,,,
+"Holding",,,"9405-9045 Québec Inc.",,,,,,,,,,,,
+"Holding",,,"9405-9052 Québec Inc.",,,,,,,,,,,,
+"Holding",,,"9506-5322 Québec inc.",,,,,,,,,,,,
+"Holding",,,"9506-5363 Quebec Inc.",,,,,,,,,,,,
+"Holding",,,"9506-5371 Québec inc.",,,,,,,,,,,,
+"Publication",,,"Accès",,,,,,,,,,,,
+"Publication",,,"acquisitions.biz",,,,,,,,,,,,
+"Publication",,,"Agence QMI",,,,,,,,,,,,
+"Individu",,,"Alain St-Jean",,,,,,,,,,,,
+"Individu",,,"Alexandre Taillefer",,,,,,,,,,,,
+"Individu",,,"André Bérubé",,,,,,,,,,,,
+"Individu",,,"André Normandin",,,,,,,,,,,,
+"Individu",,,"Arnaud Bertrand",,,,,,,,,,,,
+"Holding",,,"BCE Inc.",,,,,,,,,,,,
+"Publication",,,"Beauce Média",,,,,,,,,,,,
+"Holding",,,"Bell Canada",,,,,,,,,,,,
+"Holding",,,"Bell Media Regional Radio Partnership",,,,,,,,,,,,
+"Holding",,,"Bell MTS Inc.",,,,,,,,,,,,
+"Individu",,,"Benoît Chartier",,,,,,,,,,,,
+"Réseau",,,"BPM Sports",,,,,,,,,,,,
+"Publication",,,"Bulletin d’Aylmer",,,,,,,,,,,,
+"Publication",,,"Bulletin de Gatineau",,,,,,,,,,,,
+"Holding",,,"CALUMET MÉDIA INC",,,,,,,,,,,,
+"Individu",,,"Caroline Levasseur",,,,,,,,,,,,
+"Réseau",,,"CBC Music (1 station)",,,,,,,,,,,,
+"Réseau",,,"CBC Radio One (3 stations)",,,,,,,,,,,,
+"Réseau",,,"CBC Television (1 station)",,,,,,,,,,,,
+"Holding",,,"CDP Investissements Inc.",,,,,,,,,,,,
+"Station",,,"CFAP (Québec)",,,,,,,,,,,,
+"Station",,,"CFCF (Montréal)",,,,,,,,,,,,
+"Station",,,"CFDA-FM (Victoriaville)",,,,,,,,,,,,
+"Station",,,"CFEI-FM (Saint-Hyacinthe)",,,,,,,,,,,,
+"Station",,,"CFEL-FM (BLVD Québec)",,,,,,,,,,,,
+"Station",,,"CFEM (TVA Abitibi)",,,,,,,,,,,,
+"Station",,,"CFGE-FM (Montréal)",,,,,,,,,,,,
+"Station",,,"CFGL-FM (Laval)",,,,,,,,,,,,
+"Station",,,"CFGS (Noovo Gatineau)",,,,,,,,,,,,
+"Station",,,"CFGT-FM (Alma)",,,,,,,,,,,,
+"Station",,,"CFIX-FM (Rouge Saguenay)",,,,,,,,,,,,
+"Station",,,"CFJO-FM (Centre-du-Québec, Chaudière-Appalaches)",,,,,,,,,,,,
+"Station",,,"CFJP (Montréal)",,,,,,,,,,,,
+"Station",,,"CFKM (Trois-Rivières)",,,,,,,,,,,,
+"Station",,,"CFKS (Sherbrooke)",,,,,,,,,,,,
+"Station",,,"CFLM-FM (La Tuque)",,,,,,,,,,,,
+"Station",,,"CFOM-FM (Québec)",,,,,,,,,,,,
+"Station",,,"CFRS (Saguenay)",,,,,,,,,,,,
+"Station",,,"CFTF (Noovo Rivière-du-Loup)",,,,,,,,,,,,
+"Station",,,"CFTX-FM (BPM Sports Gatineau)",,,,,,,,,,,,
+"Station",,,"CFVS (Noovo Abitibi)",,,,,,,,,,,,
+"Station",,,"CFZZ-FM (Saint-Jean-sur-Richelieu, Montérégie)",,,,,,,,,,,,
+"Publication",,,"Chaleur Nouvelles",,,,,,,,,,,,
+"Publication",,,"Chambly Express",,,,,,,,,,,,
+"Individu",,,"Charles Pellerin",,,,,,,,,,,,
+"Station",,,"CHAU (Carleton)",,,,,,,,,,,,
+"Station",,,"CHCT-FM (Beauce)",,,,,,,,,,,,
+"Station",,,"CHEQ-FM (Beauce)",,,,,,,,,,,,
+"Station",,,"CHEY-FM (Rouge Mauricie)",,,,,,,,,,,,
+"Station",,,"CHIK-FM (Énergie Québec)",,,,,,,,,,,,
+"Station",,,"CHLX-FM (Rythme FM Gatineau)",,,,,,,,,,,,
+"Station",,,"CHMP-FM (98,5 Montréal)",,,,,,,,,,,,
+"Station",,,"CHMP-FM (98,5 Montréal)",,,,,,,,,,,,
+"Station",,,"CHOA-FM (Abitibi)",,,,,,,,,,,,
+"Station",,,"CHOE-FM (Matane)",,,,,,,,,,,,
+"Station",,,"CHOI-FM (RadioX Québec)",,,,,,,,,,,,
+"Station",,,"CHOM-FM (Montréal)",,,,,,,,,,,,
+"Station",,,"CHOT (TVA Gatineau)",,,,,,,,,,,,
+"Station",,,"CHRD-FM (Drummondville)",,,,,,,,,,,,
+"Station",,,"CHRL-FM (Roberval)",,,,,,,,,,,,
+"Station",,,"CHRM-FM (Matane)",,,,,,,,,,,,
+"Station",,,"CHVD-FM (Dolbeau)",,,,,,,,,,,,
+"Station",,,"CHXX-FM (BPM Sports Québec)",,,,,,,,,,,,
+"Station",,,"CIGB-FM (Énergie Mauricie)",,,,,,,,,,,,
+"Station",,,"CILM-FM (Saguenay)",,,,,,,,,,,,
+"Station",,,"CIME-FM (Saint-Jérôme)",,,,,,,,,,,,
+"Station",,,"CIMF-FM (Rouge Gatineau-Ottawa)",,,,,,,,,,,,
+"Station",,,"CIMO-FM (Énergie Estrie)",,,,,,,,,,,,
+"Station",,,"CIMT (TVA Rivière-du-Loup)",,,,,,,,,,,,
+"Station",,,"CITE-FM (Rouge Montréal)",,,,,,,,,,,,
+"Station",,,"CITE-FM-1 (Rouge Estrie)",,,,,,,,,,,,
+"Réseau",,,"CityNews (1 station de télévision)",,,,,,,,,,,,
+"Station",,,"CJAB-FM (Énergie Saguenay)",,,,,,,,,,,,
+"Station",,,"CJAD-AM (Montréal)",,,,,,,,,,,,
+"Station",,,"CJEB-FM (Trois-Rivières)",,,,,,,,,,,,
+"Station",,,"CJEC-FM (WKND Québec)",,,,,,,,,,,,
+"Station",,,"CJFM (Virgin Radio)",,,,,,,,,,,,
+"Station",,,"CJLA-FM (Lachute)",,,,,,,,,,,,
+"Station",,,"CJMF-FM (FM93 Québec)",,,,,,,,,,,,
+"Station",,,"CJMM-FM (Énergie Rouyn)",,,,,,,,,,,,
+"Station",,,"CJMV-FM (Énergie Val-d’Or)",,,,,,,,,,,,
+"Station",,,"CJPX-FM (Radio-Classique Montréal)",,,,,,,,,,,,
+"Station",,,"CKAC-AM (Montréal)",,,,,,,,,,,,
+"Station",,,"CKAC-AM (Montréal)",,,,,,,,,,,,
+"Station",,,"CKBE-FM (The Beat, Montréal)",,,,,,,,,,,,
+"Station",,,"CKBE-FM (The Beat, Montréal)",,,,,,,,,,,,
+"Station",,,"CKGM-AM (TSN Montreal)",,,,,,,,,,,,
+"Station",,,"CKLX-FM (BPM Sports Montréal)",,,,,,,,,,,,
+"Station",,,"CKMF-FM (Énergie Montréal)",,,,,,,,,,,,
+"Station",,,"CKOB-FM (109,3 Mauricie)",,,,,,,,,,,,
+"Station",,,"CKOF-FM (104,7 Gatineau)",,,,,,,,,,,,
+"Station",,,"CKOI-FM (Montréal)",,,,,,,,,,,,
+"Station",,,"CKOI-FM (Montréal)",,,,,,,,,,,,
+"Station",,,"CKOY-FM (107,7 Estrie)",,,,,,,,,,,,
+"Holding",,,"CKRT-TV LTÉE",,,,,,,,,,,,
+"Station",,,"CKTF-FM (Énergie Gatineau-Ottawa)",,,,,,,,,,,,
+"Station",,,"CKVM-FM (La Voix du Témiscamingue)",,,,,,,,,,,,
+"Station",,,"CKXO-FM (Chibougamau-Chapais)",,,,,,,,,,,,
+"Station",,,"CKYK-FM (KYK Saguenay–Lac-Saint-Jean)",,,,,,,,,,,,
+"Individu",,,"Claude Frenette",,,,,,,,,,,,
+"Individu",,,"Claude Langlois",,,,,,,,,,,,
+"Holding",,,"COGECO MÉDIA ACQUISITIONS INC.",,,,,,,,,,,,
+"Holding",,,"COGECO MÉDIA INC.",,,,,,,,,,,,
+"Publication",,,"Coup d’œil",,,,,,,,,,,,
+"Publication",,,"Courrier Frontenac",,,,,,,,,,,,
+"Publication",,,"Courrier Laval",,,,,,,,,,,,
+"Plateforme",,,"Crave",,,,,,,,,,,,
+"Réseau",,,"CTV (1 station de télévision)",,,,,,,,,,,,
+"Holding",,,"CTV Specialty Television Enterprises Inc",,,,,,,,,,,,
+"Individu",,,"Daniel Rouleau",,,,,,,,,,,,
+"Individu",,,"Dave Beaunoyer",,,,,,,,,,,,
+"Publication",,,"dehors",,,,,,,,,,,,
+"Individu",,,"Dominic Becotte",,,,,,,,,,,,
+"Publication",,,"EnBeauce.com",,,,,,,,,,,,
+"Réseau",,,"Énergie (7 stations de radio)",,,,,,,,,,,,
+"Individu",,,"Éric Perrier",,,,,,,,,,,,
+"Individu",,,"Ernest Webb",,,,,,,,,,,,
+"Réseau",,,"ESPN",,,,,,,,,,,,
+"Publication",,,"Est Média Montréal",,,,,,,,,,,,
+"Publication",,,"EstriePlus.com",,,,,,,,,,,,
+"Individu",,,"Famille Gourd",,,,,,,,,,,,
+"Holding",,,"Fédération des caisses Desjardins du Québec",,,,,,,,,,,,
+"Holding",,,"Fiducie de soutien à La Presse",,,,,,,,,,,,
+"Holding",,,"Fiducie familiale Brosseau 2014",,,,,,,,,,,,
+"Holding",,,"FIDUCIE LE DEVOIR",,,,,,,,,,,,
+"Holding",,,"FONDS D'INVESTISSEMENT DRUMMONDVILLE INC.",,,,,,,,,,,,
+"Holding",,,"Fonds de solidarité des travailleurs du Québec",,,,,,,,,,,,
+"Holding",,,"FONDS XPNDCROISSANCE S.E.C.",,,,,,,,,,,,
+"Individu",,,"Francis Picard",,,,,,,,,,,,
+"Individu",,,"Frédéric Couture",,,,,,,,,,,,
+"Holding",,,"Fugues",,,,,,,,,,,,
+"Publication",,,"Gaspésie Nouvelles",,,,,,,,,,,,
+"Individu",,,"George Bakoyannis",,,,,,,,,,,,
+"Individu",,,"George Guzmas",,,,,,,,,,,,
+"Holding",,,"GESTION AUDEM INC.",,,,,,,,,,,,
+"Holding",,,"GESTION BRISSON ET FILLES INC",,,,,,,,,,,,
+"Holding",,,"Gestion Celaz Inc.",,,,,,,,,,,,
+"Holding",,,"Gestion Chamarin inc.",,,,,,,,,,,,
+"Holding",,,"GESTION FONDS XPND S.E.C.",,,,,,,,,,,,
+"Holding",,,"GESTION HEBDOS LTÉE",,,,,,,,,,,,
+"Holding",,,"Gestion Julie Voyer Inc.",,,,,,,,,,,,
+"Holding",,,"Gestion Phisa Inc.",,,,,,,,,,,,
+"Holding",,,"Gestion PRB Inc.",,,,,,,,,,,,
+"Holding",,,"Gestion Serge Le Roux Ltée",,,,,,,,,,,,
+"Holding",,,"Gestion Ulysse et Pénélope inc.",,,,,,,,,,,,
+"Publication",,,"GoRimouski",,,,,,,,,,,,
+"Publication",,,"Granby Express",,,,,,,,,,,,
+"Holding",,,"Groupe Investco Inc",,,,,,,,,,,,
+"Holding",,,"Groupe Laferté inc.",,,,,,,,,,,,
+"Holding",,,"GROUPE RADIO NORD INC.",,,,,,,,,,,,
+"Publication",,,"GTA Gestion et technologie agricoles",,,,,,,,,,,,
+"Publication",,,"Hebdo Rive-Nord",,,,,,,,,,,,
+"Holding",,,"HOLDING CTV SPÉCIALISÉ SPORTS INC.",,,,,,,,,,,,
+"Individu",,,"Hugo Levasseur",,,,,,,,,,,,
+"Individu",,,"Hugo Miousse",,,,,,,,,,,,
+"Réseau",,,"Ici Musique (6 stations)",,,,,,,,,,,,
+"Réseau",,,"Ici Radio-Canada Première (9 stations)",,,,,,,,,,,,
+"Réseau",,,"Ici Radio-Canada Télé (7 stations)",,,,,,,,,,,,
+"Réseau",,,"Ici RDI",,,,,,,,,,,,
+"Station",,,"Ici Télévision",,,,,,,,,,,,
+"Plateforme",,,"Ici Tou.tv",,,,,,,,,,,,
+"Publication",,,"Info Dimanche",,,,,,,,,,,,
+"Publication",,,"Infos Laurentides",,,,,,,,,,,,
+"Holding",,,"Investissement Québec",,,,,,,,,,,,
+"Holding",,,"INVESTMAT INC.",,,,,,,,,,,,
+"Individu",,,"Jacques Leclerc",,,,,,,,,,,,
+"Individu",,,"Jean-François Leclerc",,,,,,,,,,,,
+"Individu",,,"Jean-Sébastien Deraspe",,,,,,,,,,,,
+"Individu",,,"Jean-Sébastien Haché",,,,,,,,,,,,
+"Individu",,,"Jean-Yves Gourd",,,,,,,,,,,,
+"Individu",,,"Jonathon Stewart",,,,,,,,,,,,
+"Individu",,,"Josiane Brousseau",,,,,,,,,,,,
+"Publication",,,"Journal du Pontiac",,,,,,,,,,,,
+"Holding",,,"JOURNAL LA HAUTE CÔTE-NORD INC.",,,,,,,,,,,,
+"Holding",,,"JOURNAL LE NORD-CÔTIER INC.",,,,,,,,,,,,
+"Publication",,,"Journal Le Soir",,,,,,,,,,,,
+"Individu",,,"Julie Voyer",,,,,,,,,,,,
+"Individu",,,"Karen Lachapelle",,,,,,,,,,,,
+"Publication",,,"L’Action",,,,,,,,,,,,
+"Publication",,,"L’Action d’Autray",,,,,,,,,,,,
+"Publication",,,"L’actualité",,,,,,,,,,,,
+"Publication",,,"L’Argenteuil",,,,,,,,,,,,
+"Publication",,,"L’Avant-Poste",,,,,,,,,,,,
+"Publication",,,"L’Avenir de l’Érable",,,,,,,,,,,,
+"Publication",,,"L’Avenir et des Rivières",,,,,,,,,,,,
+"Publication",,,"L’Écho de Frontenac",,,,,,,,,,,,
+"Publication",,,"L’Écho de la Baie",,,,,,,,,,,,
+"Publication",,,"L’Écho de la Rive-Nord",,,,,,,,,,,,
+"Publication",,,"L’Écho de Laval",,,,,,,,,,,,
+"Publication",,,"L’Écho de Maskinongé",,,,,,,,,,,,
+"Publication",,,"L’Écho de Trois-Rivières",,,,,,,,,,,,
+"Publication",,,"L’Écho La Tuque / Haut St-Maurice",,,,,,,,,,,,
+"Publication",,,"L’Éclaireur Progrès",,,,,,,,,,,,
+"Publication",,,"L’Étincelle",,,,,,,,,,,,
+"Publication",,,"L’Étoile du Lac",,,,,,,,,,,,
+"Publication",,,"L’Éveil",,,,,,,,,,,,
+"Publication",,,"L’Hebdo du St-Maurice",,,,,,,,,,,,
+"Publication",,,"L’Hebdo Journal",,,,,,,,,,,,
+"Publication",,,"L'Hebdo Mékinac/des Chenaux",,,,,,,,,,,,
+"Publication",,,"L'Info du Nord Mont-Laurier",,,,,,,,,,,,
+"Publication",,,"L’Info du Nord Mont-Tremblant",,,,,,,,,,,,
+"Publication",,,"L’Info du Nord Sainte-Agathe",,,,,,,,,,,,
+"Publication",,,"L’Info du Nord Vallée de la Rouge",,,,,,,,,,,,
+"Publication",,,"L’Information d’affaires d’ici",,,,,,,,,,,,
+"Publication",,,"L’Œil régional",,,,,,,,,,,,
+"Publication",,,"La Conversation (édition Canada français)",,,,,,,,,,,,
+"Publication",,,"La Haute-Côte-Nord",,,,,,,,,,,,
+"Publication",,,"La Nouvelle Union",,,,,,,,,,,,
+"Publication",,,"La Pensée de Bagot",,,,,,,,,,,,
+"Publication",,,"La Presse",,,,,,,,,,,,
+"Publication",,,"La Relève",,,,,,,,,,,,
+"Publication",,,"La Revue",,,,,,,,,,,,
+"Publication",,,"La Tribune",,,,,,,,,,,,
+"Publication",,,"La Voix",,,,,,,,,,,,
+"Publication",,,"La Voix de l’Est",,,,,,,,,,,,
+"Publication",,,"La Voix du Sud",,,,,,,,,,,,
+"Publication",,,"La Voix Gaspésienne",,,,,,,,,,,,
+"Station",,,"LCN",,,,,,,,,,,,
+"Publication",,,"Le Canada français",,,,,,,,,,,,
+"Publication",,,"Le Charlevoisien",,,,,,,,,,,,
+"Publication",,,"Le Clairon",,,,,,,,,,,,
+"Publication",,,"Le Courrier de Portneuf",,,,,,,,,,,,
+"Publication",,,"Le Courrier de Saint-Hyacinthe",,,,,,,,,,,,
+"Publication",,,"Le Courrier du Sud",,,,,,,,,,,,
+"Publication",,,"Le Courrier Sud",,,,,,,,,,,,
+"Publication",,,"Le Droit",,,,,,,,,,,,
+"Publication",,,"Le Guide",,,,,,,,,,,,
+"Publication",,,"Le Journal de Joliette",,,,,,,,,,,,
+"Holding",,,"LE JOURNAL DE LA RUE",,,,,,,,,,,,
+"Publication",,,"Le journal de la rue",,,,,,,,,,,,
+"Publication",,,"Le Journal de Lévis",,,,,,,,,,,,
+"Publication",,,"Le Journal de Montréal",,,,,,,,,,,,
+"Publication",,,"Le Journal de Québec",,,,,,,,,,,,
+"Publication",,,"Le Journal de Saint-Basile",,,,,,,,,,,,
+"Publication",,,"Le Journal de Sainte-Julie",,,,,,,,,,,,
+"Publication",,,"Le Journal Saint-François",,,,,,,,,,,,
+"Publication",,,"Le Lac-St-Jean",,,,,,,,,,,,
+"Publication",,,"Le Manic",,,,,,,,,,,,
+"Publication",,,"Le Nord",,,,,,,,,,,,
+"Publication",,,"Le Nord-Côtier",,,,,,,,,,,,
+"Publication",,,"Le Nouvelles Hebdo",,,,,,,,,,,,
+"Publication",,,"Le Nouvelliste",,,,,,,,,,,,
+"Publication",,,"Le Pharillon",,,,,,,,,,,,
+"Publication",,,"Le Placoteux",,,,,,,,,,,,
+"Publication",,,"Le Progrès de Coaticook",,,,,,,,,,,,
+"Publication",,,"Le Quotidien",,,,,,,,,,,,
+"Publication",,,"Le Radar",,,,,,,,,,,,
+"Publication",,,"Le Reflet",,,,,,,,,,,,
+"Publication",,,"Le Reflet du Lac",,,,,,,,,,,,
+"Publication",,,"Le Reflet Témiscamien",,,,,,,,,,,,
+"Publication",,,"Le Réveil",,,,,,,,,,,,
+"Publication",,,"Le Richelieu",,,,,,,,,,,,
+"Publication",,,"Le Soleil",,,,,,,,,,,,
+"Publication",,,"Le Soleil de Châteauguay",,,,,,,,,,,,
+"Publication",,,"Les 2 rives",,,,,,,,,,,,
+"Publication",,,"Les Affaires",,,,,,,,,,,,
+"Publication",,,"Les As de l’info",,,,,,,,,,,,
+"Holding",,,"Les Équipements de l'Est inc.",,,,,,,,,,,,
+"Holding",,,"Les Placements Péladeau Inc.",,,,,,,,,,,,
+"Holding",,,"LES PUBLICATIONS GASPÉSIENNES INC.",,,,,,,,,,,,
+"Publication",,,"Les Versants du Mont-Bruno",,,,,,,,,,,,
+"Individu",,,"Lily Ryan",,,,,,,,,,,,
+"Individu",,,"Louis Audet",,,,,,,,,,,,
+"Individu",,,"Louis-Jacques Laferté",,,,,,,,,,,,
+"Individu",,,"Louis-Jasmin Picard",,,,,,,,,,,,
+"Individu",,,"Louise Ringuet",,,,,,,,,,,,
+"Publication",,,"MaBeauce  ",,,,,,,,,,,,
+"Publication",,,"MaCôte-Nord  ",,,,,,,,,,,,
+"Publication",,,"MaGaspésie  ",,,,,,,,,,,,
+"Holding",,,"Maison Reflet de Société",,,,,,,,,,,,
+"Individu",,,"Marc Landreville",,,,,,,,,,,,
+"Individu",,,"Marc Simard",,,,,,,,,,,,
+"Individu",,,"Marlène Claveau",,,,,,,,,,,,
+"Individu",,,"Martin Ayotte-Cummings",,,,,,,,,,,,
+"Individu",,,"Martin Morissette",,,,,,,,,,,,
+"Individu",,,"Mathio Pellerin",,,,,,,,,,,,
+"Réseau",,,"MesRégions",,,,,,,,,,,,
+"Individu",,,"Michel Langlois",,,,,,,,,,,,
+"Individu",,,"Mohammad Nowrouzzahrai",,,,,,,,,,,,
+"Publication",,,"MonBas-du-Fleuve ",,,,,,,,,,,,
+"Publication",,,"MonDrummond",,,,,,,,,,,,
+"Publication",,,"MonJoliette  ",,,,,,,,,,,,
+"Publication",,,"MonLaTuque  ",,,,,,,,,,,,
+"Publication",,,"Monlimoilou",,,,,,,,,,,,
+"Publication",,,"MonMatane  ",,,,,,,,,,,,
+"Publication",,,"Monmontcalm",,,,,,,,,,,,
+"Publication",,,"Monsaintjean",,,,,,,,,,,,
+"Publication",,,"Monsaintroch",,,,,,,,,,,,
+"Publication",,,"Monsaintsauveur",,,,,,,,,,,,
+"Publication",,,"MonTémiscouata   ",,,,,,,,,,,,
+"Publication",,,"MonThetford  ",,,,,,,,,,,,
+"Publication",,,"MonVicto  ",,,,,,,,,,,,
+"Publication",,,"Monvieuxquebec",,,,,,,,,,,,
+"Individu",,,"Neil Diamond",,,,,,,,,,,,
+"Publication",,,"Néomédia Valleyfield",,,,,,,,,,,,
+"Publication",,,"Néomédia Vaudreuil-Soulanges",,,,,,,,,,,,
+"Holding",,,"Netrevolution Inc",,,,,,,,,,,,
+"Individu",,,"Nicolas Langelier",,,,,,,,,,,,
+"Individu",,,"Nicolas Leclerc",,,,,,,,,,,,
+"Individu",,,"Nicolas Rouleau",,,,,,,,,,,,
+"Individu",,,"Nikki Mantell",,,,,,,,,,,,
+"Réseau",,,"Noovo",,,,,,,,,,,,
+"Publication",,,"Nord Info",,,,,,,,,,,,
+"Réseau",,,"Nordy",,,,,,,,,,,,
+"Publication",,,"Nouveau Projet",,,,,,,,,,,,
+"Publication",,,"Nouvelles Parc-Extension News",,,,,,,,,,,,
+"Individu",,,"Olivier Martin",,,,,,,,,,,,
+"Individu",,,"Parirokh Nowrouzzahrai",,,,,,,,,,,,
+"Individu",,,"Philippe Clair",,,,,,,,,,,,
+"Individu",,,"Philippe Lamarre",,,,,,,,,,,,
+"Individu",,,"Pierre Karl Péladeau",,,,,,,,,,,,
+"Individu",,,"Pierre Marcoux",,,,,,,,,,,,
+"Individu",,,"Pierre R. Brosseau",,,,,,,,,,,,
+"Publication",,,"Pivot",,,,,,,,,,,,
+"Holding",,,"PLACEMENTS D B C INC.",,,,,,,,,,,,
+"Réseau",,,"Planète",,,,,,,,,,,,
+"Publication",,,"Protégez-Vous",,,,,,,,,,,,
+"Publication",,,"Quatre,95",,,,,,,,,,,,
+"Station",,,"QUB radio",,,,,,,,,,,,
+"Publication",,,"Québec Science",,,,,,,,,,,,
+"Holding",,,"Québecor Inc.",,,,,,,,,,,,
+"Holding",,,"Québecor Média Inc.",,,,,,,,,,,,
+"Holding",,,"Radio Témiscamingue Inc.",,,,,,,,,,,,
+"Individu",,,"Raphaëlle Huysmans",,,,,,,,,,,,
+"Station",,,"RDS",,,,,,,,,,,,
+"Station",,,"RDS Info",,,,,,,,,,,,
+"Publication",,,"Reflet de société",,,,,,,,,,,,
+"Individu",,,"Renel Bouchard",,,,,,,,,,,,
+"Holding",,,"Rogers Communications Canada Inc.",,,,,,,,,,,,
+"Holding",,,"Rogers Communications Inc.",,,,,,,,,,,,
+"Réseau",,,"Rouge FM (6 stations de radio)",,,,,,,,,,,,
+"Réseau",,,"Rythme",,,,,,,,,,,,
+"Individu",,,"Sam Nowrouzzahrai",,,,,,,,,,,,
+"Individu",,,"Savas Fortis",,,,,,,,,,,,
+"Individu",,,"Serge Langlois",,,,,,,,,,,,
+"Individu",,,"Serge Le Roux",,,,,,,,,,,,
+"Publication",,,"Sherbrooke Record",,,,,,,,,,,,
+"Publication",,,"Sherbrooke.info",,,,,,,,,,,,
+"Individu",,,"Simon Brisson",,,,,,,,,,,,
+"Individu",,,"Simon Rivest",,,,,,,,,,,,
+"Individu",,,"Sophie Ryan",,,,,,,,,,,,
+"Publication",,,"Sorel-Tracy Express",,,,,,,,,,,,
+"Individu",,,"Stéphane Legrand",,,,,,,,,,,,
+"Individu",,,"Stéphanie Gagnon",,,,,,,,,,,,
+"Individu",,,"Sylvain Lumbroso",,,,,,,,,,,,
+"Holding",,,"TÉLÉVISION MBS INC.",,,,,,,,,,,,
+"Holding",,,"Télévision spécialisée CTV Inc.",,,,,,,,,,,,
+"Publication",,,"The Equity",,,,,,,,,,,,
+"Publication",,,"The Gazette",,,,,,,,,,,,
+"Publication",,,"The Gleaner",,,,,,,,,,,,
+"Publication",,,"The Laval News",,,,,,,,,,,,
+"Publication",,,"The Low Down to Hull and Back News",,,,,,,,,,,,
+"Publication",,,"The Nation",,,,,,,,,,,,
+"Publication",,,"The North Shore News",,,,,,,,,,,,
+"Réseau",,,"The Sports Network Inc.",,,,,,,,,,,,
+"Holding",,,"THOMSON REUTERS CANADA LIMITÉE",,,,,,,,,,,,
+"Holding",,,"Thomson Reuters Corporation",,,,,,,,,,,,
+"Holding",,,"Transvision Réseau Inc.",,,,,,,,,,,,
+"Réseau",,,"TVA (6 stations de télévision)",,,,,,,,,,,,
+"Station",,,"TVA Sports",,,,,,,,,,,,
+"Station",,,"TVRM",,,,,,,,,,,,
+"Publication",,,"Urbania",,,,,,,,,,,,
+"Publication",,,"Urbania France",,,,,,,,,,,,
+"Publication",,,"Vallée-du-Richelieu Express",,,,,,,,,,,,
+"Publication",,,"Vélo Mag",,,,,,,,,,,,
+"Holding",,,"Vidéotron ltée",,,,,,,,,,,,
+"Publication",,,"West Quebec Post",,,,,,,,,,,,
+"Individu",,,"William Nicholls",,,,,,,,,,,,
+"Individu",,,"Yves Lafontaine",,,,,,,,,,,,
+"Holding",0,1141020496,"L'ARCHIPEL D'ENTRAIDE","Org. sans but lucratif",,,,,,,,,,,
+"Holding",0,1141103151,"COALITION DE LA PETITE-BOURGOGNE/ QUARTIER EN SANTÉ","Org. sans but lucratif",,,,,,,,,,,
+"Holding",0,1144503910,"COMMUNAUTÉ SÉPHARADE UNIFIÉE DU QUÉBEC","Org. sans but lucratif",,,,,,,,,,,
+"Holding",0,1142313601,"ACCUEIL AUX IMMIGRANTS DE L'EST DE MONTRÉAL","Org. sans but lucratif",,,,,,,,,,,
+"Holding",0,1166600529,"Mobiles, Média Communautaire Maskoutain","Org. sans but lucratif",,,,,,,,,,,
+"Holding",0,1160612926,"Journal Le Lavalois","Org. sans but lucratif",,,,,,,,,,,
+"Holding",0,1163941314,"Journal communautaire Regards","Org. sans but lucratif",,,,,,,,,,,
+"Holding",0,1142580498,"La Voix Ferrée Inc.","Org. sans but lucratif",,,,,,,,,,,
+"Holding",0,1172100241,"Journal Communautaire Ici Brompton","Org. sans but lucratif",,,,,,,,,,,
+"Holding",0,1164998891,"Le Saint-Denisien","Org. sans but lucratif",,,,,,,,,,,
+"Holding",0,1162475736,"Image de Bury","Org. sans but lucratif",,,,,,,,,,,
+"Holding",0,1143052778,"Journal communautaire L'Écho de Cantley","Org. sans but lucratif",,,,,,,,,,,
+"Holding",0,1162201199,"Journal Le Saint-Armand","Org. sans but lucratif",,,,,,,,,,,
+"Holding",0,1143608116,"Le Papotin Inc.","Org. sans but lucratif",,,,,,,,,,,
+"Holding",0,1165060576,"Journal L’Horizon, presse coopérative des Basques",,,,,,,,,,,,
+"Holding",0,1142348979,"Le Trait d'Union de St-Bruno Inc.",,,,,,,,,,,,
+"Holding",0,1142138115,"RE-IN-SON",,,,,,,,,,,,
+"Holding",0,1167547489,"Journal communautaire de Matapédia et les Plateaux",,,,,,,,,,,,
+"Holding",0,1167393223,"Le Causeur",,,,,,,,,,,,
+"Holding",0,1164324262,"L'ARRIVAGE D'ADSTOCK",,,,,,,,,,,,
+"Holding",0,1167269456,"Journal Le Tartan",,,,,,,,,,,,
+"Holding",0,1144449924,"Les Éditions des Trois Clochers",,,,,,,,,,,,
+"Holding",0,1145918042,"Ensemble pour bâtir",,,,,,,,,,,,
+"Holding",0,1165333007,"JOURNAL L'ALLIANCE DE PREISSAC",,,,,,,,,,,,
+"Holding",0,1167310912,"Journal Le Pont de Palmarolle",,,,,,,,,,,,
+"Holding",0,1145628393,"Le Journal d'Un lac à l'autre Inc.",,,,,,,,,,,,
+"Holding",0,1164141039,"Journal Communautaire, Parent",,,,,,,,,,,,
+"Holding",0,1142233148,"L'ECHO D'EN HAUT INC.",,,,,,,,,,,,
+"Holding",0,1144410892,"JOURNAL L'ÉVÈNEMENT SCOTSTOWN-HAMPDEN",,,,,,,,,,,,
+"Publication",,,"Journal des Voisins",,,,,,,,,,,,
+"Publication",,,"Graffici",,,,,,,,,,,,
+"Publication",,,"Échos Montréal",,,,,,,,,,,,
+"Publication",,,"La Gazette de la Mauricie",,,,,,,,,,,,
+"Publication",,,"Ski se dit",,,,,,,,,,,,
+"Publication",,,"Journal des citoyens",,,,,,,,,,,,
+"Publication",,,"Le Haut Saint-François",,,,,,,,,,,,
+"Publication",,,"Le bulletin des Chenaux",,,,,,,,,,,,
+"Publication",,,"Le Bulletin de Mékinac",,,,,,,,,,,,
+"Publication",,,"Le Cantonnier",,,,,,,,,,,,
+"Publication",,,"L’Indice Bohémien",,,,,,,,,,,,
+"Publication",,,"Le Sentier",,,,,,,,,,,,
+"Publication",,,"L’Info",,,,,,,,,,,,
+"Publication",,,"Autour de l’île",,,,,,,,,,,,
+"Publication",,,"L’Attisée",,,,,,,,,,,,
+"Publication",,,"Le Stéphanois",,,,,,,,,,,,
+"Publication",,,"Le Trait d’union du Nord",,,,,,,,,,,,
+"Publication",,,"L'Écho de Compton",,,,,,,,,,,,
+"Publication",,,"Aux quatre coins",,,,,,,,,,,,
+"Publication",,,"La Vie d’ici",,,,,,,,,,,,
+"Publication",,,"Au fil de La Boyer",,,,,,,,,,,,
+"Publication",,,"Phare (Le), L'autre vision",,,,,,,,,,,,
+"Publication",,,"La Quête",,,,,,,,,,,,
+"Publication",,,"EPIK",,,,,,,,,,,,
+"Publication",,,"Le Montagnard",,,,,,,,,,,,
+"Publication",,,"Le Félix",,,,,,,,,,,,
+"Publication",,,"L’Écho de Saint-François",,,,,,,,,,,,
+"Publication",,,"Le Trident",,,,,,,,,,,,
+"Publication",,,"Le Pierre-Brillant",,,,,,,,,,,,
+"Publication",,,"Le Réveil de Saint-Fabien-de-Panet",,,,,,,,,,,,
+"Publication",,,"Montbeillard en bref",,,,,,,,,,,,
+"Publication",,,"Le Cyri-Lien",,,,,,,,,,,,
+"Publication",,,"Le P'tit Journal de Woburn",,,,,,,,,,,,
+"Publication",,,"L’Éveil (Saint-Adelme)",,,,,,,,,,,,
+"Publication",,,"Le Reflet du canton de Lingwick",,,,,,,,,,,,
+"Publication",,,"La Voie du secteur des Coteaux",,,,,,,,,,,,
+"Publication",,,"Coup d'œil sur Saint-Marcel",,,,,,,,,,,,
+"Publication",,,"Le Beau regard",,,,,,,,,,,,
+"Publication",,,"Le Val-Ouest",,,,,,,,,,,,
+"Publication",,,"Le Mouton noir",,,,,,,,,,,,
+"Publication",,,"Vues sur la Bourgogne",,,,,,,,,,,,
+"Publication",,,"La Voix sépharade",,,,,,,,,,,,
+"Publication",,,"Vision croisée",,,,,,,,,,,,
+"Publication",,,"Journal Mobiles",,,,,,,,,,,,
+"Publication",,,"Droit de Parole",,,,,,,,,,,,
+"Publication",,,"Le Lavalois",,,,,,,,,,,,
+"Publication",,,"Regards",,,,,,,,,,,,
+"Publication",,,"Entrée libre",,,,,,,,,,,,
+"Publication",,,"Ici Brompton",,,,,,,,,,,,
+"Publication",,,"Le Saint-Denisien",,,,,,,,,,,,
+"Publication",,,"L’Image de Bury",,,,,,,,,,,,
+"Publication",,,"L’Écho de Cantley",,,,,,,,,,,,
+"Publication",,,"Le Saint-Armand",,,,,,,,,,,,
+"Publication",,,"Le Papotin",,,,,,,,,,,,
+"Publication",,,"L’Horizon",,,,,,,,,,,,
+"Publication",,,"Le Trait d’union",,,,,,,,,,,,
+"Publication",,,"Entre deux lacs",,,,,,,,,,,,
+"Publication",,,"Tam Tam",,,,,,,,,,,,
+"Publication",,,"Le Causeur",,,,,,,,,,,,
+"Publication",,,"L’Arrivage d’Adstock",,,,,,,,,,,,
+"Publication",,,"Le Tartan",,,,,,,,,,,,
+"Publication",,,"Le Hublot",,,,,,,,,,,,
+"Publication",,,"Ensemble pour bâtir",,,,,,,,,,,,
+"Publication",,,"L’Alliance",,,,,,,,,,,,
+"Publication",,,"Le Pont",,,,,,,,,,,,
+"Publication",,,"Le Citoyen",,,,,,,,,,,,
+"Publication",,,"D’un lac à l’autre",,,,,,,,,,,,
+"Publication",,,"Le Parentois",,,,,,,,,,,,
+"Publication",,,"L’Écho d’en haut",,,,,,,,,,,,
+"Publication",,,"L’Événement",,,,,,,,,,,,
+"Réseau",,,"Association des médias écrits communautaires du Québec",,,,,,,,,,,,
+"Réseau",,,"Country Pop",,,,,,,,,,,,
+"Holding",,1162009105,"LA RADIO COMMUNAUTAIRE DE LASALLE",,,,,,,,,,,,
+"Réseau",,,"Association des radios communautaires du Québec",,,,,,,,,,,,
+"Station",,,"CHOW-FM (Abitibi)",,,,,,,,,,,,
+"Station",,,"CIBO-FM (Senneterre)",,,,,,,,,,,,
+"Station",,,"CKMN-FM (Rimouski)",,,,,,,,,,,,
+"Station",,,"CIHO-FM (Charlevoix)",,,,,,,,,,,,
+"Station",,,"CKIA-FM (Québec)",,,,,,,,,,,,
+"Station",,,"CKRL-FM (Québec)",,,,,,,,,,,,
+"Station",,,"CKBN-FM (Bécancour)",,,,,,,,,,,,
+"Station",,,"CFIN-FM (Lac-Etchemin)",,,,,,,,,,,,
+"Station",,,"CJMD-FM (Lévis)",,,,,,,,,,,,
+"Station",,,"CFBS-FM (Blanc-Sablon)",,,,,,,,,,,,
+"Station",,,"CFMF-FM (Fermont)",,,,,,,,,,,,
+"Station",,,"CILE-FM (Havre-Saint-Pierre)",,,,,,,,,,,,
+"Station",,,"CJBE-FM (Anticosti)",,,,,,,,,,,,
+"Station",,,"CJTB-FM (Tête-à-la-Baleine)",,,,,,,,,,,,
+"Station",,,"CKNA-FM (Natashquan)",,,,,,,,,,,,
+"Station",,,"CFLX-FM (Sherbrooke)",,,,,,,,,,,,
+"Station",,,"CIGN-FM (Coaticook)",,,,,,,,,,,,
+"Station",,,"CJMQ-FM (Sherbooke)",,,,,,,,,,,,
+"Station",,,"CFIM-FM (Les-Îles-de-la-Madeleine)",,,,,,,,,,,,
+"Station",,,"CIEU-FM (Carleton-sur-Mer)",,,,,,,,,,,,
+"Station",,,"CJRG-FM (Gaspé)",,,,,,,,,,,,
+"Station",,,"CFNJ-FM (Joliette)",,,,,,,,,,,,
+"Station",,,"CHHO-FM (CountryPop 103,1 Louiseville)",,,,,,,,,,,,
+"Station",,,"CFUT-FM (CountryPop 92,9 Shawinigan)",,,,,,,,,,,,
+"Station",,,"CHAA-FM (Longueuil)",,,,,,,,,,,,
+"Station",,,"CHAI-FM (Châteauguay)",,,,,,,,,,,,
+"Station",,,"CFID-FM (Acton Vale)",,,,,,,,,,,,
+"Station",,,"CIBL-FM (Montréal)",,,,,,,,,,,,
+"Station",,,"CINQ-FM (Montréal)",,,,,,,,,,,,
+"Station",,,"CKVL-FM (Montréal)",,,,,,,,,,,,
+"Station",,,"CHEF-FM (Matagami)",,,,,,,,,,,,
+"Station",,,"CIAU-FM (Radisson)",,,,,,,,,,,,
+"Station",,,"CKCJ-FM (Lebel-sur-Quévillon)",,,,,,,,,,,,
+"Station",,,"CHGA-FM (Maniwaki)",,,,,,,,,,,,
+"Station",,,"CHIP-FM (Fort-Coulonge)",,,,,,,,,,,,
+"Station",,,"CKAJ-FM (Saguenay)",,,,,,,,,,,,
+"Holding",,1142150912,"CÂBLE COMMUNAUTAIRE DE BEAUCE INC.",,,,,,,,,,,,
+"Holding",,1143392505,"LA TÉLÉVISION DU LITTORAL INC.",,,,,,,,,,,,
+"Holding",,1162102397,"TÉLÉVISION RÉGIONALE DE LAVAL INC.",,,,,,,,,,,,
+"Holding",,,"Maskinongé Média",,,,,,,,,,,,
+"Holding",,1147547187,"LA TELEVISION COMMUNAUTAIRE DE ROBERVAL INC.",,,,,,,,,,,,
+"Réseau",,,"Fédération des télévisions communautaires autonomes du Québec",,,,,,,,,,,,
+"Station",,,"Wendat FM - CIHW 100.3 FM",,,,,,,,,,,,
+"Station",,,"CRKA 106,9FM (Matimekush – Shefferville)",,,,,,,,,,,,
+"Station",,,"CIBE 89,9FM (Pakua Shipi – St-Augustin)",,,,,,,,,,,,
+"Station",,,"CFLR 89,9FM (Unamun-Shipu - La Romaine)",,,,,,,,,,,,
+"Station",,,"CFNQ 89,9FM (Nutashkuan - Natashquan)",,,,,,,,,,,,
+"Station",,,"CKKE 89,9FM (Ekuanitshit - Mingan)",,,,,,,,,,,,
+"Station",,,"CKAU 104,FM (Uashat mak Mani-Utenam)",,,,,,,,,,,,
+"Station",,,"CIMB 95,1FM (Pessamit - Betsiamites)",,,,,,,,,,,,
+"Station",,,"CHME 94,9FM (Essipit - Les Escoumins)",,,,,,,,,,,,
+"Station",,,"CHUK 107,3FM (Mashteuiatsh - Pointe-Bleue)",,,,,,,,,,,,
+"Station",,,"CITK 89,9 FM (Opitciwan - Obedjiwan)",,,,,,,,,,,,
+"Station",,,"RCWK 89,9 FM (Wemotaci - Weymontachie)",,,,,,,,,,,,
+"Station",,,"CHMK 93,1 FM (Manawan)",,,,,,,,,,,,
+"Station",,,"TVCK",,,,,,,,,,,,
+"Station",,,"TV Mitis",,,,,,,,,,,,
+"Station",,,"TVCMatapédia",,,,,,,,,,,,
+"Station",,,"tcbh",,,,,,,,,,,,
+"Station",,,"CJSR La TCA Portneuvoise",,,,,,,,,,,,
+"Station",,,"La Télévision d'ici",,,,,,,,,,,,
+"Station",,,"TVCO",,,,,,,,,,,,
+"Station",,,"TVC-VM",,,,,,,,,,,,
+"Station",,,"clicportneuf.tv",,,,,,,,,,,,
+"Station",,,"TVCBF",,,,,,,,,,,,
+"Station",,,"TVCE",,,,,,,,,,,,
+"Station",,,"Télé-Coeur",,,,,,,,,,,,
+"Station",,,"TVCRA",,,,,,,,,,,,
+"Station",,,"Télévision communautaire Beauceville",,,,,,,,,,,,
+"Station",,,"Etchemins Télé",,,,,,,,,,,,
+"Station",,,"TVR-7",,,,,,,,,,,,
+"Station",,,"TVL",,,,,,,,,,,,
+"Station",,,"TVR de la Péninsule",,,,,,,,,,,,
+"Station",,,"Télévag",,,,,,,,,,,,
+"Station",,,"TVRP",,,,,,,,,,,,
+"Station",,,"Télé-Soleil",,,,,,,,,,,,
+"Station",,,"Télé-Gaspé",,,,,,,,,,,,
+"Station",,,"CTB-TV",,,,,,,,,,,,
+"Station",,,"CTRB",,,,,,,,,,,,
+"Station",,,"TRVM",,,,,,,,,,,,
+"Station",,,"TVCL",,,,,,,,,,,,
+"Station",,,"TVC d’Argenteuil",,,,,,,,,,,,
+"Station",,,"TVBL",,,,,,,,,,,,
+"Station",,,"TVLaval",,,,,,,,,,,,
+"Station",,,"Maskinongé Média",,,,,,,,,,,,
+"Station",,,"TVRS",,,,,,,,,,,,
+"Station",,,"TVSO",,,,,,,,,,,,
+"Station",,,"TCVR",,,,,,,,,,,,
+"Station",,,"TVHR 9",,,,,,,,,,,,
+"Station",,,"TVCW",,,,,,,,,,,,
+"Station",,,"CSUR la télé",,,,,,,,,,,,
+"Station",,,"TCFtv",,,,,,,,,,,,
+"Station",,,"TVC Basse-Lièvre",,,,,,,,,,,,
+"Station",,,"Télé Haut-du-Lac",,,,,,,,,,,,
+"Station",,,"nousTV Roberval",,,,,,,,,,,,
+"Station",,,"MédiAT",,,,,,,,,,,,
+"Holding",,,"Journal EPIK de Cacouna",,,,,,,,,,,,
