@@ -1287,7 +1287,7 @@ const stats = [
   ['Nœuds', nodes.length.toLocaleString('fr-CA')],
   ['Liens', links.length.toLocaleString('fr-CA')],
   ['Capital cumulé', formatMontant(totalMontant)],
-  ['Plus gros éditeur', formatMontant(d3.max(nodes.filter(n => n.type === 'Éditeur'), n => n.montant) || 0)]
+  ['Plus importantes redevances', formatMontant(d3.max(nodes.filter(n => n.type === 'Radiodiffuseur'), n => n.montant) || 0)]
 ];
 stats.forEach(([k,v]) => {
   const row = statsDiv.append('div').attr('class', 'stat-row');
