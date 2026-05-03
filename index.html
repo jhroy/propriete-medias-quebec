@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Infographie interactive de la propriété des médias au Québec</title>
+<title>Cartographie des médias — réseau de propriété</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,500;0,9..144,700;1,9..144,400&family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,500;12..96,600&display=swap" rel="stylesheet">
@@ -80,19 +80,20 @@
     font-weight: 500;
     font-size: clamp(22px, 2.6vw, 34px);
     line-height: 1.05;
-    letter-spacing: -0.02em;
+    letter-spacing: 0;
     color: var(--ink);
     max-width: 720px;
   }
   h3 {
     font-family: 'Fraunces', serif;
-    font-variation-settings: "opsz" 56;
+    font-variation-settings: "opsz" 144;
     font-weight: 200;
-    font-size: clamp(12px, 2.6vw, 34px);
-    line-height: 0.75;
-    letter-spacing: -0.02em;
+    font-size: clamp(9px, 1.04vw, 13.6px);
+    line-height: 1.1;
+    letter-spacing: 0;
     color: var(--ink);
-    max-width: 500px;
+    max-width: 720px;
+    margin-top: 4px;
   }
   h1 em { font-style: italic; font-weight: 300; color: var(--ink-soft); }
   .subtitle {
@@ -448,7 +449,7 @@
   <header>
     <div class="eyebrow">FPJQ · Propriété des médias</div>
     <h1>Qui possède les médias du Québec?</h1>
-    <h3><i>Les montants indiqués sont les redevances de Google reçues en 2025</i></h3>
+    <h3>Les montants indiqués sont les redevances de Google reçues en 2025</h3>
   </header>
 
   <svg class="network" id="network"></svg>
@@ -780,8 +781,32 @@ const componentGroups = {
   publisher: components.filter(c => componentGroup(c) === 'publisher'),
   broadcaster: components.filter(c => componentGroup(c) === 'broadcaster')
 };
-Object.values(componentGroups).forEach(group => {
-  group.sort((a, b) => b.ids.length - a.ids.length || d3.ascending(a.ids[0], b.ids[0]));
+
+function componentAmount(component) {
+  return d3.max(component.ids.map(id => nodeById.get(id)?.montant || 0)) || 0;
+}
+
+function componentHas(component, names) {
+  return component.ids.some(id => nameMatches(nodeById.get(id) || { id }, names));
+}
+
+const BROADCAST_TOP_ROW = [
+  'SOCIÉTÉ RADIO-CANADA',
+  'BELL MÉDIA INC.',
+  'Québecor Inc.',
+  'Québecor Média Inc.',
+  'GROUPE TVA INC.'
+];
+
+componentGroups.community.sort((a, b) => b.ids.length - a.ids.length || d3.ascending(a.ids[0], b.ids[0]));
+componentGroups.indigenous.sort((a, b) => b.ids.length - a.ids.length || d3.ascending(a.ids[0], b.ids[0]));
+componentGroups.publisher.sort((a, b) => d3.descending(componentAmount(a), componentAmount(b)) || d3.ascending(a.ids[0], b.ids[0]));
+componentGroups.broadcaster.sort((a, b) => {
+  const aTop = componentHas(a, BROADCAST_TOP_ROW);
+  const bTop = componentHas(b, BROADCAST_TOP_ROW);
+  return d3.descending(aTop, bTop) ||
+    d3.descending(componentAmount(a), componentAmount(b)) ||
+    d3.ascending(a.ids[0], b.ids[0]);
 });
 
 function placeComponentGroup(name, baseX, baseY, columns, gapX, gapY) {
@@ -800,8 +825,8 @@ const layoutW = usableWidth();
 const layoutH = Math.max(900, height);
 placeComponentGroup('community', layoutW * 0.08, layoutH * 0.27, 1, 760, 560);
 placeComponentGroup('indigenous', layoutW * 0.32, layoutH * 0.48, 1, 760, 560);
-placeComponentGroup('publisher', layoutW * 0.75, layoutH * 0.32, 2, 760, 560);
-placeComponentGroup('broadcaster', layoutW * 1.28, layoutH * 0.40, 2, 760, 560);
+placeComponentGroup('publisher', layoutW * 0.58, layoutH * 0.30, 10, 265, 520);
+placeComponentGroup('broadcaster', layoutW * 0.70, layoutH * 1.02, 3, 520, 520);
 
 function groupCenter(d) {
   const component = components[componentById.get(d.id)];
