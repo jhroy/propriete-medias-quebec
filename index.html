@@ -824,10 +824,10 @@ function placeComponentGroup(name, baseX, baseY, columns, gapX, gapY) {
 
 const layoutW = usableWidth();
 const layoutH = Math.max(900, height);
-placeComponentGroup('community', layoutW * 0.05, layoutH * 0.27, 1, 760, 560);
-placeComponentGroup('indigenous', layoutW * 0.41, layoutH * 0.48, 1, 760, 560);
-placeComponentGroup('publisher', layoutW * 0.72, layoutH * 0.18, 10, 760, 560);
-placeComponentGroup('broadcaster', layoutW * 1.54, layoutH * 0.22, 3, 760, 560);
+placeComponentGroup('community', 0, layoutH * 0.27, 1, 760, 560);
+placeComponentGroup('indigenous', 760, layoutH * 0.48, 1, 760, 560);
+placeComponentGroup('publisher', 1520, layoutH * 0.18, 10, 500, 560);
+placeComponentGroup('broadcaster', 6520, layoutH * 0.22, 3, 500, 560);
 
 function groupCenter(d) {
   const component = components[componentById.get(d.id)];
