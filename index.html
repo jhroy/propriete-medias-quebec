@@ -1177,13 +1177,13 @@ function showTooltip(event, d) {
   const incoming = links.filter(l => l.target.id === d.id);
   let relHtml = '';
   if (outgoing.length) {
-    relHtml += `<dt>Possède</dt><dd>${outgoing.slice(0,5).map(l => {
+    relHtml += `<dt>Influence ou contrôle</dt><dd>${outgoing.slice(0,5).map(l => {
       const lbl = formatLien(l.lien_raw);
       return escapeHtml(l.target.id) + (lbl ? ` <span style="color:var(--ink-faint);font-size:9.5px">(${escapeHtml(lbl)})</span>` : '');
     }).join('<br>')}${outgoing.length > 5 ? `<br><span style="color:var(--ink-faint)">…et ${outgoing.length-5} autres</span>` : ''}</dd>`;
   }
   if (incoming.length) {
-    relHtml += `<dt>Possédée par</dt><dd>${incoming.slice(0,5).map(l => {
+    relHtml += `<dt>Sous influence ou contrôle de</dt><dd>${incoming.slice(0,5).map(l => {
       const lbl = formatLien(l.lien_raw);
       return escapeHtml(l.source.id) + (lbl ? ` <span style="color:var(--ink-faint);font-size:9.5px">(${escapeHtml(lbl)})</span>` : '');
     }).join('<br>')}${incoming.length > 5 ? `<br><span style="color:var(--ink-faint)">…et ${incoming.length-5} autres</span>` : ''}</dd>`;
