@@ -1,4 +1,4 @@
-# Cartographie des médias — réseau de propriété
+# Infographie interactive de la propriété des médias au Québec
 
 ## Crédits techniques
 
