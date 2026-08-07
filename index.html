@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Propriété des médias au Québec • Infographie interactive par Jean-Hugues Roy</title>
+  <!-- Réalisée à l'aide de Claude Code -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,500;0,9..144,700;1,9..144,400&family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,500;12..96,600&display=swap" rel="stylesheet">
@@ -1329,7 +1330,7 @@ function showTooltip(event, d) {
   if (d.montant) {
     html += `<div class="montant">${formatMontant(d.montant)}</div>`;
   } else if (d.type === 'Individu' && d.rayonnement) {
-    html += `<div class="montant" style="color:var(--c-individu)">Redevances reçues de Google en 2025 et 2026 : ${formatMontant(d.rayonnement)}</div>`;
+    html += `<div class="montant" style="color:var(--c-individu)">Redevances Google (2025 + 2026) : ${formatMontant(d.rayonnement)}</div>`;
   }
 
   const fields = [
