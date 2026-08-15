@@ -6,7 +6,7 @@ Ce répertoire contient le code et les données à la base de deux **infographie
 <a href="https://jhroy.github.io/propriete-medias-quebec/" target="_blank">![](images/carte.png)]</a>
 
 ## Sur une carte
-[![](images/grappes.png)](https://jhroy.github.io/propriete-medias-quebec/carte/){:target="_blank"} 
+<a href="https://jhroy.github.io/propriete-medias-quebec/carte/" target="_blank">![](images/grappes.png)]</a>
 
 <hr>
 
