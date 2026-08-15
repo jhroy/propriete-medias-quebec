@@ -21,4 +21,6 @@ Ce répertoire contient le code et les données à la base de deux **infographie
 - Géocodage via le script [**geo.py**](geo.py) mobilisant le [Référentiel québécois des adresses](https://www.donneesquebec.ca/recherche/dataset/referentiel-quebecois-des-adresses) du ministère des Ressources naturelles.
 - Génération du code : Claude Code, mobilisant notamment [D3.js](https://d3js.org).
 
+Travail réalisé pour le magazine [*Le Trente*](https://www.fpjq.org/fr/les-editions) de la **Fédération professionnelle des journalistes du Québec (FPJQ)**
+
 Version finale avant publication - 14 août 2026
