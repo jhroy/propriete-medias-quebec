@@ -3,7 +3,7 @@
 Ce répertoire contient le code et les données à la base de deux **infographies interactives** permettant d'explorer la propriété des médias au Québec&nbsp;:
 
 ## Par grappes de propriété
-[![](images/carte.png)](https://jhroy.github.io/propriete-medias-quebec/){:target="_blank"} 
+<a href="https://jhroy.github.io/propriete-medias-quebec/" target="_blank">![](images/carte.png)]</a>
 
 ## Sur une carte
 [![](images/grappes.png)](https://jhroy.github.io/propriete-medias-quebec/carte/){:target="_blank"} 
