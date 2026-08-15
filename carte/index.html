@@ -3,7 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Propriété des médias au Québec • Carte des redevances Google • par Jean-Hugues Roy</title>
+<meta name="llms:description" content="Carte interactive des médias d'information du Québec en fonction de l'adresse du siège social de l'organisation qui les possède ou les regroupe et du montant en redevances de Google que chacune reçoit, ce qui reflète le nombre de journalistes que chacune emploie et, donc, son importance relative.">
+<meta name="llms:instructions" content="Les informations principales de ce site se trouvent dans une constante appelée «DATA», ci-dessous.">
+<title>Carte des médias au Québec • par Jean-Hugues Roy</title>
 <!-- Version « carte » réalisée à l'aide de Claude, à partir des mêmes données que l'infographie en réseau.
 -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -1108,7 +1110,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
 
   <div class="controls">
     <button class="ctrl" id="reset-zoom">Recentrer</button>
-    <a class="ctrl" href="https://jhroy.github.io/propriete-medias-quebec/" target="_blank" rel="noopener" style="text-decoration:none; display:inline-block;">Grappes de propriété</a>
+    <a class="ctrl" href="https://jhroy.github.io/propriete-medias-quebec/" target="_blank" rel="noopener" style="text-decoration:none; display:inline-block;">Voir les liens de propriété des médias</a>
 
   </div>
 
@@ -1150,7 +1152,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 47.03515271322154,
       "lon": -70.27257656772285,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "101885 CANADA LTÉE",
@@ -1167,7 +1169,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 47.83496305916297,
       "lon": -69.50707362832694,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "10320633 CANADA INC. (Gravité Media)",
@@ -1185,7 +1187,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.375992228873315,
       "lon": -73.50498649088296,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "11802607 CANADA INC. (Arsenal Média)",
@@ -1203,7 +1205,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.50013483961526,
       "lon": -73.5079250385192,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "1302159 ONTARIO INC.",
@@ -1228,7 +1230,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.45817935518459,
       "lon": -73.65555939248551,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "142792 CANADA INC.",
@@ -1244,7 +1246,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.46081134018916,
       "lon": -73.65721836917456,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "155106 CANADA INC.",
@@ -1260,7 +1262,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.854578755925736,
       "lon": -76.7387275142213,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "15719330 Canada Inc.",
@@ -1275,7 +1277,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.49034813572162,
       "lon": -73.5998037085352,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "16044247 CANADA INC.",
@@ -1291,7 +1293,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.462457417439786,
       "lon": -73.63565112930435,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "1742321 ONTARIO LIMITED",
@@ -1315,7 +1317,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 43.7095587042265,
       "lon": -79.47068234441159,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "1836775 ONTARIO LIMITED (filiale du Globe and Mail)",
@@ -1359,7 +1361,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.524626898538024,
       "lon": -73.55518145813781,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "3167488 Canada Inc",
@@ -1387,7 +1389,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.52013453709401,
       "lon": -73.58758776598583,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "3556093 Canada Inc.",
@@ -1403,7 +1405,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.48748930770501,
       "lon": -73.58731645383693,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "3578704 Canada Inc.",
@@ -1424,7 +1426,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.49914046541121,
       "lon": -73.74797743435732,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "4232593 Canada inc.",
@@ -1440,7 +1442,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.889718674633244,
       "lon": -72.5131084297843,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "4437594 CANADA INC.",
@@ -1459,7 +1461,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.641124204305875,
       "lon": -75.92802654017525,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "4479777 CANADA INC.",
@@ -1475,7 +1477,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.46323459626263,
       "lon": -73.62720403566884,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "4517466 Canada Inc. (Ici Television)",
@@ -1494,7 +1496,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.558508667485576,
       "lon": -73.64728038758948,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "7 jours",
@@ -1515,7 +1517,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.52687888056826,
       "lon": -73.71821613435131,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "7807368 CANADA INC.",
@@ -1531,7 +1533,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.50062110459415,
       "lon": -73.56196918883809,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "8679401 Canada Inc.",
@@ -1573,7 +1575,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.54185227317061,
       "lon": -73.7479062444129,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "9040-9681 QUÉBEC INC.",
@@ -1591,7 +1593,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.39682694996118,
       "lon": -75.83592991700121,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "9057-3023 QUÉBEC INC.",
@@ -1609,7 +1611,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.587229370524156,
       "lon": -73.57853583209788,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "9061-6632 QUÉBEC INC.",
@@ -1628,7 +1630,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.79186535933726,
       "lon": -73.41353156952593,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "9080-2695 QUÉBEC INC.",
@@ -1679,7 +1681,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.2642723211025,
       "lon": -74.13558800035258,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "9345-6994 Québec inc.",
@@ -1705,7 +1707,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.57739805757662,
       "lon": -73.744481018239,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "9374-8069 Québec inc.",
@@ -1777,7 +1779,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 49.28269415301178,
       "lon": -123.11883388640048,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Accès",
@@ -1798,7 +1800,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.586768828555066,
       "lon": -73.57879477825463,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "acquisitions.biz",
@@ -1827,7 +1829,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.527299100205006,
       "lon": -73.59604140458387,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Alain St-Jean",
@@ -1855,7 +1857,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 49.282771149433245,
       "lon": -123.11933813873384,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "ALTITUDE COMMUNICATIONS INC.",
@@ -1872,7 +1874,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 46.320538453125415,
       "lon": -74.2243678278118,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "André Bérubé",
@@ -1936,7 +1938,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.50037547577092,
       "lon": -73.50784992459216,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Association culturelle arménienne Tekeyan de Montréal",
@@ -1952,7 +1954,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.51673560885758,
       "lon": -73.66760296055612,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "ASSOCIATION DE COMMUNICATIONS DE WASWANIPI",
@@ -1969,7 +1971,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 49.69365116353694,
       "lon": -75.96796642882039,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "ASSOCIATION DE TELECOMMUNICATIONS DE WHAPMAGOOSTUI AEYOUCH",
@@ -1987,7 +1989,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 55.276520182741585,
       "lon": -77.75555703355695,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Association des médias écrits communautaires du Québec",
@@ -2017,7 +2019,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.53146763522671,
       "lon": -73.60695073325951,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "atuvu.ca",
@@ -2038,7 +2040,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.77249456337027,
       "lon": -70.94185533845584,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Au fil de La Boyer",
@@ -2061,7 +2063,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.88824581471464,
       "lon": -71.0694806527184,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Autour de l’île",
@@ -2094,7 +2096,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.50041429863466,
       "lon": -73.78000131353706,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "BaronMag",
@@ -2116,7 +2118,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.472758977280265,
       "lon": -73.54180931489144,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Beauce Média",
@@ -2151,7 +2153,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 43.64984004107601,
       "lon": -79.39064277602424,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Bell Media Regional Radio Partnership",
@@ -2168,7 +2170,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 43.64980326693726,
       "lon": -79.39078798893802,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Bell MTS Inc.",
@@ -2198,7 +2200,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.54550696252278,
       "lon": -73.56152246227158,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Bible Urbaine",
@@ -2229,7 +2231,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.39928204817635,
       "lon": -74.15680688898958,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Brome County News",
@@ -2251,7 +2253,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.04094529934347,
       "lon": -73.68640609167115,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Bulletin d’Aylmer",
@@ -2277,7 +2279,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.20866061274823,
       "lon": -70.77324403444655,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "CALUMET MÉDIA INC",
@@ -2320,7 +2322,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.5582948263288,
       "lon": -73.57346007614233,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "CDP Investissements Inc.",
@@ -2336,7 +2338,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.502873815910256,
       "lon": -73.5617763466495,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "CENTRE CULTUREL CHACAVAC",
@@ -2353,7 +2355,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.493890774651874,
       "lon": -73.58377962971973,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "CFAK-FM",
@@ -2613,7 +2615,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 47.83496305916297,
       "lon": -69.50707362832694,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "CHCT-FM (Beauce)",
@@ -2829,7 +2831,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 47.83638862179348,
       "lon": -69.53686193472157,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "CIBO-FM (Senneterre)",
@@ -3205,7 +3207,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.82253474946232,
       "lon": -71.22660524692867,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "CKRL-FM (Québec)",
@@ -3231,7 +3233,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 47.83146356156492,
       "lon": -69.53091256761357,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "CKTF-FM (Énergie Gatineau-Ottawa)",
@@ -3314,7 +3316,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.489683260780374,
       "lon": -73.57287158909425,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "COGECO INC.",
@@ -3333,7 +3335,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.50155101718448,
       "lon": -73.56825372178051,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "COGECO MÉDIA ACQUISITIONS INC.",
@@ -3350,7 +3352,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.50006652384152,
       "lon": -73.56475179681186,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "COGECO MÉDIA INC.",
@@ -3367,7 +3369,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.50194,
       "lon": -73.566515,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "COLLECTIF DE COMMUNICATION (ST-ADELME)",
@@ -3383,7 +3385,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.823713148191565,
       "lon": -67.3205073267268,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "COM C'EST NOUS",
@@ -3399,7 +3401,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.60330516276631,
       "lon": -73.62161746755761,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "COM1",
@@ -3423,7 +3425,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.382815352536674,
       "lon": -71.92539088837299,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "COMMUNAUTÉ SÉPHARADE UNIFIÉE DU QUÉBEC",
@@ -3439,7 +3441,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.48941570098201,
       "lon": -73.63686127848909,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "COMMUNICATION DU VERSANT NORD (CISM FM) INC.",
@@ -3459,7 +3461,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.50715240807067,
       "lon": -73.61398201085426,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "COMMUNICATIONS BASSE-VILLE",
@@ -3475,7 +3477,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.812156317805425,
       "lon": -71.2364113333859,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "COMMUNICATIONS PAYVAND INC.",
@@ -3492,7 +3494,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.485786376214556,
       "lon": -73.58671741664014,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "COOP CULTURE CIBLE",
@@ -3508,7 +3510,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.520551963148435,
       "lon": -73.58675427426154,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "COOP DE SOLIDARITÉ PIVOT",
@@ -3526,7 +3528,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.52696770115043,
       "lon": -73.57512078795631,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "COOP DE SOLIDARITÉ RADIO COMMUNAUTAIRE DE LA MRC DE MASKINONGÉ",
@@ -3546,7 +3548,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.25503862390852,
       "lon": -72.94354257356801,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "COOPÉRATIVE DE SOLIDARITÉ CSUR LA TÉLÉ",
@@ -3565,7 +3567,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.42068364671402,
       "lon": -74.05495383325042,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "COOPÉRATIVE DE SOLIDARITÉ D'INFORMATION DES BASQUES",
@@ -3581,7 +3583,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.10880036097692,
       "lon": -69.11220275193345,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "COOPÉRATIVE DE SOLIDARITÉ DU JOURNAL CULTUREL DE L'ABITIBI-TÉMISCAMINGUE",
@@ -3598,7 +3600,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.23930103477756,
       "lon": -79.01802392584558,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "COOPÉRATIVE DE SOLIDARITÉ RADIO COMMUNAUTAIRE NICOLET-YAMASKA/ BÉCANCOUR",
@@ -3617,7 +3619,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.275316697583484,
       "lon": -72.50942276959383,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "COOPÉRATIVE DE TRAVAIL DE LA RADIO DE GRANBY",
@@ -3636,7 +3638,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.399391681292116,
       "lon": -72.72444258915046,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "COOPÉRATIVE DES TRAVAILLEURS CHNC",
@@ -3655,7 +3657,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 48.02961454985776,
       "lon": -65.24843506933448,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "COOPÉRATIVE DU COURRIER DE PORTNEUF",
@@ -3674,7 +3676,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 46.67304262658895,
       "lon": -71.73764937078397,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "COOPERATIVE DU JOURNAL L'OIE BLANCHE",
@@ -3693,7 +3695,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 46.96985166321353,
       "lon": -70.57678313713613,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "COOPÉRATIVE NATIONALE DE L'INFORMATION INDÉPENDANTE, COOP DE SOLIDARITÉ",
@@ -3711,7 +3713,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 46.814123245888254,
       "lon": -71.22339704241365,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "COOPÉRATIVE RADIO WEB MÉDIA DES SOURCES",
@@ -3730,7 +3732,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.77460843888849,
       "lon": -71.93911331714986,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "CORPORATION DE TÉLÉDIFFUSION RÉGIONALE DE BERTHIER INC.",
@@ -3749,7 +3751,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.08239979754921,
       "lon": -73.18279400268544,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "CORPORATION DU JOURNAL LE REVEIL",
@@ -3765,7 +3767,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.65595830484382,
       "lon": -70.14690196129088,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Corus Entertainment Inc.",
@@ -3779,7 +3781,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 51.044990784257976,
       "lon": -114.06766333581194,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "CORUS MEDIA HOLDINGS INC.",
@@ -3796,7 +3798,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 51.045011004915025,
       "lon": -114.06700887440266,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "CORUS SALES INC.",
@@ -3813,7 +3815,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 43.643894583398605,
       "lon": -79.36663411881231,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "CORUS TELEVISION G.P. INC.",
@@ -3830,7 +3832,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 43.643753593689894,
       "lon": -79.36697713547035,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Corus Television Limited Partnership",
@@ -3850,7 +3852,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 43.6440196855536,
       "lon": -79.36620328793032,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Country Pop",
@@ -3918,7 +3920,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.53103833400804,
       "lon": -73.62475570456297,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "CSUR la télé",
@@ -3978,7 +3980,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.624383516447395,
       "lon": -72.94723280373685,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "D’un lac à l’autre",
@@ -4045,7 +4047,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.1269353665594,
       "lon": -66.043034088608,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "DIFFUSION COMMUNAUTAIRE DE LA MITIS INC.",
@@ -4065,7 +4067,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.58182978072865,
       "lon": -68.18231937496441,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "DIFFUSION COMMUNAUTAIRE DES ÎLES INC.",
@@ -4084,7 +4086,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 47.373582284967064,
       "lon": -61.89513095891268,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Dimitrios Papadopoulos",
@@ -4117,7 +4119,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.50225450972387,
       "lon": -73.55913183483038,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Échos Montréal",
@@ -4143,7 +4145,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.539737120066384,
       "lon": -72.34132934911824,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "EDITIONS DU RENOUVEAU QUÉBECOIS",
@@ -4159,7 +4161,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.518534,
       "lon": -73.583232,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "ÉDITIONS PRÉVOSTOISES",
@@ -4175,7 +4177,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.88398392956019,
       "lon": -74.06219231638711,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Edward Torres",
@@ -4217,7 +4219,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.241657541246155,
       "lon": -79.13339465231098,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Entre deux lacs",
@@ -4247,7 +4249,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 43.65124988269047,
       "lon": -79.3757416537063,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "EPIK",
@@ -4309,7 +4311,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.369572733564695,
       "lon": -71.85743833926615,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Etchemins Télé",
@@ -4329,7 +4331,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.40626718261453,
       "lon": -70.5298746285374,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "EXPLORE VERDUN ÎLE-DES-SOEURS",
@@ -4344,7 +4346,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.435853,
       "lon": -73.58554,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Explore Verdun Île-des-Sœurs",
@@ -4382,7 +4384,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 46.801566597775974,
       "lon": -71.17007370315304,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Fédération des télévisions communautaires autonomes du Québec",
@@ -4418,7 +4420,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.897451352620315,
       "lon": -72.52941454118655,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Fonds de solidarité des travailleurs du Québec",
@@ -4440,7 +4442,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.50062110459415,
       "lon": -73.56196918883809,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Francis Picard",
@@ -4481,7 +4483,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.505807,
       "lon": -73.572404,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Gaëlle Engelberts",
@@ -4523,7 +4525,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.50155101718448,
       "lon": -73.56825372178051,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "GESTION BRISSON ET FILLES INC. (Éditions nordiques)",
@@ -4539,7 +4541,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 49.19972640407975,
       "lon": -68.25939853747149,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Gestion Celaz Inc.",
@@ -4555,7 +4557,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.89738145207402,
       "lon": -74.20256083583932,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Gestion Chamarin inc.",
@@ -4571,7 +4573,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 46.05645947920405,
       "lon": -71.95626868967283,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Gestion DR (2001) Inc.",
@@ -4587,7 +4589,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.48897093238068,
       "lon": -73.6008275114712,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "GESTION FONDS XPND S.E.C.",
@@ -4603,7 +4605,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.50062110459415,
       "lon": -73.56196918883809,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "GESTION HEBDOS LTÉE",
@@ -4624,7 +4626,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.30383551693734,
       "lon": -73.74024926020618,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Gestion Phisa Inc.",
@@ -4640,7 +4642,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.36315835572948,
       "lon": -73.26010554872389,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "GESTION PIERRE CASSIVI INC.",
@@ -4656,7 +4658,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 46.68647268805786,
       "lon": -71.50605257267532,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Gestion PRB Inc.",
@@ -4672,7 +4674,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.55263589670463,
       "lon": -73.7893528794371,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Gestion Serge Le Roux Ltée",
@@ -4688,7 +4690,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.897451352620315,
       "lon": -72.52941454118655,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Gestion Ulysse et Pénélope inc.",
@@ -4703,7 +4705,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.363484872467055,
       "lon": -73.25613678099648,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Gilles Roy",
@@ -4751,7 +4753,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.506227,
       "lon": -73.567251,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Groupe Investco Inc",
@@ -4771,7 +4773,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.86979760812959,
       "lon": -72.50829429854049,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Groupe Média Régional Val-Ouest",
@@ -4786,7 +4788,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.495185124908375,
       "lon": -72.31545081371621,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "GROUPE RADIO NORD INC.",
@@ -4801,7 +4803,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.48770086852579,
       "lon": -73.58780734894839,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "GROUPE TVA INC.",
@@ -4821,7 +4823,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.50086900556964,
       "lon": -73.56055355724965,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "GTA Gestion et technologie agricoles",
@@ -4864,7 +4866,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.521978422836234,
       "lon": -73.55043078834157,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Horizon Weekly",
@@ -4945,7 +4947,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.306176560262934,
       "lon": -73.25142272575833,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Il Cittadino Canadese",
@@ -4967,7 +4969,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.47297274069378,
       "lon": -71.50036135618872,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Imprimerie Le Radar Inc.",
@@ -4987,7 +4989,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 47.37051484900889,
       "lon": -61.88736549120156,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "IMPRIMERIE PONTIAC INC.",
@@ -5007,7 +5009,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.603228331944926,
       "lon": -76.4920170322035,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "In Texto, Jounal Nou!",
@@ -5027,7 +5029,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.56476252882394,
       "lon": -73.60837084584357,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Inae Hwang",
@@ -5082,7 +5084,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.553812974727016,
       "lon": -73.67348233847946,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Investissement Québec",
@@ -5098,7 +5100,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 46.765420392870006,
       "lon": -71.29432209397525,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "INVESTMAT INC.",
@@ -5114,7 +5116,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 46.05646601601777,
       "lon": -71.95605152785456,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Iori:wase",
@@ -5130,7 +5132,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.41474989803948,
       "lon": -73.68416345093375,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Jacques Leclerc",
@@ -5203,7 +5205,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.382572303039645,
       "lon": -71.9254818954011,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Journal Altitude 1350",
@@ -5224,7 +5226,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.739473514346344,
       "lon": -70.02399215931537,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "JOURNAL COMMUNAUTAIRE \"LE PHARE\"",
@@ -5240,7 +5242,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 49.22546286826755,
       "lon": -65.1252249963227,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "JOURNAL COMMUNAUTAIRE COUP D'OEIL SUR ST-MARCEL DE L'ISLET INC.",
@@ -5256,7 +5258,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.89876965765539,
       "lon": -70.06048772583482,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "JOURNAL COMMUNAUTAIRE D'ASCOT CORNER INC.",
@@ -5272,7 +5274,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.449838687283986,
       "lon": -71.76494074277788,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "JOURNAL COMMUNAUTAIRE DE DISRAËLI",
@@ -5288,7 +5290,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.90710058533746,
       "lon": -71.35844394064497,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Journal communautaire de Matapédia et les Plateaux",
@@ -5304,7 +5306,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 47.97118632406324,
       "lon": -67.0504083009276,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Journal Communautaire de Normétal inc",
@@ -5320,7 +5322,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.99586081306396,
       "lon": -79.36518696478443,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "JOURNAL COMMUNAUTAIRE DE ST-HIPPOLYTE",
@@ -5336,7 +5338,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.92896078284235,
       "lon": -74.02920084580292,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Journal Communautaire Ici Brompton",
@@ -5351,7 +5353,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.47477029116134,
       "lon": -71.94512733811685,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "JOURNAL COMMUNAUTAIRE L'ATTISÉE INC.",
@@ -5368,7 +5370,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 47.213248752438396,
       "lon": -70.26551037828874,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Journal communautaire L'Écho de Cantley",
@@ -5384,7 +5386,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.52190795570512,
       "lon": -75.77268299320895,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "JOURNAL COMMUNAUTAIRE LE REFLET DE LINGWICK-GOULD",
@@ -5400,7 +5402,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.60971301659238,
       "lon": -71.3521117302887,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Journal communautaire Regards",
@@ -5416,7 +5418,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.38382090862075,
       "lon": -71.89987885564886,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Journal Communautaire, Parent",
@@ -5432,7 +5434,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 47.92025321155381,
       "lon": -74.61340979920683,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "JOURNAL CULTUREL GRAFFICI, COOPÉRATIVE DE SOLIDARITÉ",
@@ -5449,7 +5451,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.831195004791304,
       "lon": -64.4836275581473,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Journal de Chambly Inc.",
@@ -5466,7 +5468,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.527832876722634,
       "lon": -73.34223887813633,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Journal de la Rue / Reflet de Société",
@@ -5486,7 +5488,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.546300878565674,
       "lon": -73.53632051823067,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Journal de Rue de l'Estrie",
@@ -5507,7 +5509,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.394177737509665,
       "lon": -71.8888626346796,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Journal de St-Michel",
@@ -5528,7 +5530,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.53383271346597,
       "lon": -67.54828180460382,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Journal des citoyens",
@@ -5549,7 +5551,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 52.7986154664934,
       "lon": -67.0897096087696,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Journal des Voisins",
@@ -5575,7 +5577,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 47.91162726637409,
       "lon": -69.50449946535521,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Journal Hafteh",
@@ -5602,7 +5604,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 46.89723038925115,
       "lon": -71.20805847180405,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "JOURNAL L'ALLIANCE DE PREISSAC",
@@ -5618,7 +5620,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.28234050529158,
       "lon": -78.4492099942735,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "JOURNAL L'ÉTINCELLE INC.",
@@ -5636,7 +5638,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.571238001948274,
       "lon": -72.00177675383502,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "JOURNAL L'ÉVÈNEMENT SCOTSTOWN-HAMPDEN",
@@ -5652,7 +5654,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.523531550694514,
       "lon": -71.28085645109402,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Journal L'Ulricois",
@@ -5667,7 +5669,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 48.787480360542794,
       "lon": -67.69895088722012,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "JOURNAL LA HAUTE CÔTE-NORD INC.",
@@ -5684,7 +5686,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 49.19972640407975,
       "lon": -68.25949853747149,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "JOURNAL LA VIE D'ICI",
@@ -5700,7 +5702,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.5068393124445,
       "lon": -71.26491506888472,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "JOURNAL LE CHARLEVOISIEN INC.",
@@ -5718,7 +5720,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 47.443090112251404,
       "lon": -70.51312437585959,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Journal Le Lavalois",
@@ -5735,7 +5737,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 47.0085799422921,
       "lon": -71.18738000009567,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Journal Le Montérégien Inc.",
@@ -5751,7 +5753,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.44238405314545,
       "lon": -73.19579417711418,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Journal Le Nord Inc.",
@@ -5770,7 +5772,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.791708253665526,
       "lon": -73.41370221949606,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "JOURNAL LE NORD-CÔTIER INC.",
@@ -5787,7 +5789,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 49.19972640407975,
       "lon": -68.25969853747149,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "JOURNAL LE PLACOTEUX, COOPÉRATIVE DE SOLIDARITÉ",
@@ -5807,7 +5809,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 47.528270757322055,
       "lon": -69.80766499124493,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "JOURNAL LE STÉPHANOIS INC.",
@@ -5824,7 +5826,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.44199707840114,
       "lon": -72.7708894878748,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Journal Le Tartan",
@@ -5839,7 +5841,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.258888964214364,
       "lon": -71.52038992395612,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "JOURNAL LOCAL LE FÉLIX",
@@ -5855,7 +5857,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.815133341426325,
       "lon": -72.22688831350581,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Journal Métro",
@@ -5886,7 +5888,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 46.68640147422924,
       "lon": -71.50598594743354,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "JOURNALDESVOISINS.COM",
@@ -5905,7 +5907,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.54910278510165,
       "lon": -73.66409610198487,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "JRS Ltd.",
@@ -5979,7 +5981,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.81314873021845,
       "lon": -71.2288512031341,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "L’Argenteuil",
@@ -6000,7 +6002,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.04775085459473,
       "lon": -71.07725354845122,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "L’Arrivage d’Adstock",
@@ -6056,7 +6058,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.96351865414454,
       "lon": -69.78203562636406,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "L’Écho de Cantley",
@@ -6077,7 +6079,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.19286713866604,
       "lon": -71.81336067511718,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "L'Écho de Compton",
@@ -6128,7 +6130,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.886772908481035,
       "lon": -70.71533687577318,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "L’Écho de Trois-Rivières",
@@ -6149,7 +6151,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 48.35757443593384,
       "lon": -77.996328119091,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "L’écho des montagnes",
@@ -6215,7 +6217,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.702137529514026,
       "lon": -71.4615741830083,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "L'Éveil du citoyen de Weedon",
@@ -6248,7 +6250,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.87624156993145,
       "lon": -72.48080694298729,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "L’Hebdo du St-Maurice",
@@ -6354,7 +6356,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.42161247029326,
       "lon": -75.69786774345296,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "LA COMPAGNIE D'ÉDITION ANDRÉ PAQUETTE INC.",
@@ -6374,7 +6376,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.60424455017238,
       "lon": -74.59429735183905,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "LA COMPAGNIE DE PUBLICATIONS MICHAEL INC.",
@@ -6391,7 +6393,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.489620445460105,
       "lon": -73.71233065494725,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "La Conversation (édition Canada français)",
@@ -6419,7 +6421,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.53333189915123,
       "lon": -73.6156442127331,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "LA CORPORATION DE TÉLÉDIFFUSION BRANDON INC.",
@@ -6435,7 +6437,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.29246699186699,
       "lon": -73.38065774175548,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "LA GAZETTE DE LA MAURICIE",
@@ -6454,7 +6456,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.34644765364993,
       "lon": -72.54372316080206,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "La Gazette de la Mauricie",
@@ -6502,7 +6504,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.506716,
       "lon": -73.557236,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "La Quête",
@@ -6524,7 +6526,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 50.186223396419244,
       "lon": -61.822251075075265,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "LA RADIO COMMUNAUTAIRE DE FERMONT INC.",
@@ -6543,7 +6545,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 52.798893539333825,
       "lon": -67.08873324897009,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "LA RADIO COMMUNAUTAIRE DE LASALLE",
@@ -6559,7 +6561,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.42786395949708,
       "lon": -73.66147230648946,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "LA RADIO COMMUNAUTAIRE DU COMTÉ",
@@ -6578,7 +6580,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.4596801671221,
       "lon": -68.50056231815154,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "La Relève",
@@ -6617,7 +6619,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.405513065808364,
       "lon": -64.49208658040934,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "LA TELEVISION COMMUNAUTAIRE DE ROBERVAL INC.",
@@ -6633,7 +6635,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.50758871844363,
       "lon": -72.23102333854692,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "LA TELEVISION COMMUNAUTAIRE DE ST-RAYMOND, INC.",
@@ -6649,7 +6651,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.8894415097954,
       "lon": -71.83354254831734,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "LA TELEVISION COMMUNAUTAIRE DE WATERLOO",
@@ -6667,7 +6669,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.3447004102758,
       "lon": -72.51559267984786,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "La Télévision d'ici",
@@ -6689,7 +6691,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 47.023738864445974,
       "lon": -70.9261048777485,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "LA TÉLÉVISION DU LITTORAL INC.",
@@ -6705,7 +6707,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.73198590603528,
       "lon": -69.09483507854809,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "La Tribune",
@@ -6731,7 +6733,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.675997668766094,
       "lon": -77.49781316194057,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "La Voie du secteur des Coteaux",
@@ -6767,7 +6769,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.383896127081584,
       "lon": -71.89716966478794,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "La Voix Gaspésienne",
@@ -6824,7 +6826,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.52043486882774,
       "lon": -73.58680228032519,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Le Cantonnier",
@@ -6850,7 +6852,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.2003486021713,
       "lon": -72.13769296179389,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Le Causeur (journal)",
@@ -6921,7 +6923,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.37621392115701,
       "lon": -73.74155173317915,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Le Cyri-Lien",
@@ -6950,7 +6952,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.51469984083112,
       "lon": -73.55910803804967,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Le Droit",
@@ -6977,7 +6979,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.52506519183595,
       "lon": -73.55037500520959,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Le Guide",
@@ -7013,7 +7015,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.029534395178494,
       "lon": -74.20682516465449,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "LE JOURNAL COMMUNAUTAIRE DE ST-TITE-DES-CAPS",
@@ -7029,7 +7031,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 47.14164567893684,
       "lon": -70.77069868922793,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "LE JOURNAL COMMUNAUTAIRE L'INFO DE ST-ÉLIE D'ORFORD",
@@ -7045,7 +7047,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.39509502665148,
       "lon": -72.01263277345006,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Le Journal d'Un lac à l'autre Inc.",
@@ -7061,7 +7063,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.257314300174585,
       "lon": -72.18449133532332,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Le Journal de Cap-Rouge / Saint-Augustin-de-Desmaures",
@@ -7105,7 +7107,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 46.803927632301736,
       "lon": -71.1793790902814,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Le Journal de Montréal",
@@ -7153,7 +7155,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.41327098626801,
       "lon": -71.62917029076357,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Le Journal Saint-François",
@@ -7224,7 +7226,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.39171226810469,
       "lon": -70.8739724349546,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Le P'tit Journal de Woburn",
@@ -7250,7 +7252,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.58030562137348,
       "lon": -71.57145854726497,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Le Parentois",
@@ -7330,7 +7332,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 47.33051552755752,
       "lon": -79.44059238586101,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Le Régional",
@@ -7354,7 +7356,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 49.89334560750106,
       "lon": -97.14509892363559,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "LE RÉSEAU DES SPORTS (RDS) INC.",
@@ -7370,7 +7372,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.5221067549242,
       "lon": -73.54968374906821,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Le Réveil",
@@ -7407,7 +7409,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.458292812629274,
       "lon": -72.08069657094688,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Le Sentier",
@@ -7453,7 +7455,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 49.05338461912598,
       "lon": -76.9794213573946,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Le Stéphanois",
@@ -7484,7 +7486,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 47.456302682841354,
       "lon": -69.75327170497974,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Le Trait d’union du Nord",
@@ -7511,7 +7513,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.73561796803846,
       "lon": -71.80605656305816,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Le Val-Ouest",
@@ -7539,7 +7541,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 46.8404512535656,
       "lon": -71.28192433006677,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "LeContrecourant.com S.E.N.C.",
@@ -7555,7 +7557,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.92828407625856,
       "lon": -73.2066200356315,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Leonardo Calcagno",
@@ -7600,7 +7602,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.558575531023585,
       "lon": -73.89056511204902,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Les Éditions des Trois Clochers",
@@ -7616,7 +7618,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 47.1272215348783,
       "lon": -70.37204027730206,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "LES ÉDITIONS DU BERGER BLANC",
@@ -7632,7 +7634,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.43369254750804,
       "lon": -68.57854357897907,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "LES ÉDITIONS DU JOYEUX-DRILLE INC.",
@@ -7648,7 +7650,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 46.82523174397552,
       "lon": -71.22285524677858,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "LES ÉDITIONS INFO DIMANCHE INC.",
@@ -7668,7 +7670,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 47.8391234216838,
       "lon": -69.54121953623157,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "LES ÉDITIONS LE SOIR, COOP DE SOLIDARITÉ (anciennement 9439-7460 Québec inc.)",
@@ -7692,7 +7694,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.7581833254997,
       "lon": -74.53779033700471,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "LES ÉDITIONS PROTÉGEZ-VOUS",
@@ -7710,7 +7712,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.531200168710726,
       "lon": -73.56250865159052,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Les Équipements de l'Est inc.",
@@ -7727,7 +7729,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 47.370634358256744,
       "lon": -61.88271866485286,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Les Explorateurs",
@@ -7749,7 +7751,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.48972573888967,
       "lon": -73.71212680103588,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Les Placements Péladeau Inc.",
@@ -7766,7 +7768,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.500812508292576,
       "lon": -73.56016800375463,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "LES PRODUCTIONS KAPRICOM",
@@ -7790,7 +7792,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.53252819734471,
       "lon": -73.69719737992764,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "LES PUBLICATIONS DE LA COTE INC.",
@@ -7807,7 +7809,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 48.008258659481214,
       "lon": -65.34013073490684,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Les Publications du patrimoine BCR inc.",
@@ -7823,7 +7825,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.60929188934647,
       "lon": -74.61075268227367,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "LES PUBLICATIONS GASPÉSIENNES INC.",
@@ -7840,7 +7842,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 49.19972640407975,
       "lon": -68.25959853747149,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Les Versants du Mont-Bruno",
@@ -7864,7 +7866,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.527832876722634,
       "lon": -73.34223887813633,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Lily Ryan",
@@ -8009,7 +8011,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.57042896649788,
       "lon": -73.72225217165108,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Média Cult MTL Inc.",
@@ -8026,7 +8028,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.52601075016631,
       "lon": -73.62117769278392,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Média Laval",
@@ -8050,7 +8052,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.79203113355222,
       "lon": -73.41355828653589,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "MédiaQMI inc.",
@@ -8069,7 +8071,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.539597,
       "lon": -73.567822,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "MédiAT",
@@ -8091,7 +8093,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 46.80398864782899,
       "lon": -71.17924878212231,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "MesRégions",
@@ -8141,7 +8143,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.50505626736464,
       "lon": -73.56941078344893,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Mobiles, Média Communautaire Maskoutain",
@@ -8157,7 +8159,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.62523411104064,
       "lon": -72.94276063511393,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Mohammad Nowrouzzahrai",
@@ -8227,7 +8229,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 46.83364654714283,
       "lon": -71.23344065867957,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Monsaintjean",
@@ -8258,7 +8260,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.03918683099251,
       "lon": -79.27580671275653,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Montbeillard en bref",
@@ -8309,7 +8311,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.7567651171122,
       "lon": -71.694617322221,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "MX MÉDIA INC.",
@@ -8326,7 +8328,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.25628455095704,
       "lon": -74.13059851395856,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Nathalie Boussion",
@@ -8387,7 +8389,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.52440604501686,
       "lon": -73.49880953108821,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Netrevolution Inc",
@@ -8463,7 +8465,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.430700747523424,
       "lon": -73.59422882709052,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Nouvelles Parc-Extension News",
@@ -8485,7 +8487,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.501027,
       "lon": -73.560328,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "O",
@@ -8507,7 +8509,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.4588283951275,
       "lon": -73.17500045534571,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Olivier Martin",
@@ -8530,7 +8532,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.79939576791705,
       "lon": -74.34552217287211,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Paivand",
@@ -8628,7 +8630,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.62428126150167,
       "lon": -72.94741984917002,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Planète",
@@ -8652,7 +8654,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 43.671813463795466,
       "lon": -79.37789796008151,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Protégez-Vous",
@@ -8673,7 +8675,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.53352895778118,
       "lon": -73.6032162927022,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "PUBLICATIONS TEMPO INC.",
@@ -8689,7 +8691,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.216431365441004,
       "lon": -72.51358866122348,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Quatre,95",
@@ -8726,7 +8728,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.500851,
       "lon": -73.56042,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Québecor Média Inc.",
@@ -8743,7 +8745,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.501036,
       "lon": -73.5603,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "RADIO & TELEVISION COMMUNAUTAIRE HAVRE ST-PIERRE",
@@ -8763,7 +8765,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 50.23911767605648,
       "lon": -63.60660752204496,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "RADIO ANTICOSTI",
@@ -8779,7 +8781,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 49.81785333991815,
       "lon": -64.35044864107267,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Radio Bas-St-Laurent inc.",
@@ -8794,7 +8796,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 47.83638862179348,
       "lon": -69.53686193472157,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "RADIO BASSE VILLE",
@@ -8813,7 +8815,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.81363767586756,
       "lon": -71.21982535321449,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "RADIO BEAUCE INC.",
@@ -8831,7 +8833,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 46.12193411075845,
       "lon": -70.67217384011883,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "RADIO BELLECHASSE-ETCHEMINS",
@@ -8849,7 +8851,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.40148862874771,
       "lon": -70.52144023187488,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "RADIO BISHOP INC.",
@@ -8869,7 +8871,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.36479025185549,
       "lon": -71.87635114440349,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "RADIO BLANC-SABLON INC.",
@@ -8886,7 +8888,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 51.42156425853024,
       "lon": -57.177180262594135,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "RADIO BORÉALE",
@@ -8902,7 +8904,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.57230171051415,
       "lon": -78.11873621697387,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "RADIO CENTRE-VILLE SAINT-LOUIS",
@@ -8918,7 +8920,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.523832543667346,
       "lon": -73.59505028254016,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "RADIO CJFP (1986) LTÉE",
@@ -8936,7 +8938,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 47.83638862179348,
       "lon": -69.53686193472157,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "RADIO CKUT",
@@ -8955,7 +8957,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.5081901841557,
       "lon": -73.57943577290322,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "RADIO COMMUNAUTAIRE DE CHÂTEAUGUAY CHAI-MF",
@@ -8971,7 +8973,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.369611254867685,
       "lon": -73.7475969870588,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "RADIO COMMUNAUTAIRE DE L'ESTRIE",
@@ -8987,7 +8989,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.40245524561365,
       "lon": -71.89123651428723,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "RADIO COMMUNAUTAIRE DE LA RIVE-SUD INC.",
@@ -9006,7 +9008,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.53727690551454,
       "lon": -73.51206835868079,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Radio communautaire de Lévis",
@@ -9024,7 +9026,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.79203685815245,
       "lon": -71.18335364409263,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "RADIO COMMUNAUTAIRE DE PONTIAC",
@@ -9041,7 +9043,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.840418125039214,
       "lon": -76.73451642182813,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "RADIO COMMUNAUTAIRE DE RADISSON",
@@ -9058,7 +9060,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 53.79425146921982,
       "lon": -77.62329167320938,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "RADIO COMMUNAUTAIRE DU SAGUENAY INC.",
@@ -9076,7 +9078,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.41309244146913,
       "lon": -71.24989736587601,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "RADIO COMMUNAUTAIRE F.M. DE LA HAUTE-GATINEAU INC.",
@@ -9095,7 +9097,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.37548802840245,
       "lon": -75.97695538738412,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Radio communautaire francophone de Montréal Inc.",
@@ -9115,7 +9117,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.50989306414678,
       "lon": -73.56359282346666,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "RADIO COMMUNAUTAIRE M.F. DE SENNETERRE INC.",
@@ -9132,7 +9134,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.39269337774101,
       "lon": -77.23214452357074,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "RADIO COMMUNAUTAIRE TÊTE-À-LA-BALEINE",
@@ -9150,7 +9152,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 50.70283322882296,
       "lon": -59.32367481920371,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "RADIO COOPÉRATIVE DE COATICOOK, COOP DE SOLIDARITÉ",
@@ -9170,7 +9172,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.13412611759954,
       "lon": -71.80499225318238,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "RADIO GASPESIE INC.",
@@ -9188,7 +9190,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.831051560323274,
       "lon": -64.48666521965559,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "RADIO MATAGAMI",
@@ -9206,7 +9208,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 49.75036007217765,
       "lon": -77.64228984548683,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "RADIO MF CHARLEVOIX",
@@ -9225,7 +9227,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 47.578096324981246,
       "lon": -70.40278793768418,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "RADIO MONTMAGNY INC.",
@@ -9241,7 +9243,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 47.836377815233135,
       "lon": -69.53678208790478,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "RADIO NORD-JOLI INC.",
@@ -9260,7 +9262,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.02221099433125,
       "lon": -73.45037883443608,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Radio Shawinigan Inc.",
@@ -9279,7 +9281,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.25503862390852,
       "lon": -72.94354257356801,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Radio Témiscamingue Inc.",
@@ -9303,7 +9305,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.64978627111485,
       "lon": -72.56558247469462,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Raphaëlle Huysmans",
@@ -9340,7 +9342,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 47.4357655134581,
       "lon": -69.04228667266446,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Reflet de société",
@@ -9378,7 +9380,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.582243467241014,
       "lon": -73.5862818887526,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "REUTERS CANADA LIMITÉE",
@@ -9398,7 +9400,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 43.64811699626265,
       "lon": -79.38837429245721,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Revue l'Esprit libre",
@@ -9416,7 +9418,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.677736121606536,
       "lon": -71.74188479870332,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "RNC MÉDIA INC.",
@@ -9436,7 +9438,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.488069,
       "lon": -73.589214,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Rogers Communications Canada Inc.",
@@ -9451,7 +9453,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 43.67090169848679,
       "lon": -79.37985607382014,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Rogers Communications Inc.",
@@ -9477,7 +9479,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 43.67144170018338,
       "lon": -79.3799510390703,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Rouge FM",
@@ -9540,7 +9542,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.13413891893264,
       "lon": -73.92173555077332,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "SFLTCO LTD.",
@@ -9580,7 +9582,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 49.28271515996813,
       "lon": -123.11934887006515,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "SHERBROOKE-VALOIS INC.",
@@ -9596,7 +9598,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.47760396624866,
       "lon": -73.60073662327522,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Sherbrooke.info",
@@ -9617,7 +9619,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 43.661434281333044,
       "lon": -79.59133484899046,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Simon Brisson",
@@ -9653,7 +9655,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 50.41273563068377,
       "lon": -73.86908034013463,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "SOCIÉTÉ D'INFORMATION LAC-ST-JEAN",
@@ -9672,7 +9674,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.87564450000098,
       "lon": -72.22704204478141,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "SOCIÉTÉ DE COMMUNICATION ATIKAMEKW-MONTAGNAIS",
@@ -9691,7 +9693,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.86946156728799,
       "lon": -71.36626921488066,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "SOCIETE KUUJJUAMIUT INC.",
@@ -9707,7 +9709,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 58.11301956365489,
       "lon": -68.38529503257405,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "SOCIÉTÉ RADIO-CANADA",
@@ -9727,7 +9729,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.42118922421912,
       "lon": -75.69994463087593,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "SONÈME (2007) INC.",
@@ -9745,7 +9747,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 46.55150687713918,
       "lon": -75.49897261205892,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Sophie Ryan",
@@ -9782,7 +9784,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.55955568472647,
       "lon": -73.53990866860445,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Stéphane Legrand",
@@ -9870,7 +9872,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 47.83146356156492,
       "lon": -69.53091256761357,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Télé-Coeur",
@@ -9892,7 +9894,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.10871885832993,
       "lon": -72.37593942468823,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Télé-communautaire d'Amos-région",
@@ -9911,7 +9913,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.57219566377116,
       "lon": -78.11865816018012,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "TÉLÉ-GASPÉ",
@@ -9931,7 +9933,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.82557663644868,
       "lon": -64.53283508955258,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Télé-Gaspé",
@@ -9958,7 +9960,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 49.22919591945889,
       "lon": -65.72906065714456,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "TÉLÉCOMMUNAUTAIRE LAURENTIDES - LANAUDIÈRE",
@@ -9975,7 +9977,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.97580096821083,
       "lon": -74.63315325677256,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Télévag",
@@ -9998,7 +10000,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.076711693694016,
       "lon": -65.1110670213523,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Télévision communautaire Beauceville",
@@ -10023,7 +10025,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.22128060832183,
       "lon": -71.76110976762007,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "TÉLÉVISION COMMUNAUTAIRE DE LA BASSE-LIÈVRE INC.",
@@ -10041,7 +10043,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.58767913535975,
       "lon": -75.41304950457234,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Télévision communautaire de la région des Appalaches",
@@ -10060,7 +10062,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.08776066089023,
       "lon": -71.30292520969877,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "TELEVISION COMMUNAUTAIRE DE LA VALLEE DE LA MATAPEDIA INC.",
@@ -10078,7 +10080,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.46361263556811,
       "lon": -67.43168073386225,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "TELEVISION COMMUNAUTAIRE DE LA VALLEE DU RICHELIEU (T.C.V.R.) INC.",
@@ -10095,7 +10097,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.56668119716314,
       "lon": -73.20207425783688,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Télévision Communautaire des Basques et du Haut-Pays",
@@ -10112,7 +10114,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.12585882621256,
       "lon": -69.17482880173229,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "TÉLÉVISION COMMUNAUTAIRE DES BASSES-LAURENTIDES",
@@ -10130,7 +10132,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.63946939121627,
       "lon": -73.843468634256,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "TÉLÉVISION COMMUNAUTAIRE DES BOIS-FRANCS",
@@ -10150,7 +10152,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 46.05700435539558,
       "lon": -71.95247025735253,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "TÉLÉVISION COMMUNAUTAIRE DU HAUT-RICHELIEU 1981 LTÉE",
@@ -10167,7 +10169,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.305025942831456,
       "lon": -73.25043227531488,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "TÉLÉVISION COMMUNAUTAIRE DU KAMOURASKA INCORPORÉE",
@@ -10185,7 +10187,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 47.528270757322055,
       "lon": -69.80766499124493,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "TÉLÉVISION COMMUNAUTAIRE FRONTENAC",
@@ -10201,7 +10203,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.58597059097785,
       "lon": -73.64388059967776,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "TÉLÉVISION COMMUNAUTAIRE UNIVERSITAIRE - CONCORDIA (TVCU)",
@@ -10221,7 +10223,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.49705681246509,
       "lon": -73.57988533387584,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "TÉLÉVISION COMMUNAUTAIRE VENTS ET MARÉES",
@@ -10237,7 +10239,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 47.65732968190713,
       "lon": -70.15375009755004,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "TÉLÉVISION DE CHARLEVOIX-OUEST (TVCO)",
@@ -10253,7 +10255,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 47.43821328517175,
       "lon": -70.50682002487731,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Télévision du Sud-Ouest",
@@ -10271,7 +10273,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.369819546663805,
       "lon": -73.74755485511463,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "TÉLÉVISION MBS INC.",
@@ -10287,7 +10289,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 47.83496305916297,
       "lon": -69.50707362832694,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "TÉLÉVISION RÉGIONALE DE LA PÉSINSULE INC.",
@@ -10303,7 +10305,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 49.128488184423674,
       "lon": -68.39308878842913,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "TÉLÉVISION RÉGIONALE DE LAVAL INC.",
@@ -10319,7 +10321,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.573994002273835,
       "lon": -73.72316819313983,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "TÉLÉVISION RÉGIONALE HAUTE CÔTE-NORD",
@@ -10338,7 +10340,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 48.35459071373099,
       "lon": -69.4028121870472,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "TÉLÉVISION RIVE-SUD",
@@ -10357,7 +10359,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.56325260251219,
       "lon": -73.46278511211204,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Télévision spécialisée CTV Inc.",
@@ -10462,7 +10464,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 43.64814812546851,
       "lon": -79.38799250427857,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Thomson Reuters Corporation",
@@ -10504,7 +10506,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.369572733564695,
       "lon": -71.85743833926615,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "Trium Médias Inc.",
@@ -10524,7 +10526,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 48.550781467604786,
       "lon": -71.65058068024904,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "TV Mitis",
@@ -10550,7 +10552,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.50086900556964,
       "lon": -73.56055355724965,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "TVA Sports",
@@ -10581,7 +10583,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.65492909674927,
       "lon": -74.33870572728917,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "TVC d’Argenteuil",
@@ -10680,7 +10682,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 45.702485644761396,
       "lon": -73.63249231929575,
-      "géocodé": "OUI"
+      "géocodé": "OUI par le script geo.py avec le RQA"
     },
     {
       "id": "TVRP",
@@ -10725,7 +10727,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.497159,
       "lon": -73.561835,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Vallée-du-Richelieu Express",
@@ -10754,7 +10756,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.527215940367114,
       "lon": -73.57318338904696,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Vidéotron ltée",
@@ -10771,7 +10773,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "other",
       "lat": 45.50096,
       "lon": -73.560528,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Vincent Fradet",
@@ -10819,7 +10821,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
       "cluster": "community",
       "lat": 51.48648658946324,
       "lon": -78.7515743585098,
-      "géocodé": "JHR"
+      "géocodé": "manuellement par JHR"
     },
     {
       "id": "Wemindji Telecommunication Association",
