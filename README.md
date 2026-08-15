@@ -3,10 +3,10 @@
 Ce répertoire contient le code et les données à la base de deux **infographies interactives** permettant d'explorer la propriété des médias au Québec&nbsp;:
 
 ## Par grappes de propriété
-<a href="https://jhroy.github.io/propriete-medias-quebec/" target="_blank">![](images/carte.png)]</a>
+<a href="https://jhroy.github.io/propriete-medias-quebec/" target="_blank">![](images/carte.png)</a>
 
 ## Sur une carte
-<a href="https://jhroy.github.io/propriete-medias-quebec/carte/" target="_blank">![](images/grappes.png)]</a>
+<a href="https://jhroy.github.io/propriete-medias-quebec/carte/" target="_blank">![](images/grappes.png)</a>
 
 <hr>
 
@@ -21,4 +21,4 @@ Ce répertoire contient le code et les données à la base de deux **infographie
 - Géocodage via le script [**geo.py**](geo.py) mobilisant le [Référentiel québécois des adresses](https://www.donneesquebec.ca/recherche/dataset/referentiel-quebecois-des-adresses) du ministère des Ressources naturelles.
 - Génération du code : Claude Code, mobilisant notamment [D3.js](https://d3js.org).
 
-Version finale avant publication - 8 août 2026
+Version finale avant publication - 14 août 2026
