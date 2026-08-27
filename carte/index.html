@@ -16482,11 +16482,11 @@ function popupHTML(d) {
   return html;
 }
 
-// --- Carte ----------------------------------------------------------------
+// --- Carte avec clé d'API des cartes de base de Carto restreinte au domaine jhroy.github.io, fa que copiez-la, mais vous ne pourrez rien faire ha ha ha ----------
 const map = L.map('map', { attributionControl: false, zoomControl: false, minZoom: 3, maxZoom: 17 })
   .setView([48.5, -71.5], 6);
 L.control.zoom({ position: 'topleft' }).addTo(map);
-L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png?key=${{ secrets.CLE_CARTO }}', {
   attribution: '&copy; OpenStreetMap &copy; CARTO',
   subdomains: 'abcd',
   maxZoom: 19
