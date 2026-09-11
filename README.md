@@ -4,13 +4,13 @@ Ce répertoire contient le code et les données à la base de deux **infographie
 
 ## Par grappes de propriété
 
-**[https://bit.ly/medias-QC-2026](https://bit.ly/medias-QC-2026)**
+**[https://jhroy.github.io/propriete-medias-quebec/](https://jhroy.github.io/propriete-medias-quebec/)**
 
 <a href="https://jhroy.github.io/propriete-medias-quebec/" target="_blank">![](images/grappes.png)</a>
 
 ## Sur une carte
 
-**[https://bit.ly/medias-QC-2026-carte](https://bit.ly/medias-QC-2026-carte)**
+**[https://jhroy.github.io/propriete-medias-quebec/carte/](https://jhroy.github.io/propriete-medias-quebec/carte/)**
 
 <a href="https://jhroy.github.io/propriete-medias-quebec/carte/" target="_blank">![](images/carte.png)</a>
 
