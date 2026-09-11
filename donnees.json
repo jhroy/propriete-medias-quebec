@@ -636,8 +636,8 @@
       "adr1": "2200-700 WEST GEORGIA STREET",
       "adr2": "Vancouver (BC)",
       "adr4": "V7Y1K8",
-      "montant": 142332,
-      "google2025": 142332,
+      "montant": 142332.0,
+      "google2025": 142332.0,
       "cluster": "other",
       "lat": 49.28269415301178,
       "lon": -123.11883388640048,
@@ -3391,8 +3391,8 @@
       "adr2": "Baie-Comeau (Québec)",
       "adr4": "G5C2W8",
       "cluster": "other",
-      "lat": 49.19972640407975,
-      "lon": -68.25949853747149,
+      "lat": 49.19999869018406,
+      "lon": -68.2592579518747,
       "géocodé": "OUI"
     },
     {
@@ -4639,8 +4639,8 @@
       "adr2": "Baie-Comeau (Québec)",
       "adr4": "G5C2W8",
       "cluster": "other",
-      "lat": 49.19972640407975,
-      "lon": -68.25949853747149,
+      "lat": 49.199454117975435,
+      "lon": -68.2592579518747,
       "géocodé": "OUI"
     },
     {
@@ -6517,7 +6517,7 @@
       "adr2": "Rivière-du-Loup (Québec)",
       "adr4": "G5R1C6",
       "montant": 258478.03,
-      "google2025": 108059,
+      "google2025": 108059.0,
       "google2026": 150419.03,
       "cluster": "other",
       "lat": 47.8391234216838,
@@ -6693,7 +6693,7 @@
       "adr4": "G5C2W8",
       "cluster": "other",
       "lat": 49.19972640407975,
-      "lon": -68.25949853747149,
+      "lon": -68.25997970866506,
       "géocodé": "OUI"
     },
     {
@@ -6716,8 +6716,8 @@
       "google2025": 56128.97,
       "google2026": 58496.29,
       "cluster": "other",
-      "lat": 45.527832876722634,
-      "lon": -73.34223887813633,
+      "lat": 45.527483515664734,
+      "lon": -73.34174019178487,
       "géocodé": "OUI"
     },
     {
@@ -6834,11 +6834,11 @@
       "neq": "1171088728",
       "jurForme": "Org. sans but lucratif",
       "act1Desc": "Télévision",
-      "localité": "CANADA",
+      "localité": "Québec",
       "dateConsti": "2015-07-08",
       "objet": "Télévision communautaire",
-      "adr1": "2640 rue Laflèche ",
-      "adr2": "Saint-Paulin (Québec)",
+      "adr1": "2640 rue Laflèche",
+      "adr2": "Saint-Paulin",
       "adr4": "J0K3G0",
       "cluster": "community",
       "lat": 46.415714078761624,
@@ -8552,7 +8552,7 @@
       "adr2": "Wendake (Québec)",
       "adr4": "G0A4V0",
       "montant": 49903.41,
-      "google2025": 23604,
+      "google2025": 23604.0,
       "google2026": 26299.41,
       "cluster": "community",
       "lat": 46.86946156728799,
@@ -8588,7 +8588,7 @@
       "adr2": "Ottawa (Ontario)",
       "adr4": "K1P1K9",
       "montant": 13885932.56,
-      "google2025": 6860000,
+      "google2025": 6860000.0,
       "google2026": 7025932.56,
       "cluster": "other",
       "lat": 45.42118922421912,
@@ -9738,6 +9738,23 @@
       "id": "Zone911",
       "type": "Publication",
       "cluster": "other"
+    },
+    {
+      "id": "Le Journal de Boucherville",
+      "type": "Publication",
+      "cluster": "other"
+    },
+    {
+      "id": "Chatham Asset Management",
+      "type": "Autre",
+      "localité": "USA",
+      "adr1": "26 Main St, Ste 204",
+      "adr3": "Chatham, NJ",
+      "adr4": "07928",
+      "cluster": "other",
+      "lat": 40.739756144029165,
+      "lon": -74.37276687886776,
+      "géocodé": "JHR"
     }
   ],
   "links": [
@@ -13804,14 +13821,14 @@
       "pct": 100
     },
     {
-      "source": "Maskinongé Média (organisation)",
+      "source": "Réseau Québec Média",
       "target": "Maskinongé Média",
       "lien_raw": "100",
       "pct": 100
     },
     {
       "source": "Fédération des télévisions communautaires autonomes du Québec",
-      "target": "Maskinongé Média (organisation)",
+      "target": "Réseau Québec Média",
       "lien_raw": "membre"
     },
     {
@@ -15174,6 +15191,18 @@
     {
       "source": "Vincent Fradet",
       "target": "Zone911",
+      "lien_raw": "100",
+      "pct": 100
+    },
+    {
+      "source": "Les Versants du Mont-Bruno Inc.",
+      "target": "Le Journal de Boucherville",
+      "lien_raw": "100",
+      "pct": 100
+    },
+    {
+      "source": "Chatham Asset Management",
+      "target": "POSTMEDIA NETWORK INC.",
       "lien_raw": "100",
       "pct": 100
     }
