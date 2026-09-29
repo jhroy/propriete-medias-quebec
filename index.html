@@ -10368,7 +10368,7 @@
 			"cluster": "other"
 		},
 		{
-			"id": "XXXX-FM (Joliette)",
+			"id": "CJLO-FM (Joliette)",
 			"type": "Station",
 			"cluster": "other"
 		},
@@ -15832,7 +15832,7 @@
 		},
 		{
 			"source": "ARSENAL MEDIA INC.",
-			"target": "XXXX-FM (Joliette)",
+			"target": "CJLO-FM (Joliette)",
 			"lien_raw": "100",
 			"pct": 100
 		},
@@ -15867,18 +15867,7 @@
 // ================================================================
 // COORDONNÉES FIGÉES DE CHAQUE ÉLÉMENT — bloc à éditer à la main
 // ================================================================
-// Chaque entrée fixe la position exacte (x, y) d'une entité, dans le
-// même système de coordonnées que "X (position finale)" / "Y (position
-// finale)" du tableau exporté. Pour déplacer un élément : changez ses
-// valeurs x / y ici, sauvegardez, rouvrez le fichier — sa position ne
-// sera plus recalculée par l'algorithme ni par la simulation.
-//
-// Une entité absente de cette liste (par ex. si vous ajoutez une
-// nouvelle ligne dans DATA sans lui donner de coordonnées) reste
-// positionnée automatiquement par l'algorithme habituel, comme avant.
-//
-// Le bouton « Réorganiser » ne touche pas non plus aux entités listées
-// ici — il ne relance la simulation que pour celles qui n'y sont pas.
+// La variable "COORDS" place chaque élément précisément dans l'infographie "grappes" de départ
 const COORDS = {
 	"«LE CYRI-LIEN», JOURNAL COMMUNAUTAIRE DE ST-CYRILLE-DE-L'ISLET": { x: 13954.7, y: 13513.9 },
 	"101885 CANADA LTÉE": { x: 18931.6, y: 457.5 },
@@ -16956,7 +16945,7 @@ const COORDS = {
 	"West Quebec Post": { x: 2880.6, y: 7602 },
 	"Westmount Independent": { x: 771.9, y: 10529 },
 	"William Nicholls": { x: 18454.1, y: 13969.6 },
-	"XXXX-FM (Joliette)": { x: 18374.4, y: 7906.2 },
+	"CJLO-FM (Joliette)": { x: 18374.4, y: 7906.2 },
 	"Yanick Parenteau": { x: 3516.2, y: 9253.2 },
 	"Your News": { x: 5046.7, y: 9587.5 },
 	"Yves Lafontaine": { x: 8907.3, y: 5181.8 },
@@ -17061,8 +17050,8 @@ const tooltip = d3.select('#tooltip');
 let width = window.innerWidth, height = window.innerHeight;
 svg.attr('viewBox', [0, 0, width, height]);
 
-// Le panneau latéral n'existe pas sous 768 px : la carte dispose alors de
-// toute la largeur de l'écran.
+// Le panneau latéral n'existe pas sous 768 px (version pour téléphone)
+// la carte dispose alors de toute la largeur de l'écran.
 function isMobileView() {
 	return window.matchMedia('(max-width: 768px)').matches;
 }
@@ -17293,7 +17282,8 @@ Object.values(componentGroups).forEach(group => {
 	group.sort((a, b) => b._funding - a._funding || b.ids.length - a.ids.length || d3.ascending(a.ids[0], b.ids[0]));
 });
 
-// --- Disposition « aérée » des nuages -----------------------------------
+// Commentaire généré par Claude (complété par JHROY)
+// >>> Disposition « aérée » des nuages :
 // Chaque composante (un « nuage » : une famille de propriété) reçoit une boîte
 // dont la taille est proportionnelle à son nombre de noeuds — les grandes
 // familles (Québecor, Cogeco, Bell…) obtiennent beaucoup d'air, les petites
@@ -17354,7 +17344,7 @@ components.forEach(component => {
 });
 
 // Un palier trop peuplé (les 71 journaux communautaires, p. ex.) est replié sur
-// plusieurs rangs plutôt que de former un ruban interminable.
+// plusieurs rangs plutôt que de former un ruban interminable (selon instructions JH Roy).
 // Poids d'un lien de propriété, servant à départager les propriétaires
 // multiples : une participation majoritaire l'emporte sur une participation
 // minoritaire, qui l'emporte sur une simple adhésion associative.
@@ -17377,14 +17367,6 @@ function control(owner, owned) {
 
 // --- Disposition interne d'un nuage : arbre de propriété, calculé de bas en
 // haut (Reingold-Tilford adapté aux paliers).
-//
-// L'ancienne version étalait chaque palier sur toute la largeur du nuage, ce
-// qui produisait de longs éventails : les 20 stations de Cogeco Média
-// partaient en rayons sur 2 000 px et croisaient celles de Québecor. Ici, on
-// mesure d'abord la largeur dont chaque sous-arbre a besoin, puis on pose les
-// frères côte à côte et on centre le propriétaire au-dessus d'eux. Les filiales
-// d'un même propriétaire forment donc un bloc compact, immédiatement lisible,
-// et la largeur totale du nuage est celle strictement nécessaire.
 
 function layoutComponent(component) {
 	const ids = component.ids;
@@ -17439,6 +17421,7 @@ function layoutComponent(component) {
 	// leur place est en haut. Sans quoi Marc Simard, dont la participation passe
 	// par deux sociétés de portefeuille, se retrouvait deux niveaux sous Pierre
 	// Karl Péladeau, qui occupe pourtant la même position d'actionnaire ultime.
+	// JH Roy : Mais c'est correct, mon Claude! J'ai changé manuellement la position XY de Simard.
 	for (let pass = 0; pass < 3; pass++) {
 		ids.forEach(id => {
 			if (nodeById.get(id).type === 'Individu') return;
@@ -17491,7 +17474,7 @@ function layoutComponent(component) {
 	// Des sous-arbres, en revanche, ne doivent pas être repliés à la légère : le
 	// lien qui descend vers une entité reléguée en deuxième étagère doit
 	// traverser tout ce qui occupe la première. C'est ce qui faisait passer les
-	// liens d'Arsenal vers Hit Country, CJSQ-FM et XXXX-FM au travers de la
+	// liens d'Arsenal vers Hit Country, CJSQ-FM et CJLO-FM au travers de la
 	// grille du réseau O — 14 croisements pour un arbre qui n'en demande aucun.
 	// On les garde donc sur une seule ligne, sauf largeur déraisonnable (les
 	// 70 membres de l'AMECQ, où le repli reste le moindre mal).
@@ -17539,6 +17522,9 @@ function layoutComponent(component) {
 		// leurs 71 publications) au lieu d'un buisson en étoile. Le repli reste
 		// réservé aux fratries de vrais sous-arbres, où la largeur devient sinon
 		// déraisonnable.
+		//
+		// Sympatoche ces commentaires!
+		//
 		// Une fratrie plate — un organisme, son média, rien de plus — donne aux
 		// fédérations communautaires leurs étages francs. Mais 69 organismes sur
 		// une seule ligne s'étalent sur 10 000 px : on les répartit en sous-étages
@@ -17792,7 +17778,7 @@ function layoutComponent(component) {
 				if (!gained) break;
 			}
 			// Le décrochage « médias en bas » est un souhait, pas une règle absolue :
-			// chez Arsenal Média, faire descendre CJSQ-FM et XXXX-FM au niveau des
+			// chez Arsenal Média, faire descendre CJSQ-FM et CJLO-FM au niveau des
 			// stations des réseaux obligeait leurs liens à traverser ces réseaux. On
 			// le remet donc en cause là où il coûte plus qu'il ne rapporte.
 			const dropped = [];
