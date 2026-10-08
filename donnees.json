@@ -17,6 +17,23 @@
       "géocodé": "OUI"
     },
     {
+      "id": "LES ÉDITIONS DU JOURNAL DE L'ASSURANCE INC.",
+      "type": "Autre",
+      "neq": "1143348796",
+      "jurForme": "Société par actions",
+      "act1Desc": "Autres industries de l'édition",
+      "act2Desc": "Agences de spectacles et d'artistes",
+      "localité": "QUÉBEC",
+      "dateConsti": "1992-07-06",
+      "adr1": "31 crois. Louis-Arthur",
+      "adr2": "Laval (Québec)",
+      "adr4": "H7G3Z8",
+      "cluster": "other",
+      "lat": 45.57207990543132,
+      "lon": -73.6720958644196,
+      "géocodé": "JHR"
+    },
+    {
       "id": "101885 CANADA LTÉE",
       "type": "Autre",
       "neq": "1145619186",
@@ -690,6 +707,11 @@
       "cluster": "other"
     },
     {
+      "id": "Serge Therrien",
+      "type": "Individu",
+      "cluster": "other"
+    },
+    {
       "id": "Alta Newspaper Group Limited Partnership",
       "type": "Éditeur",
       "neq": "LP0433265",
@@ -869,6 +891,11 @@
     },
     {
       "id": "atuvu.ca",
+      "type": "Publication",
+      "cluster": "other"
+    },
+    {
+      "id": "Le Journal de l’assurance",
       "type": "Publication",
       "cluster": "other"
     },
@@ -3352,8 +3379,8 @@
       "adr2": "Baie-Comeau (Québec)",
       "adr4": "G5C2W8",
       "cluster": "other",
-      "lat": 49.19972640407975,
-      "lon": -68.25949853747149,
+      "lat": 49.19971040742204,
+      "lon": -68.25936749663482,
       "géocodé": "OUI"
     },
     {
@@ -4568,8 +4595,8 @@
       "adr2": "Baie-Comeau (Québec)",
       "adr4": "G5C2W8",
       "cluster": "other",
-      "lat": 49.19972640407975,
-      "lon": -68.25949853747149,
+      "lat": 49.199780231396026,
+      "lon": -68.25976335296046,
       "géocodé": "OUI"
     },
     {
@@ -6621,8 +6648,8 @@
       "adr2": "Baie-Comeau (Québec)",
       "adr4": "G5C2W8",
       "cluster": "other",
-      "lat": 49.19972640407975,
-      "lon": -68.25949853747149,
+      "lat": 49.1998690965363,
+      "lon": -68.25954963825576,
       "géocodé": "OUI"
     },
     {
@@ -9724,6 +9751,17 @@
       "source": "Louis-Jasmin Picard",
       "target": "10320633 CANADA INC. (Gravité Media)",
       "lien_raw": "Non majoritaire"
+    },
+    {
+      "source": "LES ÉDITIONS DU JOURNAL DE L'ASSURANCE INC.",
+      "target": "Le Journal de l’assurance",
+      "lien_raw": "100",
+      "pct": 100
+    },
+    {
+      "source": "Serge Therrien",
+      "target": "LES ÉDITIONS DU JOURNAL DE L'ASSURANCE INC.",
+      "lien_raw": "Majoritaire"
     },
     {
       "source": "Francis Picard",
