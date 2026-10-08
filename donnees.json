@@ -382,22 +382,6 @@
       "géocodé": "JHR"
     },
     {
-      "id": "7807368 CANADA INC.",
-      "type": "Autre",
-      "neq": "1167499079",
-      "jurForme": "Société par actions",
-      "act1Desc": "Agir à titre de commandité.",
-      "localité": "Canada",
-      "dateConsti": "2011-07-04",
-      "adr1": "3500-800 rue du Square-Victoria",
-      "adr2": "Montréal (Québec)",
-      "adr4": "H3C0B4",
-      "cluster": "other",
-      "lat": 45.50062110459415,
-      "lon": -73.56196918883809,
-      "géocodé": "OUI"
-    },
-    {
       "id": "8679401 Canada Inc.",
       "type": "Autre",
       "neq": "1170468715",
@@ -1187,19 +1171,19 @@
       "géocodé": "JHR"
     },
     {
-      "id": "CDP Investissements Inc.",
+      "id": "Etapism Inc.",
       "type": "Autre",
-      "neq": "1148138523",
+      "neq": "1147959150",
       "jurForme": "Société par actions",
-      "act1Desc": "COMPAGNIE DE GESTION",
+      "act1Desc": "Sociétés de portefeuille (holdings)",
       "localité": "QUÉBEC",
-      "dateConsti": "1998-11-09",
-      "adr1": "A12-1000 PLACE Jean-Paul-Riopelle",
+      "dateConsti": "1998-05-14",
+      "adr1": "1400-500 place d'Armes",
       "adr2": "Montréal (Québec)",
-      "adr4": "H2Z2B3",
+      "adr4": "H2Y2W2",
       "cluster": "other",
-      "lat": 45.502873815910256,
-      "lon": -73.5617763466495,
+      "lat": 45.50440455927004,
+      "lon": -73.55759581318503,
       "géocodé": "JHR"
     },
     {
@@ -2951,12 +2935,6 @@
       "cluster": "other"
     },
     {
-      "id": "Dominic Becotte",
-      "type": "Individu",
-      "rayonnement": 386052.28,
-      "cluster": "other"
-    },
-    {
       "id": "Droit de Parole",
       "type": "Publication",
       "cluster": "community"
@@ -3285,23 +3263,6 @@
       "cluster": "other"
     },
     {
-      "id": "FONDS XPNDCROISSANCE S.E.C.",
-      "type": "Autre",
-      "neq": "3371043053",
-      "nom2": "XPNDCROISSANCE FUND L.P.",
-      "jurForme": "Société en commandite",
-      "act1Desc": "-",
-      "dateConsti": "2015-06-16",
-      "objet": "Investissements",
-      "adr1": "3500-800 rue du Square-Victoria",
-      "adr2": "Montréal (Québec)",
-      "adr4": "H3C0B4",
-      "cluster": "other",
-      "lat": 45.50062110459415,
-      "lon": -73.56196918883809,
-      "géocodé": "OUI"
-    },
-    {
       "id": "Francis Picard",
       "type": "Individu",
       "rayonnement": 550321.12,
@@ -3391,8 +3352,8 @@
       "adr2": "Baie-Comeau (Québec)",
       "adr4": "G5C2W8",
       "cluster": "other",
-      "lat": 49.19999869018406,
-      "lon": -68.2592579518747,
+      "lat": 49.19972640407975,
+      "lon": -68.25949853747149,
       "géocodé": "OUI"
     },
     {
@@ -3442,22 +3403,6 @@
       "lat": 45.48897093238068,
       "lon": -73.6008275114712,
       "géocodé": "JHR"
-    },
-    {
-      "id": "GESTION FONDS XPND S.E.C.",
-      "type": "Autre",
-      "neq": "3367499376",
-      "nom2": "XPND FUND MANAGEMENT L.P.",
-      "jurForme": "Société en commandite",
-      "act1Desc": "Agir à titre de commandité",
-      "objet": "Investissements",
-      "adr1": "3500-800 rue du Square-Victoria",
-      "adr2": "Montréal (Québec)",
-      "adr4": "H3C0B4",
-      "cluster": "other",
-      "lat": 45.50062110459415,
-      "lon": -73.56196918883809,
-      "géocodé": "OUI"
     },
     {
       "id": "GESTION HEBDOS LTÉE",
@@ -3936,22 +3881,6 @@
       "cluster": "other",
       "lat": 45.553812974727016,
       "lon": -73.67348233847946,
-      "géocodé": "JHR"
-    },
-    {
-      "id": "Investissement Québec",
-      "type": "Autre",
-      "neq": "8831859242",
-      "jurForme": "Société par actions",
-      "act1Desc": "-",
-      "act2Desc": "-",
-      "dateConsti": "2011-04-01",
-      "adr1": "060-1195 AVE Lavigerie",
-      "adr2": "Québec (Québec)",
-      "adr4": "G1V4N3",
-      "cluster": "other",
-      "lat": 46.765420392870006,
-      "lon": -71.29432209397525,
       "géocodé": "JHR"
     },
     {
@@ -4639,8 +4568,8 @@
       "adr2": "Baie-Comeau (Québec)",
       "adr4": "G5C2W8",
       "cluster": "other",
-      "lat": 49.199454117975435,
-      "lon": -68.2592579518747,
+      "lat": 49.19972640407975,
+      "lon": -68.25949853747149,
       "géocodé": "OUI"
     },
     {
@@ -6693,7 +6622,7 @@
       "adr4": "G5C2W8",
       "cluster": "other",
       "lat": 49.19972640407975,
-      "lon": -68.25997970866506,
+      "lon": -68.25949853747149,
       "géocodé": "OUI"
     },
     {
@@ -6716,8 +6645,8 @@
       "google2025": 56128.97,
       "google2026": 58496.29,
       "cluster": "other",
-      "lat": 45.527483515664734,
-      "lon": -73.34174019178487,
+      "lat": 45.527832876722634,
+      "lon": -73.34223887813633,
       "géocodé": "OUI"
     },
     {
@@ -9981,13 +9910,8 @@
     },
     {
       "source": "Alexandre Taillefer",
-      "target": "7807368 CANADA INC.",
+      "target": "Etapism Inc.",
       "lien_raw": "Majoritaire"
-    },
-    {
-      "source": "Dominic Becotte",
-      "target": "7807368 CANADA INC.",
-      "lien_raw": "Non majoritaire"
     },
     {
       "source": "Jean-Yves Gourd",
@@ -11853,26 +11777,6 @@
       "lien_raw": "Non majoritaire"
     },
     {
-      "source": "Fonds de solidarité des travailleurs du Québec",
-      "target": "FONDS XPNDCROISSANCE S.E.C.",
-      "lien_raw": "commanditaire"
-    },
-    {
-      "source": "Investissement Québec",
-      "target": "FONDS XPNDCROISSANCE S.E.C.",
-      "lien_raw": "commanditaire"
-    },
-    {
-      "source": "CDP Investissements Inc.",
-      "target": "FONDS XPNDCROISSANCE S.E.C.",
-      "lien_raw": "commanditaire"
-    },
-    {
-      "source": "GESTION FONDS XPND S.E.C.",
-      "target": "FONDS XPNDCROISSANCE S.E.C.",
-      "lien_raw": "commanditaire"
-    },
-    {
       "source": "3091-2703 QUÉBEC INC. (Groupe Hom)",
       "target": "Fugues",
       "lien_raw": "100",
@@ -11914,11 +11818,6 @@
       "target": "Gestion DR (2001) Inc.",
       "lien_raw": "100",
       "pct": 100
-    },
-    {
-      "source": "7807368 CANADA INC.",
-      "target": "GESTION FONDS XPND S.E.C.",
-      "lien_raw": "commanditaire"
     },
     {
       "source": "Hugo Levasseur",
@@ -12519,7 +12418,7 @@
       "pct": 100
     },
     {
-      "source": "FONDS XPNDCROISSANCE S.E.C.",
+      "source": "Mishmash Media Inc.",
       "target": "L’actualité",
       "lien_raw": "100",
       "pct": 100
@@ -13899,7 +13798,7 @@
       "pct": 100
     },
     {
-      "source": "FONDS XPNDCROISSANCE S.E.C.",
+      "source": "Etapism Inc.",
       "target": "Mishmash Media Inc.",
       "lien_raw": "Majoritaire"
     },
@@ -15200,7 +15099,7 @@
     },
     {
       "source": "ARSENAL MEDIA INC.",
-      "target": "XXXX-FM (Joliette)",
+      "target": "CJLO-FM (Joliette)",
       "lien_raw": "100",
       "pct": 100
     },
